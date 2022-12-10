@@ -23,6 +23,9 @@
 
 # Watchmaker resource
 
+## Books
+- Practical Watch Repairing -- Donald de Carlo
+
 ## Tools and supplies
 - [Gleave London](https://gleave.london/straps/)
 - [Eternal tools](https://www.eternaltools.com/)
