@@ -8,9 +8,7 @@
 - [DIY Watch Club](https://shop.diywatch.club/)
 - [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
 - [BA111OD](https://ba111od.com/)
-
-## Mods
-- [Seiko mods](https://www.namokimods.com/)
+- [Seiko 5 mods](https://www.namokimods.com/)
 
 ## Bracelets
 - [Forstner steel bracelets](https://forstnerbands.com/)
