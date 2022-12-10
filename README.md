@@ -6,6 +6,7 @@
 - [Shoreham](https://www.shorehamwatches.com/)
 - [Forge and Foster](https://forgeandfoster.com/)
 - [DIY Watch Club](https://shop.diywatch.club/)
+- [Giuliano Mazzuoli] (https://giulianomazzuoli.com/)
 
 ## Mods
 - [Seiko mods](https://www.namokimods.com/)
