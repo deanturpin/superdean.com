@@ -36,7 +36,7 @@
 
 ---
 
-# Watchmaker resources
+# Watchmaking resources
 
 ## Books and training
 - Practical Watch Repairing -- Donald de Carlo
@@ -52,7 +52,6 @@
 | 6	  | 21600 |
 | 7	  | 25200 |
 | 8	  | 28800 |
-
 
 ## Tools and supplies
 - [Gleave London](https://gleave.london/straps/)
