@@ -25,7 +25,11 @@
 - [Teddy Baldasssarre](https://teddybaldassarre.com)
 - [Pride and Pinion](https://prideandpinion.com)
 - [Delray Watch](https://delraywatch.com)
+- [Watches of Switzerland](https://www.watches-of-switzerland.co.uk/)
 - [The Timeteller shop](https://thetimetellershop.com/)
+
+## Films
+- [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/)
 
 ## Price trackers
 - [Watch Charts](https://watchcharts.com/)
