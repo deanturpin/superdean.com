@@ -39,8 +39,12 @@
 
 # Watchmaking resources
 
-## Books and training
+## Books
 - Practical Watch Repairing -- Donald de Carlo
+- Lessons in Horology -- Grossman 
+- Practical Treatise on Gearing -- Brown and Sharpe 
+
+## YouTube channels
 - [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival)
 
 ## Beat frequencies
