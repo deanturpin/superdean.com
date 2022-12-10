@@ -3,11 +3,12 @@
 ## Microbrands
 - [Christopher Ward](https://www.christopherward.com/)
 - [Studio Underd0g](https://underd0g.com/)
-- https://www.shorehamwatches.com/
-- https://forgeandfoster.com/
+- [Shoreham](https://www.shorehamwatches.com/)
+- [Forge and Foster](https://forgeandfoster.com/)
+- [DIY Watch Club](https://shop.diywatch.club/)
 
 ## Mods
-- https://www.namokimods.com/
+- [Seiko mods](https://www.namokimods.com/)
 
 ## Bracelets
 - [Forstner steel bracelets](https://forstnerbands.com/)
@@ -18,9 +19,13 @@
 ## Leather straps
 - [Gleave London](https://gleave.london/straps/)
 
-## Watchmaker supplies
+---
+
+# Watchmaker resource
+
+## Tools and supplies
 - [Gleave London](https://gleave.london/straps/)
-- https://www.eternaltools.com/moebius-8300-classic-grease-for-watchmakers
+- [Eternal tools](https://www.eternaltools.com/)
 - [H&S Walsh](https://www.hswalsh.com/)
-- https://shop.diywatch.club/collections/watchmaking-tools
+- [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
 
