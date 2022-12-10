@@ -1,4 +1,5 @@
-# Watch resources
+# POSH BOYS WATCH CLUB
+Society for the preservation, promotion and pure pleasure of watches.
 
 ## Microbrands
 - [Christopher Ward](https://www.christopherward.com/)
@@ -10,6 +11,7 @@
 - [BA111OD](https://ba111od.com/)
 - [Seiko 5 mods](https://www.namokimods.com/)
 - [Kopf](http://kopf.watch/)
+- [Minhoon Yoo](https://minhoonyoo.com/)
 
 ## Straps and bracelets
 - [Watch Gecko](https://www.watchgecko.com/)
