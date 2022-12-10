@@ -27,6 +27,9 @@
 - [Delray Watch](https://delraywatch.com)
 - [The Timeteller shop](https://thetimetellershop.com/)
 
+## Price trackers
+- [Watch Charts](https://watchcharts.com/)
+
 ---
 
 # Watchmaker resources
