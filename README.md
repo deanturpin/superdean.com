@@ -21,7 +21,7 @@
 
 ---
 
-# Watchmaker resource
+# Watchmaker resources
 
 ## Books
 - Practical Watch Repairing -- Donald de Carlo
