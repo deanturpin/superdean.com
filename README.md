@@ -9,6 +9,7 @@
 - [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
 - [BA111OD](https://ba111od.com/)
 - [Seiko 5 mods](https://www.namokimods.com/)
+- [Kopf](http://kopf.watch/)
 
 ## Bracelets
 - [Forstner steel bracelets](https://forstnerbands.com/)
@@ -57,6 +58,7 @@
 | 8	  | 28800 |
 
 ## Tools and supplies
+- [Lucius Atelier](https://luciusatelier.com/)
 - [Gleave London](https://gleave.london/straps/)
 - [Eternal tools](https://www.eternaltools.com/)
 - [H&S Walsh](https://www.hswalsh.com/)
