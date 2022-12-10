@@ -1,0 +1,10 @@
+pages:
+  image: ubuntu:devel
+  stage: deploy
+  script:
+    - apt update
+    - apt install --yes curl
+    - curl -L md2html.germs.dev | bash
+  artifacts:
+    paths: [public/]
+
