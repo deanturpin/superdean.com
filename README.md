@@ -27,7 +27,7 @@
 - [The Timeteller shop](https://thetimetellershop.com/)
 
 ## Films
-- [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/)
+- [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) -- featuring George Daniels and Roger W. Smith
 
 ## Price trackers
 - [Watch Charts](https://watchcharts.com/)
