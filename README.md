@@ -11,14 +11,11 @@
 - [Seiko 5 mods](https://www.namokimods.com/)
 - [Kopf](http://kopf.watch/)
 
-## Bracelets
-- [Forstner steel bracelets](https://forstnerbands.com/)
-
-## Fabric straps
-- [Strap Bandits](https://www.strapbandits.com/)
-
-## Leather straps
-- [Gleave London](https://gleave.london/straps/)
+## Straps and bracelets
+- [Watch Gecko](https://www.watchgecko.com/)
+- [Forstner](https://forstnerbands.com/) -- steel bracelets
+- [Strap Bandits](https://www.strapbandits.com/) -- mid-priced fabric straps
+- [Gleave London](https://gleave.london/straps/) -- inexpensive leather straps
 
 ## Stores
 - [Chrono24](https://www.chrono24.co.uk)
