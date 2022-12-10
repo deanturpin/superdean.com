@@ -34,6 +34,9 @@
 ## Price trackers
 - [Watch Charts](https://watchcharts.com/)
 
+## Cleaning
+- [Polywatch](https://www.polywatch.de/) -- acrylic crystal polish
+
 ---
 
 # Watchmaking resources
@@ -58,6 +61,5 @@
 - [Eternal tools](https://www.eternaltools.com/)
 - [H&S Walsh](https://www.hswalsh.com/)
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
-- [Polywatch](https://www.polywatch.de/) -- acrylic polish
 - [Cousins](https://www.cousinsuk.com)
 
