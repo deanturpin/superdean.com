@@ -23,14 +23,17 @@ But are sold out now so tough.
 - [Studio Underd0g Go0fy Panda (Gen2)](https://underd0g.com/products/01gpb)
 
 ## Straps and bracelets
-- [Watch Gecko](https://www.watchgecko.com/)
-- [Forstner](https://forstnerbands.com/) -- steel bracelets
+- [Gleave London](https://gleave.london/straps/) -- inexpensive leather straps
+- [Barton](https://www.bartonwatchbands.com/) -- low- to mid-priced (also Horween leather)
 - [Strap Tailor](https://thestraptailor.com/) -- mid- to high-priced straps
 - [Strap Bandits](https://www.strapbandits.com/) -- mid-priced fabric straps
-- [Gleave London](https://gleave.london/straps/) -- inexpensive leather straps
+- [Watch Gecko](https://www.watchgecko.com/)
+
+### High end
+- [Forstner](https://forstnerbands.com/) -- steel bracelets
 - [Vulcain](https://www.vulcanwatchstraps.com/) -- Rolex rubber straps
-- [Rubber B](https://rubberb.com/) -- rubber straps for high-end watches
-- [Everest](https://www.everestbands.com/) -- high end
+- [Rubber B](https://rubberb.com/) -- rubber straps
+- [Everest](https://www.everestbands.com/)
 
 ## Stores
 - [Chrono24](https://www.chrono24.co.uk)
@@ -85,12 +88,15 @@ Taking it to the next level.
 | 7	  | 25200 |
 | 8	  | 28800 |
 
-## Tools and supplies
+## Pro tools and supplies
 - [Lucius Atelier](https://luciusatelier.com/)
 - [Gleave London](https://gleave.london/straps/)
 - [Eternal tools](https://www.eternaltools.com/)
 - [H&S Walsh](https://www.hswalsh.com/)
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
 - [Cousins](https://www.cousinsuk.com)
-- [Everest](https://www.everestbands.com/collections/watch-tools-springbars) -- enthusiast tools
+
+## Enthusiast tools
+- [Everest](https://www.everestbands.com/collections/watch-tools-springbars)
+- [Barton](https://www.bartonwatchbands.com/en-gb/collections/watch-band-hardware)
 
