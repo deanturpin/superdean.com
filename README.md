@@ -78,6 +78,7 @@ Taking it to the next level; be warned: the rabbit hole goes deep...
 
 ## YouTube channels
 - [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival)
+- [Nekkid Watchmaker](https://youtube.com/@NekkidWatchmaker)
 
 ## Beat frequencies
 |Beats per second | Vibrations per hour |
