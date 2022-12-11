@@ -30,6 +30,7 @@ But are sold out now so tough.
 - [Gleave London](https://gleave.london/straps/) -- inexpensive leather straps
 - [Vulcain](https://www.vulcanwatchstraps.com/) -- Rolex rubber straps
 - [Rubber B](https://rubberb.com/) -- rubber straps for high-end watches
+- [Everest](https://www.everestbands.com/) -- high end
 
 ## Stores
 - [Chrono24](https://www.chrono24.co.uk)
@@ -90,4 +91,5 @@ https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-waiting-list
 - [H&S Walsh](https://www.hswalsh.com/)
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
 - [Cousins](https://www.cousinsuk.com)
+- [Everest](https://www.everestbands.com/collections/watch-tools-springbars) -- enthusiast tools
 
