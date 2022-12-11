@@ -1,7 +1,7 @@
 # POSH BOYS WATCH CLUB
 Society for the preservation, promotion and pure pleasure of watches.
 
-_support@poshboys.club_
+Contact: support@poshboys.club
 
 ## Microbrands
 - [Christopher Ward](https://www.christopherward.com/)
@@ -67,7 +67,7 @@ See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-
 ---
 
 # Watchmaking
-Taking it to the next level.
+Taking it to the next level; be warned: the rabbit hole goes deep...
 
 ## Books
 - Practical Watch Repairing -- Donald de Carlo
