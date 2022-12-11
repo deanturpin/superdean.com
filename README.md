@@ -89,6 +89,9 @@ Taking it to the next level.
 | 7	  | 25200 |
 | 8	  | 28800 |
 
+## Essential tools
+![image-4.png](./image-4.png)
+
 ## Pro tools and supplies
 - [Lucius Atelier](https://luciusatelier.com/)
 - [Gleave London](https://gleave.london/straps/)
