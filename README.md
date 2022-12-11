@@ -28,6 +28,7 @@ But are sold out now so tough.
 - [Strap Tailor](https://thestraptailor.com/) -- mid- to high-priced straps
 - [Strap Bandits](https://www.strapbandits.com/) -- mid-priced fabric straps
 - [Watch Gecko](https://www.watchgecko.com/)
+- [Welwyn](https://welwynwatchparts.co.uk/collections/leather-straps) - low- to mid-priced
 
 ### High end
 - [Forstner](https://forstnerbands.com/) -- steel bracelets
@@ -95,6 +96,7 @@ Taking it to the next level.
 - [H&S Walsh](https://www.hswalsh.com/)
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
 - [Cousins](https://www.cousinsuk.com)
+- [Welwyn](https://welwynwatchparts.co.uk/)
 
 ## Enthusiast tools
 - [Everest](https://www.everestbands.com/collections/watch-tools-springbars)
