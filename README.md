@@ -6,7 +6,8 @@ Contact: support@poshboys.club
 ## Microbrands
 - [Christopher Ward](https://www.christopherward.com/)
 - [Studio Underd0g](https://underd0g.com/)
-- [Shoreham](https://www.shorehamwatches.com/)
+- [Farer](https://farer.com/)
+- [Shoreham](https://www.shorehamwatches.com/) -- NH35A
 - [Forge and Foster](https://forgeandfoster.com/)
 - [DIY Watch Club](https://shop.diywatch.club/)
 - [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
