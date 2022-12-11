@@ -62,7 +62,8 @@ See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-
 
 ---
 
-# Watchmaking resources
+# Watchmaking
+Taking it to the next level.
 
 ## Books
 - Practical Watch Repairing -- Donald de Carlo
