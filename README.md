@@ -5,10 +5,10 @@ Contact: support@poshboys.club
 
 ## Microbrands
 - [Christopher Ward](https://www.christopherward.com/)
-- [Studio Underd0g](https://underd0g.com/)
+- [Studio Underd0g](https://underd0g.com/) -- Seagull
 - [Farer](https://farer.com/)
 - [Shoreham](https://www.shorehamwatches.com/) -- NH35A
-- [Forge and Foster](https://forgeandfoster.com/)
+- [Forge and Foster](https://forgeandfoster.com/) -- Seagull
 - [DIY Watch Club](https://shop.diywatch.club/)
 - [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
 - [BA111OD](https://ba111od.com/)
@@ -19,6 +19,7 @@ Contact: support@poshboys.club
 ## Straps and bracelets
 - [Watch Gecko](https://www.watchgecko.com/)
 - [Forstner](https://forstnerbands.com/) -- steel bracelets
+- [Strap Tailor](https://thestraptailor.com/) -- mid- to high-priced straps
 - [Strap Bandits](https://www.strapbandits.com/) -- mid-priced fabric straps
 - [Gleave London](https://gleave.london/straps/) -- inexpensive leather straps
 
