@@ -51,14 +51,14 @@ But are sold out now so tough.
 - [Polywatch](https://www.polywatch.de/) -- acrylic crystal polish
 
 ## Getting on the Rolex waiting list
+See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-waiting-list).
+
 - Meet with multiple dealers
 - Some value purchase history, some value relationships
 - Set up appointments and multiple ADs and assess which store is best
 - Work your way up
 - Only buy what you love, don't fall for dealer tricks
 - Grow the relationship, be the person they want to call
-
-https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-waiting-list
 
 ---
 
