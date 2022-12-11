@@ -16,12 +16,20 @@ Contact: support@poshboys.club
 - [Kopf](http://kopf.watch/)
 - [Minhoon Yoo](https://minhoonyoo.com/)
 
+## Watches you should have bought
+But are sold out now so tough.
+
+- [Christopher Ward Bel Canto](https://www.christopherward.com/c1-bel-canto-blue.html)
+- [Studio Underd0g Go0fy Panda (Gen2)](https://underd0g.com/products/01gpb)
+
 ## Straps and bracelets
 - [Watch Gecko](https://www.watchgecko.com/)
 - [Forstner](https://forstnerbands.com/) -- steel bracelets
 - [Strap Tailor](https://thestraptailor.com/) -- mid- to high-priced straps
 - [Strap Bandits](https://www.strapbandits.com/) -- mid-priced fabric straps
 - [Gleave London](https://gleave.london/straps/) -- inexpensive leather straps
+- [Vulcain](https://www.vulcanwatchstraps.com/) -- Rolex rubber straps
+- [Rubber B](https://rubberb.com/) -- rubber straps for high-end watches
 
 ## Stores
 - [Chrono24](https://www.chrono24.co.uk)
@@ -40,6 +48,16 @@ Contact: support@poshboys.club
 
 ## Cleaning
 - [Polywatch](https://www.polywatch.de/) -- acrylic crystal polish
+
+## Getting on the Rolex waiting list
+- Meet with multiple dealers
+- Some value purchase history, some value relationships
+- Set up appointments and multiple ADs and assess which store is best
+- Work your way up
+- Only buy what you love, don't fall for dealer tricks
+- Grow the relationship, be the person they want to call
+
+https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-waiting-list
 
 ---
 
