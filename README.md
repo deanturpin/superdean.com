@@ -8,6 +8,7 @@ Contact: support@poshboys.club
 - [Studio Underd0g](https://underd0g.com/) -- Seagull
 - [Farer](https://farer.com/)
 - [Shoreham](https://www.shorehamwatches.com/) -- NH35A
+- [Spinnaker](https://spinnaker-watches.com/) -- NH35
 - [Forge and Foster](https://forgeandfoster.com/) -- Seagull
 - [DIY Watch Club](https://shop.diywatch.club/)
 - [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
