@@ -49,6 +49,7 @@ Contact: support@poshboys.club
 - Practical Watch Repairing -- Donald de Carlo
 - Lessons in Horology -- Grossman 
 - Practical Treatise on Gearing -- Brown and Sharpe 
+- [A Man and His Watch](https://www.waterstones.com/book/a-man-and-his-watch/matthew-hranek/9781579657147) (Paul Newman's Daytona) -- Matthew Hranek
 
 ## YouTube channels
 - [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival)
