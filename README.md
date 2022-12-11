@@ -1,7 +1,7 @@
 # POSH BOYS WATCH CLUB
 Society for the preservation, promotion and pure pleasure of watches.
 
-Contact: support@poshboys.club
+_support@poshboys.club_
 
 ## Microbrands
 - [Christopher Ward](https://www.christopherward.com/)
