@@ -94,14 +94,14 @@ Taking it to the next level; be warned: the rabbit hole goes deep...
 | 8	  | 28800 |
 
 ## Tools
-There are endless tools that can streamline your workflow, so I've listed them
-in order so you can add as you progress. And tools can be resold quite easily
-if you've gone far enough to scratch the itch.
+There are myriad tools that can streamline your workflow; I've listed them in
+order so you can add as you progress. And tools can be resold quite easily if
+you've gone far enough to scratch the itch.
 
-Always try to use the correct size screwdriver. You just risk chewing up the
+Always to use the correct size screwdriver. You just risk chewing up the
 blades, screw head or both.
 
-![image-4.png](./image-4.png)
+![image-4.png](image-4.png)
 
 ### Inspection
 - Eyeglass, Black No. 3.5 = 2.8x (Bergeon 4422-3.5)
@@ -145,9 +145,12 @@ that you probably can't sell on quite as easily.
 
 But do consider an ultrasonic cleaner, like [this
 one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/).
-Very reasonably priced and cool to use!
+Very reasonably-priced and cool to use.
 
 ### Degreaser
+Be careful putting your pallet forks in solvent as it can disolve the shellac
+that holds the pallet jewels in place.
+
 - Lighter fluid (readily available from a newsagent £2.99)
 - Renata essence £8
 
