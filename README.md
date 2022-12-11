@@ -15,6 +15,7 @@ Contact: support@poshboys.club
 - [Seiko 5 mods](https://www.namokimods.com/)
 - [Kopf](http://kopf.watch/)
 - [Minhoon Yoo](https://minhoonyoo.com/)
+- [The Camden Watch Company](https://www.camdenwatchcompany.com/)
 
 ## Watches you should have bought
 But are sold out now so tough.
