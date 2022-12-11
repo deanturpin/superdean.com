@@ -54,6 +54,7 @@ But are sold out now so tough.
 
 ## Cleaning
 - [Polywatch](https://www.polywatch.de/) -- acrylic crystal polish
+- [Nanoclear](https://nanoclear.com/)
 
 ## Getting on the Rolex waiting list
 See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-waiting-list).
