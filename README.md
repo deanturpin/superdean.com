@@ -114,10 +114,10 @@ You don't need much to get started, basically just having a closer look.
 - Selvyt Medium (PR) Cloth, White Size: Size A 25x25cm
 
 ### Maintain
-Next you might want to replace straps with some surface cleaning and buffing.
+Next you might want to replace straps and mabye a little light cleaning and buffing.
 
 - Bergeon 6767-F Watch Spring Bar Tool - Long
-- Polywatch -- polishing acrylic crystals
+- Polywapolishing tch -- acrylic crystal polish
 - Bergeon 2290 Polishing Buff
 
 ### Explore
