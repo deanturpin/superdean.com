@@ -108,7 +108,7 @@ if you've gone far enough to scratch the itch.
 Always use the correct size screwdriver. You just risk chewing up the blades,
 screw head or both.
 
-![image-4.png](image-4.png)
+![tools.png](tools.png)
 
 See the [full spreadsheet](tools.xlsx).
 
