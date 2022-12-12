@@ -74,8 +74,8 @@ See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-
 ---
 
 # Watchmaking
-Take it to the next level by repairing and servicing your own watches; but be
-warned: the rabbit hole goes __deep__...
+Take it to the next level by repairing and servicing your own watches; but know
+this: the rabbit hole goes __deep__...
 
 ## Books and films
 - Practical Watch Repairing -- Donald de Carlo
