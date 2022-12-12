@@ -51,9 +51,6 @@ But are sold out now so tough.
 - [Watches of Switzerland](https://www.watches-of-switzerland.co.uk/)
 - [The Timeteller shop](https://thetimetellershop.com/)
 
-## Films
-- [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) -- featuring George Daniels and Roger W. Smith
-
 ## Price trackers
 - [Watch Charts](https://watchcharts.com/)
 
@@ -80,10 +77,11 @@ See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-
 Take it to the next level by repairing and servicing your own watches; but be
 warned: the rabbit hole goes __deep__...
 
-## Books
+## Books and films
 - Practical Watch Repairing -- Donald de Carlo
 - Lessons in Horology -- Grossman 
 - Practical Treatise on Gearing -- Brown and Sharpe 
+- [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) -- featuring George Daniels and Roger W. Smith
 
 ## YouTube channels
 - [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival)
