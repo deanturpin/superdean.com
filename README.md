@@ -61,6 +61,9 @@ But are sold out now so tough.
 - [Polywatch](https://www.polywatch.de/) -- acrylic crystal polish
 - [Nanoclear](https://nanoclear.com/)
 
+## Enthusiast books
+- [A Man and His Watch](https://www.waterstones.com/book/a-man-and-his-watch/matthew-hranek/9781579657147) (Paul Newman's Daytona) -- Matthew Hranek
+
 ## Getting on the Rolex waiting list
 See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-waiting-list).
 
@@ -81,7 +84,6 @@ warned: the rabbit hole goes __deep__...
 - Practical Watch Repairing -- Donald de Carlo
 - Lessons in Horology -- Grossman 
 - Practical Treatise on Gearing -- Brown and Sharpe 
-- [A Man and His Watch](https://www.waterstones.com/book/a-man-and-his-watch/matthew-hranek/9781579657147) (Paul Newman's Daytona) -- Matthew Hranek
 
 ## YouTube channels
 - [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival)
