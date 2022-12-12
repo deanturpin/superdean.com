@@ -6,7 +6,7 @@ pages:
     - apt install --yes curl
     - curl -L md2html.germs.dev | bash
     - cp *.png public/
-    - cp tools.xlsx publi/
+    - cp tools.xlsx public/
   artifacts:
     paths: [public/]
 
