@@ -155,27 +155,31 @@ replacing broken parts at this level, rather than making new ones.
 - Plastic pointy stick / peg wood
 - Barrel press (cheap) £5
 
-### Rebuild
-Servicing usually goes hand-in-hand with the strip down and repair but it can
-also start to become quite expensive; not only in the machines but consumables
-that you probably can't sell on quite as easily.
+### Clean
+At this point it can start to become quite expensive; not only in the machines
+but consumables that you probably can't sell on quite as easily.
 
-However, do consider an ultrasonic cleaner, like [this
-one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/).
-Very reasonably-priced and cool to use.
+However, ultrasonic cleaners like [this
+one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/)
+are a good way in. Not as efficient as a proper cleaner but very
+reasonably-priced and cool to use.
 
-### Degrease
 Be careful putting your pallet forks in solvent as it can disolve the shellac
 that holds the pallet jewels in place.
 
 - Lighter fluid (readily available from a newsagent £2.99)
 - Renata essence £8
 
-### Lubricate
+### Rebuild and lubricate
 A very complicated business, but to get started you need:
 
 - A light oil for the quickest moving parts (jewels)
 - A grease on the high-friction metal-on-metal components
+
+### Regulate
+A Timegrapher is go-to tool for the job and at the low end they are
+surprisingly inexpensive. But you can get useful results from a phone app with
+an earbud mic.
 
 ## Pro tools and supplies
 - [Gleave London](https://gleave.london/straps/)
