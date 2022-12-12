@@ -206,8 +206,8 @@ surprisingly inexpensive. But you can get some useful results from a phone app;
 use with an earbud mic if you're not in a completely quiet environment.
 
 ## Pro tools and supplies
-- [Gleave London](https://gleave.london/straps/)
-- [H&S Walsh](https://www.hswalsh.com/)
+- [Gleave London](https://gleave.london/straps/) -- 
+- [H&S Walsh](https://www.hswalsh.com/) -- have a few more economy options
 - [Eternal tools](https://www.eternaltools.com/)
 - [Lucius Atelier](https://luciusatelier.com/)
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
