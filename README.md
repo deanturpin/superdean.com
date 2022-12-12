@@ -105,7 +105,7 @@ if you've gone far enough to scratch the itch.
 
 ![tools.png](tools.png)
 
-See the [full spreadsheet](tools.xlsx).
+See the [original spreadsheet](tools.xlsx).
 
 ### Inspect
 You don't need much to get started, basically just having a closer look.
@@ -124,7 +124,7 @@ Next you might want to replace straps with some surface cleaning and buffing.
 Now we're cooking: get the back off and inspect the insides for any issues.
 
 - Bergeon 8008, Rubber Case Ball -- squishy ball case back remover that works
-  far better than you might expect!
+  far better than you might expect
 - Case knife -- pen knife style
 - Case knife -- oyster shucker style; I generally prefer these to the other
   one, but it's good to have a choice for tricky cases
@@ -132,7 +132,7 @@ Now we're cooking: get the back off and inspect the insides for any issues.
 - Eyeglass, Black No. 2.5 = 4x (Bergeon 4422-2.5)
 - AF 176.530.24 Headband Eyeglass Holder -- the ones that clip on your glasses
   look nice but are much more expensive
-- Case Cushion Watch Black Gel Ø75mm Bergeon -- treat yourself to a nice gel
+- Case Cushion Watch Black Gel Ø75mm Bergeon -- treat yourself to a good gel
   cushion
 
 ### Strip down
@@ -154,7 +154,7 @@ favourite
 - Bergeon 30080 screwdriver with Blades (yellow 0.8mm)
 - Bergeon 30080 Screwdriver with Blades (red 1.2mm)
 - Bergeon 30080 Screwdriver with Blades (pink 1.6mm)
-- Dial protector -- or use the traditional half-a-baggy (or both)
+- Dial protector -- or use the traditional "ripped baggy" (or both)
 - Hand Levers, 3.0mm Tips (Bergeon 5431) -- £40... buying these hurt! I've also
   got some cheap ones from eBay for a 10th of the price
 - Hand Pusher, Red Ø0.80 - Grey Ø1.50mm (Bergeon 7404-2) -- haven't needed any
@@ -194,8 +194,8 @@ A very complicated business, but to get started you need:
 - Bergeon medium oiler (green) -- for the grease; go for the cheap ones to start with
 
 I realise that suggesting using only two viscosities will cause some people to
-spit out their tea/beer, but __you have to start__ somewhere. Also, Donald de Carlo
-only talks about "watch oil" and "clock oil" in the book above so there you go.
+spit out their tea/beer, but _you have to start somewhere_. Also, Donald de Carlo
+only talks about "watch oil" and "clock oil" in the above book so there you go.
 
 Full disclosure: I also dip my oilers straight into the jars, which is probably
 illegal in Switzerland.
