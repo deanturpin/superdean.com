@@ -105,83 +105,107 @@ There are myriad tools that can streamline your workflow; I've listed them in
 order so you can add more as you progress. And tools can be resold quite easily
 if you've gone far enough to scratch the itch.
 
-Always use the correct size screwdriver. You just risk chewing up the blades,
-screw head or both.
-
 ![tools.png](tools.png)
 
 See the [full spreadsheet](tools.xlsx).
 
 ### Inspect
-You don't need much to get started and just having a close look.
+You don't need much to get started, basically just having a closer look.
 
 - Eyeglass, Black No. 3.5 = 2.8x (Bergeon 4422-3.5)
-- Selvyt Medium (PR) Cloth, White
+- Selvyt Medium (PR) Cloth, White Size: Size A 25x25cm
 
 ### Maintain
 Next you might want to replace straps with some surface cleaning and buffing.
 
-- Spring bar tool (kit)
-- Polywatch (cleaning acrylic crystals)
-- Pin pusher (adjusting bracelets)
+- Bergeon 6767-F Watch Spring Bar Tool - Long
+- Polywatch -- polishing acrylic crystals
 - Bergeon 2290 Polishing Buff
 
 ### Explore
-Now we're cooking: get the back off and have a look on the inside for any issues.
+Now we're cooking: get the back off and inspect the insides for any issues.
 
-- Squishy ball case back remover
-- Case knife (pen knife) (kit)
-- Case knife (oyster shucker style) (kit)
+- Bergeon 8008, Rubber Case Ball -- squishy ball case back remover that works
+  far better than you might expect!
+- Case knife -- pen knife style
+- Case knife -- oyster shucker style; I generally prefer these to the other
+  one, but it's good to have a choice for tricky cases
 - Rodico Premium (Bergeon 7033-1)
 - Eyeglass, Black No. 2.5 = 4x (Bergeon 4422-2.5)
-- AF 176.530.24 Headband Eyeglass Holder
-- Case Cushion Watch Black Gel Ø75mm Bergeon 5395-75-N - HC5395-75-N (HC5395-75-N) 
+- AF 176.530.24 Headband Eyeglass Holder -- the ones that clip on your glasses
+  look nice but are much more expensive
+- Case Cushion Watch Black Gel Ø75mm Bergeon -- treat yourself to a nice gel
+  cushion
 
 ### Strip down
 This is getting serious... and you'll need quite a few more tools. But you
-should have enough to complete dismantle a basic movement. Note we are
+should have enough to completely dismantle a _basic_ movement. Note we are
 replacing broken parts at this level, rather than making new ones.
 
-- Materials box / cloche
-- Movement holder
+Always use the correct size screwdriver. You just risk chewing up the blades,
+screw head or both.
+
+- Movement Holder, Gents Size, Carbon Fibre (Bergeon 4040-P) -- essential and
+  even the Bergeon ones are reasonably-priced
+- Tweezers, Idealtek Anti-Magnetic No. 7 Very Fine, Curved Tips -- I actually
+  got a job lot of tweezers on eBay but these curved tipped ones are my
+favourite
+- Latex ESD Finger Protection Thimble Cots Medium (Pack Of 144) Bergeon 7968-18
+- Materials box / cloche -- you can never have enough
 - Bergeon 30080 screwdriver with blades (white 0.6mm)
-- Bergeon 30080 screwdrivers with Blades (yellow 0.8mm)
-- Bergeon 30080 Screwdrivers with Blades (red 1.2mm)
-- Screwdriver Ø1.60mm Bergeon 30080-H - HS1416 (HS1416) 
-- Dial protector
-- Bergeon hand levers (£40!)
-- Hand levers (cheap eBay)
-- Bergeon 7404-2 hand pusher (red 0.8mm / grey 1.5mm) -- haven't needed any other size so far!
-- Crown pinion remover (can be very expensive for such a specific tool)
-- \#2 tweezers
-- Plastic pointy stick / peg wood
-- Barrel press (cheap) £5
+- Bergeon 30080 screwdriver with Blades (yellow 0.8mm)
+- Bergeon 30080 Screwdriver with Blades (red 1.2mm)
+- Bergeon 30080 Screwdriver with Blades (pink 1.6mm)
+- Dial protector -- or use the traditional half-a-baggy (or both)
+- Hand Levers, 3.0mm Tips (Bergeon 5431) -- £40... buying these hurt! I've also
+  got some cheap ones from eBay for a 10th of the price
+- Hand Pusher, Red Ø0.80 - Grey Ø1.50mm (Bergeon 7404-2) -- haven't needed any
+  other size so far but fitting hands is still a little hit-and-miss for me
+- Crown pinion remover -- can be very expensive for such a niche tool;
+  alternatively do it carefully in a bag with tweezers (I found some blunt
+brass ones that work, pull upwards to avoid bending anything)
+- Plastic pointy stick / peg wood -- Starbucks call them "coffee stirrers" but
+  they look like peg wood to me
+- Barrel press -- eBay £5, if it's good enough for Marshall...
+- Crystal press -- eBay £15.99, screw down seems a bit more controlled; I also
+  padded the lower dies out with sticky felt furniture pads into a domed shaped
 
 ### Clean
-At this point it can start to become quite expensive; not only in the machines
-but consumables that you probably can't sell on quite as easily.
+At this point it can start to become quite expensive; not only for the machines
+but also the consumables that you probably can't sell on quite so easily.
 
 However, ultrasonic cleaners like [this
 one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/)
-are a good way in. Not as efficient as a proper cleaner but very
-reasonably-priced and cool to use.
+are a good way in. Not as efficient as a proper four-stage cleaning machine but
+very reasonably-priced and entertaining to use.
 
 Be careful putting your pallet forks in solvent as it can disolve the shellac
 that holds the pallet jewels in place.
 
-- Lighter fluid (readily available from a newsagent £2.99)
-- Renata essence £8
+- Lighter fluid -- readily available from a newsagent for £2.99
+- Renata essence -- £8
+- Basket 25mm Mini Watch Part Cleaning Basket Economy -- get a few of these,
+  you can spend quite a lot but I went economy and I don't know any better
 
 ### Rebuild and lubricate
 A very complicated business, but to get started you need:
 
-- A light oil for the quickest moving parts (jewels)
-- A grease on the high-friction metal-on-metal components
+- A light oil for the quickest moving parts -- [Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube), outrageously expensive!
+- A grease for the high-friction metal-on-metal components -- [Moebius 8300](https://www.cousinsuk.com/product/moebius-8300-all-purpose-favourite)
+- Bergeon fine oiler (red) -- for the jewels
+- Bergeon medium oiler (green) -- for the grease; go for the cheap ones to start with
+
+I realise that suggesting using only two viscosities will cause some people to
+spit out their tea/beer, but __you have to start__ somewhere. Also, Donald de Carlo
+only talks about "watch oil" and "clock oil" in the book above so there you go.
+
+Full disclosure: I also dip my oilers straight into the jars, which is probably
+illegal in Switzerland.
 
 ### Regulate
-A Timegrapher is go-to tool for the job and at the low end they are
-surprisingly inexpensive. But you can get useful results from a phone app with
-an earbud mic.
+A Timegrapher is the go-to tool for the job and at the low end they are
+surprisingly inexpensive. But you can get some useful results from a phone app;
+use with an earbud mic if you're not in a completely quiet environment.
 
 ## Pro tools and supplies
 - [Gleave London](https://gleave.london/straps/)
