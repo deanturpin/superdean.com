@@ -1,7 +1,11 @@
+# Watch resources
+
+<!--
 # POSH BOYS WATCH CLUB
 Society for the preservation, promotion and pure pleasure of watches.
 
 Contact: support@poshboys.club
+-->
 
 ## Microbrands
 - [Christopher Ward](https://www.christopherward.com/)
@@ -84,7 +88,7 @@ warned: the rabbit hole goes __deep__...
 - [Nekkid Watchmaker](https://youtube.com/@NekkidWatchmaker)
 
 ## Beat frequencies
-|Beats per second | Vibrations per hour |
+| Beats per second | Vibrations per hour |
 |---|---|
 | 3	  | 10800 |
 | 4	  | 14400 |
@@ -96,33 +100,46 @@ warned: the rabbit hole goes __deep__...
 
 ## Tools
 There are myriad tools that can streamline your workflow; I've listed them in
-order so you can add as you progress. And tools can be resold quite easily if
-you've gone far enough to scratch the itch.
+order so you can add more as you progress. And tools can be resold quite easily
+if you've gone far enough to scratch the itch.
 
-Always to use the correct size screwdriver. You just risk chewing up the
-blades, screw head or both.
+Always use the correct size screwdriver. You just risk chewing up the blades,
+screw head or both.
 
 ![image-4.png](image-4.png)
 
-### Inspection
+See the [full spreadsheet](tools.xlsx).
+
+### Inspect
+You don't need much to get started and just having a close look.
+
 - Eyeglass, Black No. 3.5 = 2.8x (Bergeon 4422-3.5)
 - Selvyt Medium (PR) Cloth, White
 
-### Maintenance
+### Maintain
+Next you might want to replace straps with some surface cleaning and buffing.
+
 - Spring bar tool (kit)
 - Polywatch (cleaning acrylic crystals)
 - Pin pusher (adjusting bracelets)
 - Bergeon 2290 Polishing Buff
 
-### Exploratory
+### Explore
+Now we're cooking: get the back off and have a look on the inside for any issues.
+
 - Squishy ball case back remover
 - Case knife (pen knife) (kit)
 - Case knife (oyster shucker style) (kit)
 - Rodico Premium (Bergeon 7033-1)
 - Eyeglass, Black No. 2.5 = 4x (Bergeon 4422-2.5)
 - AF 176.530.24 Headband Eyeglass Holder
+- Case Cushion Watch Black Gel Ø75mm Bergeon 5395-75-N - HC5395-75-N (HC5395-75-N) 
 
-### Repair
+### Strip down
+This is getting serious... and you'll need quite a few more tools. But you
+should have enough to complete dismantle a basic movement. Note we are
+replacing broken parts at this level, rather than making new ones.
+
 - Materials box / cloche
 - Movement holder
 - Bergeon 30080 screwdriver with blades (white 0.6mm)
@@ -137,35 +154,34 @@ blades, screw head or both.
 - \#2 tweezers
 - Plastic pointy stick / peg wood
 - Barrel press (cheap) £5
-- Case Cushion Watch Black Gel Ø75mm Bergeon 5395-75-N - HC5395-75-N (HC5395-75-N) 
 
-### Servicing
-Servicing usually goes hand-in-hand with the strip-down and repair but it can
+### Rebuild
+Servicing usually goes hand-in-hand with the strip down and repair but it can
 also start to become quite expensive; not only in the machines but consumables
 that you probably can't sell on quite as easily.
 
-But do consider an ultrasonic cleaner, like [this
+However, do consider an ultrasonic cleaner, like [this
 one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/).
 Very reasonably-priced and cool to use.
 
-### Degreaser
+### Degrease
 Be careful putting your pallet forks in solvent as it can disolve the shellac
 that holds the pallet jewels in place.
 
 - Lighter fluid (readily available from a newsagent £2.99)
 - Renata essence £8
 
-### Lubrication
-A very complicated business, but basically you need:
+### Lubricate
+A very complicated business, but to get started you need:
+
 - A light oil for the quickest moving parts (jewels)
-- A slightly heavier oil for the metal-on-metal parts
-- And a grease on the high-friction components (e.g., keyless works)
+- A grease on the high-friction metal-on-metal components
 
 ## Pro tools and supplies
-- [Lucius Atelier](https://luciusatelier.com/)
 - [Gleave London](https://gleave.london/straps/)
-- [Eternal tools](https://www.eternaltools.com/)
 - [H&S Walsh](https://www.hswalsh.com/)
+- [Eternal tools](https://www.eternaltools.com/)
+- [Lucius Atelier](https://luciusatelier.com/)
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
 - [Cousins](https://www.cousinsuk.com)
 - [Welwyn](https://welwynwatchparts.co.uk/)
