@@ -1,11 +1,7 @@
-# Watch resources
-
-<!--
 # POSH BOYS WATCH CLUB
 Society for the preservation, promotion and pure pleasure of watches.
 
 Contact: support@poshboys.club
--->
 
 ## Microbrands
 - [Christopher Ward](https://www.christopherward.com/)
@@ -35,6 +31,8 @@ But are sold out now so tough.
 - [Strap Bandits](https://www.strapbandits.com/) -- mid-priced fabric straps
 - [Watch Gecko](https://www.watchgecko.com/)
 - [Welwyn](https://welwynwatchparts.co.uk/collections/leather-straps) - low- to mid-priced
+- [Uncle](https://unclestraps.com/) -- mid-priced
+- [Delug](https://delugs.com/) -- mid- to high-priced
 
 ### High end
 - [Forstner](https://forstnerbands.com/) -- steel bracelets
@@ -206,8 +204,8 @@ surprisingly inexpensive. But you can get some useful results from a phone app;
 use with an earbud mic if you're not in a completely quiet environment.
 
 ## Pro tools and supplies
-- [Gleave London](https://gleave.london/straps/) -- 
-- [H&S Walsh](https://www.hswalsh.com/) -- have a few more economy options
+- [Gleave London](https://gleave.london/straps/)
+- [H&S Walsh](https://www.hswalsh.com/) -- a few more economy options
 - [Eternal tools](https://www.eternaltools.com/)
 - [Lucius Atelier](https://luciusatelier.com/)
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
