@@ -3,7 +3,7 @@ Society for the preservation, promotion and pure pleasure of watches.
 
 Contact: support@poshboys.club
 
-## Microbrands
+## Micro brands
 - [Christopher Ward](https://www.christopherward.com/)
 - [Studio Underd0g](https://underd0g.com/) -- Seagull
 - [Farer](https://farer.com/)
@@ -112,10 +112,11 @@ You don't need much to get started, basically just having a closer look.
 - Selvyt Medium (PR) Cloth, White Size: Size A 25x25cm
 
 ### Maintain
-Next you might want to replace straps and mabye a little light cleaning and buffing.
+Next you might want to replace straps and maybe a little cleaning and light
+buffing.
 
 - Bergeon 6767-F Watch Spring Bar Tool - Long
-- Polywapolishing tch -- acrylic crystal polish
+- Polywatch -- acrylic crystal polish
 - Bergeon 2290 Polishing Buff
 
 ### Explore
@@ -175,7 +176,7 @@ one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V
 are a good way in. Not as efficient as a proper four-stage cleaning machine but
 very reasonably-priced and entertaining to use.
 
-Be careful putting your pallet forks in solvent as it can disolve the shellac
+Be careful putting your pallet forks in solvent as it can dissolve the shellac
 that holds the pallet jewels in place.
 
 - Lighter fluid -- readily available from a newsagent for £2.99
