@@ -1,4 +1,4 @@
-# POSH BOYS WATCH CLUB
+# PBWC
 Society for the preservation, promotion and pure pleasure of watches.
 
 Contact: support@poshboys.club
