@@ -80,6 +80,7 @@ this: the rabbit hole goes __deep__...
 - Lessons in Horology -- Grossman 
 - Practical Treatise on Gearing -- Brown and Sharpe 
 - [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) -- featuring George Daniels and Roger W. Smith
+- [Masters of Time: The World of Swiss Complicated Watches](https://www.youtube.com/watch?v=CtkcLjiNy_0) -- the work of independent watchmakers Pilippe Dufour and Antonio Prezioso
 
 ## YouTube channels
 - [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival)
