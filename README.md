@@ -74,9 +74,9 @@ But are sold out now so tough.
 ## Price trackers
 - [Watch Charts](https://watchcharts.com/)
 
-## Cleaning
-- [Polywatch](https://www.polywatch.de/) -- acrylic crystal polish
+## Enthusiast cleaning
 - [Nanoclear](https://nanoclear.com/)
+- [Polywatch](https://www.polywatch.de/)
 
 ## Enthusiast books
 - [A Man and His Watch](https://www.waterstones.com/book/a-man-and-his-watch/matthew-hranek/9781579657147) (Paul Newman's Daytona) -- Matthew Hranek
@@ -100,7 +100,7 @@ this: the rabbit hole goes __deep__...
 ## Books and films
 - Practical Watch Repairing -- Donald de Carlo
 - Lessons in Horology -- Grossman 
-- Practical Treatise on Gearing -- Brown and Sharpe 
+- Practical Treatise on Gearing -- Brown and Sharpe (I haven't read this but what a title!)
 - [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) -- featuring George Daniels and Roger W. Smith
 - [Masters of Time: The World of Swiss Complicated Watches](https://www.youtube.com/watch?v=CtkcLjiNy_0) -- the work of independent watchmakers Pilippe Dufour and Antonio Prezioso
 
@@ -124,9 +124,11 @@ There are myriad tools that can streamline your workflow; I've listed them in
 order so you can add more as you progress. And tools can be resold quite easily
 if you've gone far enough to scratch the itch.
 
+[tldr: expect to fork out £500 to service a basic watch.]
+
 ![tools.png](tools.png)
 
-See the [original spreadsheet](tools.xlsx).
+See the [full spreadsheet](tools.xlsx).
 
 ### Inspect
 You don't need much to get started, you're basically just having a closer look.
