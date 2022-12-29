@@ -5,11 +5,7 @@ Contact: support@poshboys.club
 
 ## Micro brands
 - [Christopher Ward](https://www.christopherward.com/)
-- [Studio Underd0g](https://underd0g.com/) -- Seagull
 - [Farer](https://farer.com/)
-- [Shoreham](https://www.shorehamwatches.com/) -- NH35A
-- [Spinnaker](https://spinnaker-watches.com/) -- NH35
-- [Forge and Foster](https://forgeandfoster.com/) -- Seagull
 - [DIY Watch Club](https://shop.diywatch.club/)
 - [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
 - [BA111OD](https://ba111od.com/)
@@ -17,6 +13,25 @@ Contact: support@poshboys.club
 - [Kopf](http://kopf.watch/)
 - [Minhoon Yoo](https://minhoonyoo.com/)
 - [The Camden Watch Company](https://www.camdenwatchcompany.com/)
+- [Molnar Fabry](Molnar Fabry) -- based in Slovakia
+
+### In-house movements
+- [Speake-Marin](https://www.speake-marin.com/)
+- [Frederic
+  Jouvenot](https://fjouvenot.com/solar-deity-collection/amaterasu-titanium/)
+-- unusual sundial face
+- [Moritz Grossman](https://en.grossmann-uhren.com/)
+- [Leica](https://leica-camera.com/en-GB/World-of-Leica/Leica-Watch) -- camera-inspired
+
+### Seagull
+- [Studio Underd0g](https://underd0g.com/)
+- [Forge and Foster](https://forgeandfoster.com/) -- Hublot kind of aesthetic
+
+### NH35
+- [Shoreham](https://www.shorehamwatches.com/)
+- [Spinnaker](https://spinnaker-watches.com/)
+- [Adley](https://watchadley.co/) -- bike-inspired design
+- [Camden Watch Company](https://www.camdenwatchcompany.com/)
 
 ## Watches you should have bought
 But are sold out now so tough.
