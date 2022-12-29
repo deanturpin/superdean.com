@@ -77,6 +77,12 @@ But are sold out now so tough.
 ## Enthusiast books
 - [A Man and His Watch](https://www.waterstones.com/book/a-man-and-his-watch/matthew-hranek/9781579657147) (Paul Newman's Daytona) -- Matthew Hranek
 
+## Enthusiast tools
+Also see the pro tools section below.
+
+- [Everest](https://www.everestbands.com/collections/watch-tools-springbars)
+- [Barton](https://www.bartonwatchbands.com/en-gb/collections/watch-band-hardware)
+
 ## Getting on the Rolex waiting list
 See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-waiting-list).
 
@@ -150,16 +156,16 @@ Now we're cooking: get the back off and inspect the insides for any issues.
 - Bergeon 8008, Rubber Case Ball -- squishy ball case back remover that works
   far better than you might think
 - Case knife -- pen knife style
-- Case knife -- oyster shucker style; I generally prefer these to the other
-  one, but it's good to have a choice for tricky cases
+- Case knife -- oyster shucker style; I generally prefer these to the pen knife
+  style, but it's good to have a choice for tricky cases
 - Rodico Premium (Bergeon 7033-1) -- for picking up dust and small
-  components/hands
+  components; particularly useful for manipulating hands
 - Eyeglass, Black No. 2.5 = 4x (Bergeon 4422-2.5) -- slightly more
   magnification
 - AF 176.530.24 Headband Eyeglass Holder -- the ones that clip on your glasses
   look nice but are much more expensive
-- Case Cushion Watch Black Gel Ø75mm Bergeon -- treat yourself to a good gel
-  cushion
+- Case Cushion Watch Black Gel Ø75mm Bergeon -- treat yourself to a decent,
+  large gel cushion
 
 ### Strip down
 This is getting serious... and you'll need quite a few more tools. But you
@@ -241,8 +247,4 @@ use with an earbud mic if you're not in a completely quiet environment.
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
 - [Cousins](https://www.cousinsuk.com)
 - [Welwyn](https://welwynwatchparts.co.uk/)
-
-## Enthusiast tools
-- [Everest](https://www.everestbands.com/collections/watch-tools-springbars)
-- [Barton](https://www.bartonwatchbands.com/en-gb/collections/watch-band-hardware)
 
