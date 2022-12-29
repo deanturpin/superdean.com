@@ -14,6 +14,8 @@ Contact: support@poshboys.club
 - [Minhoon Yoo](https://minhoonyoo.com/)
 - [The Camden Watch Company](https://www.camdenwatchcompany.com/)
 - [Molnar Fabry](Molnar Fabry) -- based in Slovakia
+- [Bourlinger](https://www.bourlinger.com/)
+- [CAP](https://en.cap-watch.com/) -- sustainability, recycled materials
 
 ### In-house movements
 - [Speake-Marin](https://www.speake-marin.com/)
@@ -22,6 +24,11 @@ Contact: support@poshboys.club
 -- unusual sundial face
 - [Moritz Grossman](https://en.grossmann-uhren.com/)
 - [Leica](https://leica-camera.com/en-GB/World-of-Leica/Leica-Watch) -- camera-inspired
+- [Glashütte Original](https://www.glashuette-original.com/)
+
+### Miyota
+- [Sternglas](https://www.sternglas.com/) -- that Glashütte look on a budget
+- [Vario](https://vario.sg/pages/ww1-trench-watch) -- inspired by WW1 trench watches
 
 ### Seagull
 - [Studio Underd0g](https://underd0g.com/)
