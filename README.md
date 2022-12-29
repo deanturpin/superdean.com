@@ -6,10 +6,8 @@ Contact: support@poshboys.club
 ## Micro brands
 - [Christopher Ward](https://www.christopherward.com/)
 - [Farer](https://farer.com/)
-- [DIY Watch Club](https://shop.diywatch.club/)
 - [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
 - [BA111OD](https://ba111od.com/)
-- [Seiko 5 mods](https://www.namokimods.com/)
 - [Kopf](http://kopf.watch/)
 - [Minhoon Yoo](https://minhoonyoo.com/)
 - [The Camden Watch Company](https://www.camdenwatchcompany.com/)
@@ -105,6 +103,10 @@ this: the rabbit hole goes __deep__...
 ## YouTube channels
 - [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival)
 - [Nekkid Watchmaker](https://youtube.com/@NekkidWatchmaker)
+
+## Mod kits
+- [namoki](https://www.namokimods.com/) -- Seiko 5 mods
+- [DIY Watch Club](https://shop.diywatch.club/)
 
 ## Beat frequencies
 | Beats per second | Vibrations per hour |
