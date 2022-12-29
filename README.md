@@ -70,9 +70,7 @@ But are sold out now so tough.
 - [Delray Watch](https://delraywatch.com)
 - [Watches of Switzerland](https://www.watches-of-switzerland.co.uk/)
 - [The Timeteller shop](https://thetimetellershop.com/)
-
-## Price trackers
-- [Watch Charts](https://watchcharts.com/)
+- [Watch Charts](https://watchcharts.com/) -- useful price tracker
 
 ## Enthusiast cleaning
 - [Nanoclear](https://nanoclear.com/)
