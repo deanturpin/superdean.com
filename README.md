@@ -113,6 +113,8 @@ radar](https://teddybaldassarre.com/blogs/watches/american-watch-brands).
 Take it to the next level by repairing and servicing your own watches; but know
 this: the rabbit hole goes __deep__...
 
+[_See what's [on the bench](https://turpin.one/posts/repairs.html) right now._]
+
 ## Books and films
 - Practical Watch Repairing -- Donald de Carlo
 - Lessons in Horology -- Grossman 
