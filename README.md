@@ -93,6 +93,16 @@ See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-
 - Only buy what you love, don't fall for dealer tricks
 - Grow the relationship, be the person they want to call
 
+## Brands to watch in 2023
+- 70th birthday Rolex Submariner
+- Rolex Milgauss discontinuation? Again?
+- Omega Seamaster Professional Diver 300M 007 Edition -- 42mm titanium
+- Christopher Ward C1 [Bel
+  Canto](https://www.christopherward.com/bel-canto-watches) Limited Edition --
+will be interesting to see what this does for the brand, maybe too many colour
+options in the second batch? But good to see they haven't rerun the original two
+dials, for those who got in first.
+
 ---
 
 # Watchmaking
