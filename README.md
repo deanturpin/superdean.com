@@ -93,8 +93,7 @@ See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-
 - Only buy what you love, don't fall for dealer tricks
 - Grow the relationship, be the person they want to call
 
-## 2023
-Brands to watch in 2023
+## Brands to watch in 2023
 
 - 70th birthday Rolex Submariner
 - Rolex Milgauss discontinuation? Again?
