@@ -1,6 +1,8 @@
 # PBWC
 Society for the preservation, promotion and pure pleasure of watches.
 
+"Do better if possible and that is always possible." -- François-Constantin to Jacques-Barthélémi Vacheron
+
 Contact: support@poshboys.club
 
 ## Micro brands
