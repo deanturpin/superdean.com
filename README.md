@@ -123,7 +123,8 @@ this: the rabbit hole goes __deep__...
 
 ## Books and films
 - Practical Watch Repairing -- Donald de Carlo
-- Lessons in Horology -- Grossman 
+- Lessons in Horology -- Grossman
+- Joseph Bulova School of Watchmakers 
 - Practical Treatise on Gearing -- Brown and Sharpe (I haven't read this but what a title!)
 - [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) -- featuring George Daniels and Roger W. Smith
 - [Masters of Time: The World of Swiss Complicated Watches](https://www.youtube.com/watch?v=CtkcLjiNy_0) -- the work of independent watchmakers Pilippe Dufour and Antonio Prezioso
