@@ -24,9 +24,13 @@ Contact: support@poshboys.club
 - [Leica](https://leica-camera.com/en-GB/World-of-Leica/Leica-Watch) -- camera-inspired
 - [Glashütte Original](https://www.glashuette-original.com/)
 
+## Alien technology
+- [HYT](https://hytwatches.com/)
+
 ### Miyota
 - [Sternglas](https://www.sternglas.com/) -- that Glashütte look on a budget
 - [Vario](https://vario.sg/pages/ww1-trench-watch) -- inspired by WW1 trench watches
+- [Autogromo](https://autodromo.com/) -- driving-inspired
 
 ### Seagull
 - [Studio Underd0g](https://underd0g.com/)
@@ -59,7 +63,7 @@ But are sold out now so tough.
 - [Vulcain](https://www.vulcanwatchstraps.com/) -- Rolex rubber straps
 - [Rubber B](https://rubberb.com/) -- rubber straps
 - [Everest](https://www.everestbands.com/)
-
+- [Café Leather](https://cafeleather.com/best-leather-watch-straps/) -- for all your leather requirements
 ## Stores
 - [Chrono24](https://www.chrono24.co.uk)
 - [Watchfinder](https://www.watchfinder.co.uk)
