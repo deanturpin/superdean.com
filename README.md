@@ -242,14 +242,22 @@ pallet and roller jewels in place.
 ### Rebuild and lubricate
 A very complicated business, but to get started you need:
 
-- A light oil for the quickest moving parts -- [Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube), outrageously expensive!
-- A grease for the high-friction metal-on-metal components -- [Moebius 8300](https://www.cousinsuk.com/product/moebius-8300-all-purpose-favourite)
+- Light oil for the quickest moving parts -- [Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube), outrageously expensive!
+- Grease for the high-friction metal-on-metal components -- [Moebius 8300](https://www.cousinsuk.com/product/moebius-8300-all-purpose-favourite)
 - Bergeon fine oiler (red) -- for the jewels
 - Bergeon medium oiler (green) -- for the grease; go for the cheap ones to start with
 
 I realise that suggesting using only two viscosities will cause some people to
 spit out their tea/beer, but _you have to start somewhere_. Also, Donald de Carlo
 only talks about "watch oil" and "clock oil" in the above book so there you go.
+
+Received wisdom:
+- Fast wheels 9010
+- Slow wheels D5
+- Pallet fork jewels 9415
+- Keyless DX
+
+"If you need to do it cheaply you can just use 8000 and DX, as it's a non synthetic it'll just mean the service intervals will be shorter."
 
 Full disclosure: I also dip my oilers straight into the jars, which is probably
 illegal in Switzerland.
@@ -267,4 +275,3 @@ use with an earbud mic if you're not in a completely quiet environment.
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
 - [Cousins](https://www.cousinsuk.com)
 - [Welwyn](https://welwynwatchparts.co.uk/)
-
