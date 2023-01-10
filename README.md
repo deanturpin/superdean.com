@@ -50,7 +50,7 @@ But are sold out now so tough.
 - [Christopher Ward Bel Canto](https://www.christopherward.com/c1-bel-canto-blue.html)
 - [Studio Underd0g Go0fy Panda (Gen2)](https://underd0g.com/products/01gpb)
 
-## Straps and bracelets
+## Straps
 - [Gleave London](https://gleave.london/straps/) -- inexpensive leather straps
 - [Barton](https://www.bartonwatchbands.com/) -- low- to mid-priced (also Horween leather)
 - [Strap Tailor](https://thestraptailor.com/) -- mid- to high-priced straps
@@ -66,6 +66,8 @@ But are sold out now so tough.
 - [Rubber B](https://rubberb.com/) -- rubber straps
 - [Everest](https://www.everestbands.com/)
 - [Café Leather](https://cafeleather.com/best-leather-watch-straps/) -- for all your leather requirements
+- [Jean Rousseau](https://www.jean-rousseau.com/gb/product-category/watch-straps-gb/)
+
 ## Stores
 - [Chrono24](https://www.chrono24.co.uk)
 - [Watchfinder](https://www.watchfinder.co.uk)
