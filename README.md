@@ -145,7 +145,7 @@ this: the rabbit hole goes __deep__...
 | 3	  | 10800 |
 | 4	  | 14400 |
 | 5	  | 18000 |
-| 5.5 	  | 19800 |
+| 5.5 | 19800 |
 | 6	  | 21600 |
 | 7	  | 25200 |
 | 8	  | 28800 |
@@ -164,33 +164,31 @@ See the [full spreadsheet](tools.xlsx).
 ### Inspect
 You don't need much to get started, you're basically just having a closer look.
 
-- Eyeglass, Black No. 3.5 = 2.8x (Bergeon 4422-3.5)
-- Selvyt Medium (PR) Cloth, White Size: Size A 25x25cm
+- Eyeglass/loupe 2.8x (Bergeon 4422-3.5) -- note the Bergeon name is the focal length not the magnification
+- Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm)
 
 ### Maintain
 Next you might want to replace straps and maybe do a little cleaning and light
 buffing.
 
-- Bergeon 6767-F Watch Spring Bar Tool - Long
+- Spring Bar Tool (Bergeon 6767-F Watch)
 - Polywatch -- acrylic crystal polish
-- Bergeon 2290 Polishing Buff
+- Polishing Buff (Bergeon 2290)
 
 ### Explore
 Now we're cooking: get the back off and inspect the insides for any issues.
 
-- Bergeon 8008, Rubber Case Ball -- squishy ball case back remover that works
+- Rubber Case Ball (Bergeon 8008) -- squishy ball case back remover that works
   far better than you might think
 - Case knife -- pen knife style
 - Case knife -- oyster shucker style; I generally prefer these to the pen knife
   style, but it's good to have a choice for tricky cases
 - Rodico Premium (Bergeon 7033-1) -- for picking up dust and small
   components; particularly useful for manipulating hands
-- Eyeglass, Black No. 2.5 = 4x (Bergeon 4422-2.5) -- slightly more
-  magnification
-- AF 176.530.24 Headband Eyeglass Holder -- the ones that clip on your glasses
+- Eyeglass/loupe 4x (Bergeon 4422-2.5) -- slightly more magnification
+- Eyeglass Holder (AF 176.530.24) -- the ones that clip on your glasses
   look nice but are much more expensive
-- Case Cushion Watch Black Gel Ø75mm Bergeon -- treat yourself to a decent,
-  large gel cushion
+- Case Cushion (Bergeon Gel Ø75mm) -- treat yourself to a decent, large gel cushion
 
 ### Strip down
 This is getting serious... and you'll need quite a few more tools. But you
@@ -203,25 +201,22 @@ screw head or both.
 
 - Movement Holder, Gents Size, Carbon Fibre (Bergeon 4040-P) -- essential and
   even the Bergeon ones are reasonably-priced
-- Tweezers, Idealtek Anti-Magnetic No. 7 Very Fine, Curved Tips -- I actually
-  got a job lot of tweezers on eBay but these curved tipped ones are my
-favourite
-- Latex ESD Finger Protection Thimble Cots Medium (Pack Of 144) Bergeon 7968-18
+- Tweezers (Idealtek Anti-Magnetic No. 7 Very Fine, Curved Tips) -- I actually
+  got a job lot of tweezers on eBay but these curved tipped ones are my favourite
+- Latex ESD Finger Protection Thimble Cots Medium, Pack Of 144 (Bergeon 7968-18)
 - Materials box / cloche -- you can never have enough
-- Bergeon 30080 screwdriver with blades (white 0.6mm)
-- Bergeon 30080 screwdriver with Blades (yellow 0.8mm)
-- Bergeon 30080 Screwdriver with Blades (red 1.2mm)
-- Bergeon 30080 Screwdriver with Blades (pink 1.6mm)
-- Dial protector -- or use the traditional "ripped baggy" (or both)
+- Screwdriver with blades white 0.6mm (Bergeon 30080)
+- Screwdriver with Blades yellow 0.8mm
+- Screwdriver with Blades red 1.2mm
+- Screwdriver with Blades pink 1.6mm
+- Dial protector (Bergeon 6938) -- very cheap, or use the traditional "ripped baggy" (or both)
 - Hand Levers, 3.0mm Tips (Bergeon 5431) -- £40... buying these hurt! I also
   got some cheap ones from eBay for a 10th of the price
 - Hand Pusher, Red Ø0.80 - Grey Ø1.50mm (Bergeon 7404-2) -- haven't needed any
   other size so far but fitting hands is still a little hit-and-miss for me
 - Crown pinion remover -- can be very expensive for such a niche tool;
-  alternatively do it carefully in a bag with tweezers (I found some blunt end
-brass ones that work, pull upwards to avoid bending anything)
-- Plastic pointy stick/peg wood -- Starbucks call them "coffee stirrers" but
-  they look like peg wood to me
+  alternatively do it carefully in a bag with tweezers (I found some blunt end brass ones that work, pull upwards to avoid bending anything)
+- Plastic pointy stick/peg wood -- Starbucks call them "coffee stirrers" but they look like peg wood to me
 - Barrel press -- eBay £5, if it's good enough for Marshall...
 - Crystal press -- eBay £15.99, screw down seems a bit more controlled; I also
   padded the lower dies out with sticky felt furniture pads into a domed shaped
@@ -247,25 +242,24 @@ pallet and roller jewels in place.
 ### Rebuild and lubricate
 A very complicated business, but to get started you need:
 
-- Light oil for the quickest moving parts -- [Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube), outrageously expensive!
-- Grease for the high-friction metal-on-metal components -- [Moebius 8300](https://www.cousinsuk.com/product/moebius-8300-all-purpose-favourite)
-- Bergeon fine oiler (red) -- for the jewels
-- Bergeon medium oiler (green) -- for the grease; go for the cheap ones to start with
+- Light oil for the quickest moving parts ([Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube)) -- outrageously expensive!
+- Grease for the high-friction metal-on-metal components ([Moebius 8300](https://www.cousinsuk.com/product/moebius-8300-all-purpose-favourite))
+- Oiler, fine (Bergeon red) -- for the jewels
+- Oiler, medium (Bergeon green) -- for the grease; go for the cheap ones to start with
 
 I realise that suggesting using only two viscosities will cause some people to
 spit out their tea/beer, but _you have to start somewhere_. Also, Donald de Carlo
-only talks about "watch oil" and "clock oil" in the above book so there you go.
+only talks about "watch oil" and "clock oil" in the above watchmaking bible, so there you go.
 
-Received wisdom:
+__Full disclosure__: I also dip my oilers straight into the jars, which is probably illegal in Switzerland.
+
+#### Various received wisdoms
+"If you need to do it cheaply you can just use 8000 and DX, as it's a non synthetic it'll just mean the service intervals will be shorter."
+
 - Fast wheels 9010
 - Slow wheels D5
 - Pallet fork jewels 9415
 - Keyless DX
-
-"If you need to do it cheaply you can just use 8000 and DX, as it's a non synthetic it'll just mean the service intervals will be shorter."
-
-Full disclosure: I also dip my oilers straight into the jars, which is probably
-illegal in Switzerland.
 
 ### Regulate
 A Timegrapher is the go-to tool for the job and at the low end they are
