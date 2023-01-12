@@ -69,14 +69,16 @@ But are sold out now so tough.
 - [Jean Rousseau](https://www.jean-rousseau.com/gb/product-category/watch-straps-gb/)
 
 ## Stores
-- [Chrono24](https://www.chrono24.co.uk)
 - [Watchfinder](https://www.watchfinder.co.uk)
 - [Teddy Baldasssarre](https://teddybaldassarre.com)
 - [Pride and Pinion](https://prideandpinion.com)
 - [Delray Watch](https://delraywatch.com)
 - [Watches of Switzerland](https://www.watches-of-switzerland.co.uk/)
 - [The Timeteller shop](https://thetimetellershop.com/)
-- [Watch Charts](https://watchcharts.com/) -- useful price tracker
+
+### Price trackers
+- [Chrono24](https://www.chrono24.co.uk/)
+- [Watch Charts](https://watchcharts.com/)
 
 ## Enthusiast cleaning
 - [Nanoclear](https://nanoclear.com/)
