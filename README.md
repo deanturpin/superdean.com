@@ -103,8 +103,10 @@ See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-
 - Only buy what you love, don't fall for dealer tricks
 - Grow the relationship, be the person they want to call
 
-## Brands to watch in 2023
+## Rules
+1. To set the date correctly: move the hands to 6 o'clock, change the date to the day before today, and then move the time forward to get the correct half of the day. Do not fiddle with the date wheel between 9pm and 4am. But if it has a [_phantom_ date](https://calibercorner.com/phantom-date/) then good luck!
 
+## Brands to watch in 2023
 - 70th birthday Rolex Submariner
 - Rolex Milgauss discontinuation? Again?
 - Omega Seamaster Professional Diver 300M 007 Edition -- 42mm titanium
@@ -247,7 +249,7 @@ A very complicated business, but to get started you need:
 - Light oil for the quickest moving parts ([Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube)) -- outrageously expensive!
 - Grease for the high-friction metal-on-metal components ([Moebius 8300](https://www.cousinsuk.com/product/moebius-8300-all-purpose-favourite))
 - Oiler, fine (Bergeon red) -- for the jewels
-- Oiler, medium (Bergeon green) -- for the grease; go for the cheap ones to start with
+- Oiler, medium (Bergeon green) -- for the grease; go for the cheap oilers to start with
 
 I realise that suggesting using only two viscosities will cause some people to
 spit out their tea/beer, but _you have to start somewhere_. Also, Donald de Carlo
@@ -256,12 +258,13 @@ only talks about "watch oil" and "clock oil" in the above watchmaking bible, so 
 __Full disclosure__: I also dip my oilers straight into the jars, which is probably illegal in Switzerland.
 
 #### Various received wisdoms
-"If you need to do it cheaply you can just use 8000 and DX, as it's a non synthetic it'll just mean the service intervals will be shorter."
+"If you need to do it cheaply you can just use 8000 and DX, as it's a non synthetic it'll just mean the service intervals will be shorter. It’s not ideal because Moebius 8000 is a natural oil so that’s means velocity is not as high as synthetic oil."
 
-- Fast wheels 9010
-- Slow wheels D5
-- Pallet fork jewels 9415
-- Keyless DX
+- Moebius 9010: fast wheels 
+- Moebius D5: slow wheels; e.g., arbor, cannon pinion, hour wheel, minute wheel
+- Moebius 9415: pallet fork jewels 
+- Moebius 9501, DX: keyless works
+- Moebius 8217: for inside barrel wall (getting serious!)
 
 ### Regulate
 A Timegrapher is the go-to tool for the job and at the low end they are
