@@ -104,7 +104,7 @@ See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-
 - Grow the relationship, be the person they want to call
 
 ## Rules
-1. To set the date correctly: move the hands to 6 o'clock, change the date to the day before today, and then move the time forward to get the correct half of the day. Do not fiddle with the date wheel between 9pm and 4am. But if it has a [_phantom_ date](https://calibercorner.com/phantom-date/) then good luck!
+1. __To set the date correctly__: move the hands to 6 o'clock, change the date to the day _before_ today, and then move the time forward to get the correct half of the day. Never fiddle with the date between 9pm and 4am; _but_, if it has a [_phantom_ date](https://calibercorner.com/phantom-date/) then good luck!
 
 ## Brands to watch in 2023
 - 70th birthday Rolex Submariner
