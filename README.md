@@ -217,9 +217,9 @@ Be careful putting your pallet forks and balance wheel in solvent as it can diss
 - Lighter fluid -- readily available from a newsagent for £2.99
 - [Renata Essence](https://www.cousinsuk.com/product/renata-essence) hairspring degreaser-- £11.50
 - Basket 25mm Mini Watch Part Cleaning Basket Economy -- get a few of these, you can spend quite a lot but I went economy and I don't know any better; but I prefer the little brass threaded ones
-- Screw top jam jar -- recycled, the shallower the better to get your bits out
+- Screw top jam jar -- recycled and small, the shallower the better to get your bits out and not use loads of cleaner
 
-You can do a job with the above, however, ultrasonic cleaners like [this one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/) are a good way in. Not as efficient as a proper four-stage cleaning machine but very reasonably-priced and entertaining to use.
+You can do a job with the above, however, ultrasonic cleaners like [this one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/) are a great way in. Not as efficient as a proper four-stage cleaning machine but very reasonably-priced and entertaining to use. You can also impressive your relatives cleaning jewellry and spectacles.
 
 ### Rebuild and lubricate
 A very complicated business, but to get started you need:
