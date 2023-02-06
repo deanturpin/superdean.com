@@ -18,10 +18,10 @@ Contact: support@poshboys.club
 - [CAP](https://en.cap-watch.com/) -- sustainability, recycled materials
 
 ### In-house movements
+- [A. Lange & Söhne](https://www.alange-soehne.com/)
+- [F.P.Journe](https://www.fpjourne.com/)
 - [Speake-Marin](https://www.speake-marin.com/)
-- [Frederic
-  Jouvenot](https://fjouvenot.com/solar-deity-collection/amaterasu-titanium/)
--- unusual sundial face
+- [Frederic Jouvenot](https://fjouvenot.com/solar-deity-collection/amaterasu-titanium/) -- unusual sundial face
 - [Moritz Grossman](https://en.grossmann-uhren.com/)
 - [Leica](https://leica-camera.com/en-GB/World-of-Leica/Leica-Watch) -- camera-inspired
 - [Glashütte Original](https://www.glashuette-original.com/)
