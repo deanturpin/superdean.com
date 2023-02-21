@@ -3,6 +3,8 @@ Society for the preservation, promotion and pure pleasure of watches.
 
 "Do better if possible and that is always possible." -- François-Constantin to Jacques-Barthélémi Vacheron
 
+At risk of understatement: _watches transcend art, design, culture, history, jewelry, fashion, mechanics and physics; amongst other things._
+
 Contact: support@poshboys.club
 
 ## Micro brands
