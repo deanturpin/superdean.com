@@ -1,5 +1,7 @@
-# PBWC
-Society for the preservation, promotion and pure pleasure of watches.
+---
+title: Posh Boys Watch Club
+subtitle: Society for the preservation, promotion and pure pleasure of watches
+---
 
 "Do better if possible and that is always possible." -- François-Constantin to Jacques-Barthélémi Vacheron
 
