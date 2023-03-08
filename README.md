@@ -1,5 +1,5 @@
 ---
-title: Posh Boys Watch Club
+title: PBWC
 subtitle: Society for the preservation, promotion and pure pleasure of watches
 ---
 
