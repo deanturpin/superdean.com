@@ -159,6 +159,7 @@ this: the rabbit hole goes __deep__...
 | 8	  | 28800 |
 
 ## Tools
+
 There are myriad tools that can streamline your workflow; I've listed them in order so you can add more as you progress. And tools can be resold quite easily if you've gone far enough to scratch the itch.
 
 [tldr: expect to fork out £500 to service a basic watch.]
@@ -168,7 +169,8 @@ There are myriad tools that can streamline your workflow; I've listed them in or
 See the [full spreadsheet](tools.xlsx).
 
 ### Inspect
-You don't need much to get started, you're basically just having a closer look.
+
+You don't need much to get started -- you're basically just having a closer look -- but I often go out with a loupe in my jacket pocket.
 
 - Eyeglass/loupe 2.8x (Bergeon 4422-3.5) -- note the Bergeon name is the focal length not the magnification
 - Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm)
