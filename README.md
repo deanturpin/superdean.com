@@ -136,7 +136,7 @@ See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-
   Canto](https://www.christopherward.com/bel-canto-watches) Limited Edition --
 will be interesting to see what this does for the brand, maybe too many colour
 options in the second batch? But good to see they haven't rerun the original two
-dials, for those who got in first.
+dial colours (for those who got there first.)
 
 See Teddy B's [America watch brands
 radar](https://teddybaldassarre.com/blogs/watches/american-watch-brands).
