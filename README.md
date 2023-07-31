@@ -7,9 +7,10 @@ subtitle: Society for the preservation, promotion and pure pleasure of watches
 
 At risk of understatement: _watches transcend art, design, culture, history, jewelry, fashion, mechanics and physics; amongst other things._
 
-Contact: support@poshboys.club
+Contact: <support@poshboys.club>
 
 ## Micro brands
+
 - [Christopher Ward](https://www.christopherward.com/)
 - [Farer](https://farer.com/)
 - [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
@@ -20,8 +21,10 @@ Contact: support@poshboys.club
 - [Molnar Fabry](Molnar Fabry) -- based in Slovakia
 - [Bourlinger](https://www.bourlinger.com/)
 - [CAP](https://en.cap-watch.com/) -- sustainability, recycled materials
+- [Sequent](https://sequentworld.com/en-gb/products/elektron-hr-2-2-space-white-rubber) -- mechanical smartwatch
 
-### In-house movements
+## In-house movements
+
 - [A. Lange & Söhne](https://www.alange-soehne.com/)
 - [F.P.Journe](https://www.fpjourne.com/)
 - [Speake-Marin](https://www.speake-marin.com/)
@@ -31,30 +34,36 @@ Contact: support@poshboys.club
 - [Glashütte Original](https://www.glashuette-original.com/)
 
 ## Alien technology
+
 - [HYT](https://hytwatches.com/)
 
-### Miyota
+## Miyota
+
 - [Sternglas](https://www.sternglas.com/) -- that Glashütte look on a budget
 - [Vario](https://vario.sg/pages/ww1-trench-watch) -- inspired by WW1 trench watches
 - [Autogromo](https://autodromo.com/) -- driving-inspired
 
-### Seagull
+## Seagull
+
 - [Studio Underd0g](https://underd0g.com/)
 - [Forge and Foster](https://forgeandfoster.com/) -- Hublot kind of aesthetic
 
-### NH35
+## NH35
+
 - [Shoreham](https://www.shorehamwatches.com/)
 - [Spinnaker](https://spinnaker-watches.com/)
 - [Adley](https://watchadley.co/) -- bike-inspired design
 - [Camden Watch Company](https://www.camdenwatchcompany.com/)
 
 ## Watches you should have bought
+
 But are sold out now so tough.
 
 - [Christopher Ward Bel Canto](https://www.christopherward.com/c1-bel-canto-blue.html)
 - [Studio Underd0g Go0fy Panda (Gen2)](https://underd0g.com/products/01gpb)
 
 ## Straps
+
 - [Gleave London](https://gleave.london/straps/) -- inexpensive leather straps
 - [Barton](https://www.bartonwatchbands.com/) -- low- to mid-priced (also Horween leather)
 - [Strap Tailor](https://thestraptailor.com/) -- mid- to high-priced straps
@@ -65,6 +74,7 @@ But are sold out now so tough.
 - [Delug](https://delugs.com/) -- mid- to high-priced
 
 ### High end
+
 - [Forstner](https://forstnerbands.com/) -- steel bracelets
 - [Vulcain](https://www.vulcanwatchstraps.com/) -- Rolex rubber straps
 - [Rubber B](https://rubberb.com/) -- rubber straps
@@ -73,6 +83,7 @@ But are sold out now so tough.
 - [Jean Rousseau](https://www.jean-rousseau.com/gb/product-category/watch-straps-gb/)
 
 ## Stores
+
 - [Watchfinder](https://www.watchfinder.co.uk)
 - [Teddy Baldasssarre](https://teddybaldassarre.com)
 - [Pride and Pinion](https://prideandpinion.com)
@@ -80,24 +91,29 @@ But are sold out now so tough.
 - [Watches of Switzerland](https://www.watches-of-switzerland.co.uk/)
 - [The Timeteller shop](https://thetimetellershop.com/)
 
-### Price trackers
+## Price trackers
+
 - [Chrono24](https://www.chrono24.co.uk/)
 - [Watch Charts](https://watchcharts.com/)
 
 ## Enthusiast cleaning
+
 - [Nanoclear](https://nanoclear.com/)
 - [Polywatch](https://www.polywatch.de/)
 
 ## Enthusiast books
+
 - [A Man and His Watch](https://www.waterstones.com/book/a-man-and-his-watch/matthew-hranek/9781579657147) (Paul Newman's Daytona) -- Matthew Hranek
 
 ## Enthusiast tools
+
 Also see the pro tools section below.
 
 - [Everest](https://www.everestbands.com/collections/watch-tools-springbars)
 - [Barton](https://www.bartonwatchbands.com/en-gb/collections/watch-band-hardware)
 
 ## Getting on the Rolex waiting list
+
 See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-waiting-list).
 
 - Meet with multiple dealers
@@ -108,9 +124,11 @@ See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-
 - Grow the relationship, be the person they want to call
 
 ## Rules
+
 1. __To set the date correctly__: move the hands to 6 o'clock, change the date to the day _before_ today, and then move the time forward to get the correct half of the day. Never fiddle with the date between 9pm and 4am; _but_, if it has a [_phantom_ date](https://calibercorner.com/phantom-date/) then good luck!
 
 ## Brands to watch in 2023
+
 - 70th birthday Rolex Submariner
 - Rolex Milgauss discontinuation? Again?
 - Omega Seamaster Professional Diver 300M 007 Edition -- 42mm titanium
@@ -126,37 +144,42 @@ radar](https://teddybaldassarre.com/blogs/watches/american-watch-brands).
 ---
 
 # Watchmaking
+
 Take it to the next level by repairing and servicing your own watches; but know
 this: the rabbit hole goes __deep__...
 
 [_See what's [on the bench](https://turpin.one/posts/repairs.html) right now._]
 
 ## Books and films
+
 - Practical Watch Repairing -- Donald de Carlo
 - Lessons in Horology -- Grossman
-- Joseph Bulova School of Watchmakers 
+- Joseph Bulova School of Watchmakers
 - Practical Treatise on Gearing -- Brown and Sharpe (I haven't read this but what a title!)
 - [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) -- featuring George Daniels and Roger W. Smith
 - [Masters of Time: The World of Swiss Complicated Watches](https://www.youtube.com/watch?v=CtkcLjiNy_0) -- the work of independent watchmakers Pilippe Dufour and Antonio Prezioso
 
 ## YouTube channels
+
 - [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival)
 - [Nekkid Watchmaker](https://youtube.com/@NekkidWatchmaker)
 
 ## Mod kits
+
 - [namoki](https://www.namokimods.com/) -- Seiko 5 mods
 - [DIY Watch Club](https://shop.diywatch.club/)
 
 ## Beat frequencies
+
 | Beats per second | Vibrations per hour |
 |---|---|
-| 3	  | 10800 |
-| 4	  | 14400 |
-| 5	  | 18000 |
+| 3   | 10800 |
+| 4   | 14400 |
+| 5   | 18000 |
 | 5.5 | 19800 |
-| 6	  | 21600 |
-| 7	  | 25200 |
-| 8	  | 28800 |
+| 6   | 21600 |
+| 7   | 25200 |
+| 8   | 28800 |
 
 ## Tools
 
@@ -176,6 +199,7 @@ You don't need much to get started -- you're basically just having a closer look
 - Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm)
 
 ### Maintain
+
 Next you might want to replace straps and maybe do a little cleaning and light buffing.
 
 - Spring Bar Tool (Bergeon 6767-F Watch)
@@ -183,6 +207,7 @@ Next you might want to replace straps and maybe do a little cleaning and light b
 - Polishing Buff (Bergeon 2290)
 
 ### Explore
+
 Now we're cooking: get the back off and inspect the insides for any issues.
 
 - Rubber Case Ball (Bergeon 8008) -- squishy ball case back remover that works far better than you might think
@@ -194,6 +219,7 @@ Now we're cooking: get the back off and inspect the insides for any issues.
 - Case Cushion (Bergeon Gel Ø75mm) -- treat yourself to a decent, large gel cushion
 
 ### Strip down
+
 This is getting serious... and you'll need quite a few more tools. But you will have enough to completely dismantle a _basic_ movement. Note we are replacing broken parts at this level, rather than making new ones (which is a whole other level).
 
 Always use the correct size screwdriver: you just risk chewing up the blades,
@@ -216,6 +242,7 @@ screw head or both.
 - Crystal press -- eBay £15.99, screw down seems a bit more controlled; I also padded the lower dies out with sticky felt furniture pads into a domed shaped
 
 ### Clean
+
 At this point it can start to become quite expensive; not only for the machines but also the consumables that you probably can't sell on quite so easily.
 
 Be careful putting your pallet forks and balance wheel in solvent as it can dissolve the [shellac](https://en.wikipedia.org/wiki/Shellac) that holds the pallet and roller jewels in place.
@@ -228,6 +255,7 @@ Be careful putting your pallet forks and balance wheel in solvent as it can diss
 You can do a job with the above, however, ultrasonic cleaners like [this one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/) are a great way in. Not as efficient as a proper four-stage cleaning machine but very reasonably-priced and entertaining to use. You can also impressive your relatives cleaning jewellry and spectacles.
 
 ### Rebuild and lubricate
+
 A very complicated business, but to get started you need:
 
 - Light oil for the quickest moving parts ([Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube)) -- outrageously expensive!
@@ -240,22 +268,27 @@ I realise that suggesting using only two viscosities will cause some people to s
 __Full disclosure__: I also dip my oilers straight into the jars, which is probably illegal in Switzerland.
 
 #### Various received wisdoms
+
 "If you need to do it cheaply you can just use 8000 and DX, as it's a non synthetic it'll just mean the service intervals will be shorter. It’s not ideal because Moebius 8000 is a natural oil so that’s means velocity is not as high as synthetic oil."
 
-- Moebius 9010: fast wheels 
+- Moebius 9010: fast wheels
 - Moebius D5: slow wheels; e.g., arbor, cannon pinion, hour wheel, minute wheel
-- Moebius 9415: pallet fork jewels 
+- Moebius 9415: pallet fork jewels
 - Moebius 9501, DX: keyless works
 - Moebius 8217: for inside barrel wall (getting serious!)
 
 ## The next level
+
 ### Timegraphers
+
 A Timegrapher is the go-to tool for the job and at the low end they are surprisingly inexpensive. But you can get some useful results from a phone app; use with an earbud mic if you're not in a completely quiet environment.
 
 ### Mainspring winders
+
 You can fix a lot by replacing parts rather than making new ones. But I think mainspring winders are the first step into it becoming serious. This _can_ be done by hand -- I have done a couple of times -- but people will get very cross about it.
 
 ## Pro tools and supplies
+
 - [Gleave London](https://gleave.london/straps/)
 - [H&S Walsh](https://www.hswalsh.com/) -- a few more economy options
 - [Eternal tools](https://www.eternaltools.com/)
@@ -263,4 +296,3 @@ You can fix a lot by replacing parts rather than making new ones. But I think ma
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
 - [Cousins](https://www.cousinsuk.com)
 - [Welwyn](https://welwynwatchparts.co.uk/)
-
