@@ -168,6 +168,10 @@ this: the rabbit hole goes __deep__...
 
 - [namoki](https://www.namokimods.com/) -- Seiko 5 mods
 - [DIY Watch Club](https://shop.diywatch.club/)
+- [Watch Modz](https://watch-modz.com/product-category/cases/)
+- [Crystal Times](https://usa.crystaltimes.net/)
+- [Secondhand Mods](https://secondhandmods.com/)
+- [DLW Wathces](https://www.dlwwatches.com/)
 
 ## Beat frequencies
 
