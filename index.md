@@ -1,6 +1,6 @@
 # PBWC
 
-PBWC is a group of like-minded collectors with a common enthusiasm for the preservation, promotion and pure pleasure of watches. Watches transcend art, design, culture, history, jewelry, fashion, mechanics and physics (amongst other things.)
+PBWC is a group of mostly like-minded collectors with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Watches encompass art, design, culture, history, jewellry, fashion, mechanics and physics (amongst other things.)
 
 For those who haven't yet accepted their calling as a watchmaker, head over to the [collectors' page](collector.md).
 

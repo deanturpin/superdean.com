@@ -1,24 +1,24 @@
 # PBWC: Society for the preservation, promotion and pure pleasure of watches
 
-"Do better if possible and that is always possible." -- François-Constantin to Jacques-Barthélémi Vacheron
+"Do better if possible and that is always possible.": François-Constantin to Jacques-Barthélémi Vacheron
 
 ## Books and films
 
-- Practical Watch Repairing -- Donald de Carlo
-- Lessons in Horology -- Grossman
+- Practical Watch Repairing by Donald de Carlo: essential reading
+- Lessons in Horology by Grossman
 - Joseph Bulova School of Watchmakers
-- Practical Treatise on Gearing -- Brown and Sharpe (I haven't read this but what a title!)
-- [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) -- featuring George Daniels and Roger W. Smith
-- [Masters of Time: The World of Swiss Complicated Watches](https://www.youtube.com/watch?v=CtkcLjiNy_0) -- the work of independent watchmakers Pilippe Dufour and Antonio Prezioso
+- Practical Treatise on Gearing by Brown and Sharpe (I haven't read this but what a title!)
+- [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) featuring George Daniels and Roger W. Smith
+- [Masters of Time: The World of Swiss Complicated Watches](https://www.youtube.com/watch?v=CtkcLjiNy_0): the work of independent watchmakers Pilippe Dufour and Antonio Prezioso
 
 ## YouTube channels
 
-- [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival)
+- [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival): Marshall is a bit of a legend
 - [Nekkid Watchmaker](https://youtube.com/@NekkidWatchmaker)
 
 ## Mod kits
 
-- [namoki](https://www.namokimods.com/) -- Seiko 5 mods
+- [namoki](https://www.namokimods.com/): Seiko 5 mods
 - [DIY Watch Club](https://shop.diywatch.club/)
 - [Watch Modz](https://watch-modz.com/product-category/cases/)
 - [Crystal Times](https://usa.crystaltimes.net/)
@@ -43,21 +43,21 @@ At this point it can start to become quite expensive; not only for the machines 
 
 Be careful putting your pallet forks and balance wheel in solvent as it can dissolve the [shellac](https://en.wikipedia.org/wiki/Shellac) that holds the pallet and roller jewels in place.
 
-- Lighter fluid -- readily available from a newsagent for £2.99
-- [Renata Essence](https://www.cousinsuk.com/product/renata-essence) hairspring degreaser-- £11.50
-- Basket 25mm Mini Watch Part Cleaning Basket Economy -- get a few of these, you can spend quite a lot but I went economy and I don't know any better; but I prefer the little brass threaded ones
-- Screw top jam jar -- recycled and small, the shallower the better to get your bits out and not use loads of cleaner
+- Lighter fluid: readily available from a newsagent for £2.99
+- [Renata Essence](https://www.cousinsuk.com/product/renata-essence) hairspring degreaser£11.50 (standard)
+- Basket 25mm Mini Watch Part Cleaning Basket Economy: get a few of these, you can spend quite a lot but I went economy and I don't know any better; but I prefer the little brass threaded ones
+- Screw top jam jar, recycled and small, the shallower the better to get your bits out and not use lots of cleaning fluid
 
-You can do a job with the above, however, ultrasonic cleaners like [this one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/) are a great way in. Not as efficient as a proper four-stage cleaning machine but very reasonably-priced and entertaining to use. You can also impressive your relatives cleaning jewellry and spectacles.
+You can do a job with the above, however, ultrasonic cleaners like [this one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/) are a great way in. Not as efficient as a proper four-stage cleaning machine but very reasonably-priced and entertaining to use. You can also impressive your friends and relatives by cleaning jewellery and spectacles.
 
 ## Rebuild and lubricate
 
-A very complicated business, but to get started you need:
+A very complicated business, but let's look at the key areas of interest.
 
-- Light oil for the quickest moving parts ([Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube)) -- outrageously expensive!
-- Grease for the high-friction metal-on-metal components ([Moebius 8300](https://www.cousinsuk.com/product/moebius-8300-all-purpose-favourite))
-- Oiler, fine (Bergeon red) -- for the jewels
-- Oiler, medium (Bergeon green) -- for the grease; go for the cheap oilers to start with
+- A light oil for the quickest moving parts ([Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube)): outrageously expensive!
+- A grease for the high-friction metal-on-metal components ([Moebius 8300](https://www.cousinsuk.com/product/moebius-8300-all-purpose-favourite))
+- Oiler, fine (Bergeon red) for the jewels
+- Oiler, medium (Bergeon green) for the grease; go for the cheap oilers to start with
 
 I realise that suggesting using only two viscosities will cause some people to spit out their tea/beer, but _you have to start somewhere_. Also, Donald de Carlo only talks about "watch oil" and "clock oil" in the above watchmaking bible, so there you go.
 
@@ -79,12 +79,12 @@ A Timegrapher is the go-to tool for the job and at the low end they are surprisi
 
 ## Mainspring winders
 
-You can fix a lot by replacing parts rather than making new ones. But I think mainspring winders are the first step into it becoming serious. This _can_ be done by hand -- I have done a couple of times -- but people will get very cross about it.
+You can fix a lot by replacing parts rather than making new ones. But I think mainspring winders are the first step into it becoming serious. This _can_ be done by hand but people will get very cross about it if they find out.
 
 ## Pro tools and supplies
 
 - [Gleave London](https://gleave.london/straps/)
-- [H&S Walsh](https://www.hswalsh.com/) -- a few more economy options
+- [H&S Walsh](https://www.hswalsh.com/): a few more economy options
 - [Eternal tools](https://www.eternaltools.com/)
 - [Lucius Atelier](https://luciusatelier.com/)
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)

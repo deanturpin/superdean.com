@@ -108,7 +108,7 @@ Serial 4929243 (1930).
 
 Serial 5107778 (1932), broken balance but otherwise movement is OK. Slightly later but has the hour wheel jewel.
 
-- [x] Clean dial -- not very effective
+- [x] Clean dial: not very effective
 - [ ] Find new case
 
 ## 1916 Borgel trench watch 13'''
