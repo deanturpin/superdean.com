@@ -5,7 +5,7 @@ theme:
 
 nav:
     - PBWC: index.md
-    - Ethusiast resources: collector.md
+    - Watchmakers: watchmaker.md
+    - Collectors: collector.md
     - On the bench: repairs.md
     - Complete builds: complete.md
-
