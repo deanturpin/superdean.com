@@ -2,12 +2,27 @@
 
 What's on the bench at the moment?
 
-## Molnija 3602 marriage watch 16''' (gold case)
+## Omega 161.009 gold-plated
 
-Standard pocket watch conversion.
+This was all ready to sell but has developed a rattle when you shake it.
 
-- [ ] Service donor 3602
-- [ ] Trial cream dial and black hands
+Really nice dress watch, if a little small. Serial 22190717 (1965), cal 552,
+crown very worn, can _just_ see the Omega logo, stem not engaging, rotor a
+little worn.
+
+- [x] Service (external)
+- [x] New leather strap
+- [ ] Get the back off and see what the rattle is
+
+### Serial 595600
+
+Marriage watch with case from eBay, regular wear even though it needs a bit of work still.
+
+- [x] Order NOS watch case
+- [x] Fit movement
+- [x] Fit silver hands -- seconds hand too tight, refitted original black
+- [x] Trim stem
+- [ ] Trial gold dagger 6497 hands
 
 ## 1975 Nino AS 2066 11.5'''
 
@@ -116,70 +131,12 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 
 - [ ] Review missing case screws
 - [ ] Measure timing
 
-## Molnija 3602/3 marriage watch 16'''
-
-So I've ended up with quite of few of these now! The latest is a 3603 with anitshock.
-
-I started out just trying to fix a pocket watch using another as a donor, but I
-managed to break both balances so I bought a third one to build the marriage
-watch. The others I'll sell or use as spares.
-
-### Serial 587360
-
-3603, balance is trying to start after a toot from the blower, looks like it wobbles but no obvious side shake (so pivots probably intact); keyless works/stem aren't engaging.
-
-- [ ] Inspect keyless works
-- [ ] Service
-
-### Serial 445602
-
-Trying to start, sounds very unbalanced (triplets) but actually looks OK. Pallet fork could be gummed up.
-
-- [ ] Service
-
-### Serial 998652
-
-Awesome forest scene case, broken fourth wheel.
-
-- [x] Measure bezel: 42.6mm 
-- [x] Replace fourth wheel
-- [x] Fit ratchet wheel screw
-- [x] Order new 42.8mm crystal (next largest I could find)
-- [ ] Fit new crystal -- crystal press not large enough!
-- [ ] Fit working balance
-- [ ] New hands
-- [ ] New dial
-
-### Serial 594243
-
-Broken balance, good hands, case much newer but not as nice as the wolf one, full hunter, pallet bridge has crazy big screws in it, ran overnight after swapping in a good balance (but only in dial down position).
-
-- [x] Reseat click
-- [ ] Find correct pallet fork bridge screws
-
-### Serial 595600
-
-Marriage watch with case from eBay, regular wear even though it needs a bit of work still.
-
-- [x] Order NOS watch case
-- [x] Fit movement
-- [x] Fit silver hands -- seconds hand too tight, refitted original black
-- [ ] Trim stem
-- [ ] Fit correct silver seconds hand
-
-### References
-
-- [Molnija 3601 3602 3603 differences](https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/)
-- [Ranfft 3602](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
-- [Linux Focus -- comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
-
-## Raketa 2609.HA 11.5'''
+## Raketa 2609.HA 11.5''' (ready to sell)
 
 Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
 
-- [x] Estimate amplitude (slomo video) -- approx 200&deg;
-- [x] Potential loose dial (rattles when you tap it but case screws are tight) -- was missing a dial screw
+- [x] Estimate amplitude (slomo video): approx 200&deg;
+- [x] Potential loose dial (rattles when you tap it but case screws are tight): was missing a dial screw
 - [x] Clean dial
 - [x] Put case in ultrasonic
 - [x] Polywatch crystal
-

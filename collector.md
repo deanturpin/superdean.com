@@ -1,4 +1,4 @@
-# Enthusiast resources
+# Collector resources
 
 ## Micro brands
 
@@ -9,19 +9,19 @@
 - [Kopf](http://kopf.watch/)
 - [Minhoon Yoo](https://minhoonyoo.com/)
 - [The Camden Watch Company](https://www.camdenwatchcompany.com/)
-- [Molnar Fabry](Molnar Fabry) -- based in Slovakia
+- [Molnar Fabry](Molnar Fabry): based in Slovakia
 - [Bourlinger](https://www.bourlinger.com/)
-- [CAP](https://en.cap-watch.com/) -- sustainability, recycled materials
-- [Sequent](https://sequentworld.com/en-gb/products/elektron-hr-2-2-space-white-rubber) -- mechanical smartwatch
+- [CAP](https://en.cap-watch.com/): sustainability, recycled materials
+- [Sequent](https://sequentworld.com/en-gb/products/elektron-hr-2-2-space-white-rubber): mechanical smartwatch
 
 ## In-house movements
 
 - [A. Lange & Söhne](https://www.alange-soehne.com/)
 - [F.P.Journe](https://www.fpjourne.com/)
 - [Speake-Marin](https://www.speake-marin.com/)
-- [Frederic Jouvenot](https://fjouvenot.com/solar-deity-collection/amaterasu-titanium/) -- unusual sundial face
+- [Frederic Jouvenot](https://fjouvenot.com/solar-deity-collection/amaterasu-titanium/): unusual sundial face
 - [Moritz Grossman](https://en.grossmann-uhren.com/)
-- [Leica](https://leica-camera.com/en-GB/World-of-Leica/Leica-Watch) -- camera-inspired
+- [Leica](https://leica-camera.com/en-GB/World-of-Leica/Leica-Watch): camera-inspired
 - [Glashütte Original](https://www.glashuette-original.com/)
 
 ## Alien technology
@@ -30,20 +30,20 @@
 
 ## Miyota
 
-- [Sternglas](https://www.sternglas.com/) -- that Glashütte look on a budget
-- [Vario](https://vario.sg/pages/ww1-trench-watch) -- inspired by WW1 trench watches
-- [Autogromo](https://autodromo.com/) -- driving-inspired
+- [Sternglas](https://www.sternglas.com/): that Glashütte look on a budget
+- [Vario](https://vario.sg/pages/ww1-trench-watch): inspired by WW1 trench watches
+- [Autogromo](https://autodromo.com/): driving-inspired
 
 ## Seagull
 
 - [Studio Underd0g](https://underd0g.com/)
-- [Forge and Foster](https://forgeandfoster.com/) -- Hublot kind of aesthetic
+- [Forge and Foster](https://forgeandfoster.com/): Hublot kind of aesthetic for £300
 
 ## NH35
 
 - [Shoreham](https://www.shorehamwatches.com/)
 - [Spinnaker](https://spinnaker-watches.com/)
-- [Adley](https://watchadley.co/) -- bike-inspired design
+- [Adley](https://watchadley.co/): bike-inspired design
 - [Camden Watch Company](https://www.camdenwatchcompany.com/)
 
 ## Watches you should have bought
@@ -55,22 +55,22 @@ But are sold out now so tough.
 
 ## Straps
 
-- [Gleave London](https://gleave.london/straps/) -- inexpensive leather straps
-- [Barton](https://www.bartonwatchbands.com/) -- low- to mid-priced (also Horween leather)
-- [Strap Tailor](https://thestraptailor.com/) -- mid- to high-priced straps
-- [Strap Bandits](https://www.strapbandits.com/) -- mid-priced fabric straps
+- [Gleave London](https://gleave.london/straps/): inexpensive leather straps
+- [Barton](https://www.bartonwatchbands.com/): low- to mid-priced (also Horween leather)
+- [Welwyn](https://welwynwatchparts.co.uk/collections/leather-straps): low- to mid-priced
+- [Strap Bandits](https://www.strapbandits.com/): mid-priced fabric straps
+- [Uncle](https://unclestraps.com/): mid-priced
+- [Strap Tailor](https://thestraptailor.com/): mid- to high-priced straps
+- [Delug](https://delugs.com/): mid- to high-priced
 - [Watch Gecko](https://www.watchgecko.com/)
-- [Welwyn](https://welwynwatchparts.co.uk/collections/leather-straps) - low- to mid-priced
-- [Uncle](https://unclestraps.com/) -- mid-priced
-- [Delug](https://delugs.com/) -- mid- to high-priced
 
 ### High end
 
-- [Forstner](https://forstnerbands.com/) -- steel bracelets
-- [Vulcain](https://www.vulcanwatchstraps.com/) -- Rolex rubber straps
-- [Rubber B](https://rubberb.com/) -- rubber straps
+- [Forstner](https://forstnerbands.com/): steel bracelets
+- [Vulcain](https://www.vulcanwatchstraps.com/): Rolex rubber straps
+- [Rubber B](https://rubberb.com/): rubber straps
 - [Everest](https://www.everestbands.com/)
-- [Café Leather](https://cafeleather.com/best-leather-watch-straps/) -- for all your leather requirements
+- [Café Leather](https://cafeleather.com/best-leather-watch-straps/): for all your leather requirements
 - [Jean Rousseau](https://www.jean-rousseau.com/gb/product-category/watch-straps-gb/)
 
 ## Stores
@@ -94,7 +94,7 @@ But are sold out now so tough.
 
 ## Enthusiast books
 
-- [A Man and His Watch](https://www.waterstones.com/book/a-man-and-his-watch/matthew-hranek/9781579657147) (Paul Newman's Daytona) -- Matthew Hranek
+- [A Man and His Watch](https://www.waterstones.com/book/a-man-and-his-watch/matthew-hranek/9781579657147) (Paul Newman's Daytona) by Matthew Hranek
 
 ## Enthusiast tools
 
@@ -114,21 +114,6 @@ See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-
 - Only buy what you love, don't fall for dealer tricks
 - Grow the relationship, be the person they want to call
 
-## Rules
+## Setting the date safely
 
-1. __To set the date safely__: move the hands to 6 o'clock, change the date to the day _before_ today, and then move the time forward to get the correct half of the day. Never fiddle with the date between 9pm and 4am; _but_, if it has a [_phantom_ date](https://calibercorner.com/phantom-date/) then good luck!
-
-## Brands to watch in 2023
-
-- 70th birthday Rolex Submariner
-- Rolex Milgauss discontinuation? Again?
-- Omega Seamaster Professional Diver 300M 007 Edition -- 42mm titanium
-- Christopher Ward C1 [Bel
-  Canto](https://www.christopherward.com/bel-canto-watches) Limited Edition --
-will be interesting to see what this does for the brand, maybe too many colour
-options in the second batch? But good to see they haven't rerun the original two
-dial colours (for those who got there first.)
-
-See Teddy B's [America watch brands
-radar](https://teddybaldassarre.com/blogs/watches/american-watch-brands).
-
+Move the hands to 6 o'clock, change the date to the day _before_ today, and then move the time forward to get the correct half of the day. Never fiddle with the date between 9pm and 4am; _but_, if it has a [phantom date](https://calibercorner.com/phantom-date/) then good luck!

@@ -2,15 +2,6 @@
 
 The following builds are complete and/or sold on.
 
-## Omega 161.009 gold-plated
-
-Really nice dress watch, if a little small. Serial 22190717 (1965), cal 552,
-crown very worn, can _just_ see the Omega logo, stem not engaging, rotor a
-little worn.
-
-- [x] Service (external)
-- [x] New leather strap
-
 ## Omega 131.019 gold-plated (sold)
 
 30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
@@ -72,4 +63,3 @@ for £9.
 - [x] Replace battery -- still not running
 - [x] Ordered new Ronda 513
 - [x] Replace coil, hands very difficult to remove
-
