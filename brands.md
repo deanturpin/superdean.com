@@ -1,0 +1,134 @@
+# Enthusiast resources
+
+## Micro brands
+
+- [Christopher Ward](https://www.christopherward.com/)
+- [Farer](https://farer.com/)
+- [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
+- [BA111OD](https://ba111od.com/)
+- [Kopf](http://kopf.watch/)
+- [Minhoon Yoo](https://minhoonyoo.com/)
+- [The Camden Watch Company](https://www.camdenwatchcompany.com/)
+- [Molnar Fabry](Molnar Fabry) -- based in Slovakia
+- [Bourlinger](https://www.bourlinger.com/)
+- [CAP](https://en.cap-watch.com/) -- sustainability, recycled materials
+- [Sequent](https://sequentworld.com/en-gb/products/elektron-hr-2-2-space-white-rubber) -- mechanical smartwatch
+
+## In-house movements
+
+- [A. Lange & Söhne](https://www.alange-soehne.com/)
+- [F.P.Journe](https://www.fpjourne.com/)
+- [Speake-Marin](https://www.speake-marin.com/)
+- [Frederic Jouvenot](https://fjouvenot.com/solar-deity-collection/amaterasu-titanium/) -- unusual sundial face
+- [Moritz Grossman](https://en.grossmann-uhren.com/)
+- [Leica](https://leica-camera.com/en-GB/World-of-Leica/Leica-Watch) -- camera-inspired
+- [Glashütte Original](https://www.glashuette-original.com/)
+
+## Alien technology
+
+- [HYT](https://hytwatches.com/)
+
+## Miyota
+
+- [Sternglas](https://www.sternglas.com/) -- that Glashütte look on a budget
+- [Vario](https://vario.sg/pages/ww1-trench-watch) -- inspired by WW1 trench watches
+- [Autogromo](https://autodromo.com/) -- driving-inspired
+
+## Seagull
+
+- [Studio Underd0g](https://underd0g.com/)
+- [Forge and Foster](https://forgeandfoster.com/) -- Hublot kind of aesthetic
+
+## NH35
+
+- [Shoreham](https://www.shorehamwatches.com/)
+- [Spinnaker](https://spinnaker-watches.com/)
+- [Adley](https://watchadley.co/) -- bike-inspired design
+- [Camden Watch Company](https://www.camdenwatchcompany.com/)
+
+## Watches you should have bought
+
+But are sold out now so tough.
+
+- [Christopher Ward Bel Canto](https://www.christopherward.com/c1-bel-canto-blue.html)
+- [Studio Underd0g Go0fy Panda (Gen2)](https://underd0g.com/products/01gpb)
+
+## Straps
+
+- [Gleave London](https://gleave.london/straps/) -- inexpensive leather straps
+- [Barton](https://www.bartonwatchbands.com/) -- low- to mid-priced (also Horween leather)
+- [Strap Tailor](https://thestraptailor.com/) -- mid- to high-priced straps
+- [Strap Bandits](https://www.strapbandits.com/) -- mid-priced fabric straps
+- [Watch Gecko](https://www.watchgecko.com/)
+- [Welwyn](https://welwynwatchparts.co.uk/collections/leather-straps) - low- to mid-priced
+- [Uncle](https://unclestraps.com/) -- mid-priced
+- [Delug](https://delugs.com/) -- mid- to high-priced
+
+### High end
+
+- [Forstner](https://forstnerbands.com/) -- steel bracelets
+- [Vulcain](https://www.vulcanwatchstraps.com/) -- Rolex rubber straps
+- [Rubber B](https://rubberb.com/) -- rubber straps
+- [Everest](https://www.everestbands.com/)
+- [Café Leather](https://cafeleather.com/best-leather-watch-straps/) -- for all your leather requirements
+- [Jean Rousseau](https://www.jean-rousseau.com/gb/product-category/watch-straps-gb/)
+
+## Stores
+
+- [Watchfinder](https://www.watchfinder.co.uk)
+- [Teddy Baldasssarre](https://teddybaldassarre.com)
+- [Pride and Pinion](https://prideandpinion.com)
+- [Delray Watch](https://delraywatch.com)
+- [Watches of Switzerland](https://www.watches-of-switzerland.co.uk/)
+- [The Timeteller shop](https://thetimetellershop.com/)
+
+## Price trackers
+
+- [Chrono24](https://www.chrono24.co.uk/)
+- [Watch Charts](https://watchcharts.com/)
+
+## Enthusiast cleaning
+
+- [Nanoclear](https://nanoclear.com/)
+- [Polywatch](https://www.polywatch.de/)
+
+## Enthusiast books
+
+- [A Man and His Watch](https://www.waterstones.com/book/a-man-and-his-watch/matthew-hranek/9781579657147) (Paul Newman's Daytona) -- Matthew Hranek
+
+## Enthusiast tools
+
+Also see the pro tools section below.
+
+- [Everest](https://www.everestbands.com/collections/watch-tools-springbars)
+- [Barton](https://www.bartonwatchbands.com/en-gb/collections/watch-band-hardware)
+
+## Getting on the Rolex waiting list
+
+See [this article](https://www.vulcanwatchstraps.com/blog/how-to-beat-the-rolex-waiting-list).
+
+- Meet with multiple dealers
+- Some value purchase history, some value relationships
+- Set up appointments and multiple ADs and assess which store is best
+- Work your way up
+- Only buy what you love, don't fall for dealer tricks
+- Grow the relationship, be the person they want to call
+
+## Rules
+
+1. __To set the date safely__: move the hands to 6 o'clock, change the date to the day _before_ today, and then move the time forward to get the correct half of the day. Never fiddle with the date between 9pm and 4am; _but_, if it has a [_phantom_ date](https://calibercorner.com/phantom-date/) then good luck!
+
+## Brands to watch in 2023
+
+- 70th birthday Rolex Submariner
+- Rolex Milgauss discontinuation? Again?
+- Omega Seamaster Professional Diver 300M 007 Edition -- 42mm titanium
+- Christopher Ward C1 [Bel
+  Canto](https://www.christopherward.com/bel-canto-watches) Limited Edition --
+will be interesting to see what this does for the brand, maybe too many colour
+options in the second batch? But good to see they haven't rerun the original two
+dial colours (for those who got there first.)
+
+See Teddy B's [America watch brands
+radar](https://teddybaldassarre.com/blogs/watches/american-watch-brands).
+
