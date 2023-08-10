@@ -17,4 +17,5 @@ pages:
     # Publish
     - mv site public
     - cp tools.xlsx public/
+    - cp tools.png public/
 
