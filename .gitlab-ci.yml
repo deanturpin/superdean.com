@@ -1,12 +1,20 @@
 pages:
   image: ubuntu:devel
   stage: deploy
+  artifacts: {paths: [public/]}
   script:
+
+    # Deps
     - apt update
-    - apt install --yes curl
-    - curl -L md2html.germs.dev | bash
-    - cp *.png public/
+    - apt install --yes curl mkdocs
+
+    # Create new site and publish
+    - mkdocs new .
+    - mv _mkdocs.yml mkdocs.yml
+    - cp README.md docs/index.md
+    - mkdocs build
+
+    # Publish
+    - mv site public
     - cp tools.xlsx public/
-  artifacts:
-    paths: [public/]
 
