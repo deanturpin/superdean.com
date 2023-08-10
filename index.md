@@ -1,6 +1,6 @@
 # PBWC
 
-PBWC is a group of mostly like-minded collectors with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Watches encompass art, design, culture, history, jewellry, fashion, mechanics and physics (amongst other things.)
+PBWC is a group of mostly like-minded collectors with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Watches encompass art, design, culture, history, jewellery, fashion, mechanics and physics (amongst other things.)
 
 For those who haven't yet accepted their calling as a watchmaker, head over to the [collectors' page](collector.md).
 
@@ -16,7 +16,7 @@ See the [full spreadsheet](tools.xlsx).
 
 ### Inspect
 
-You don't need much to get started -- you're basically just having a closer look -- but I often go out and about with a loupe in my jacket pocket, just in case.
+You don't need much to get started, you're basically just having a closer look, but I often go out and about with a loupe in my jacket pocket. Just in case.
 
 - Eyeglass/loupe 2.8x (Bergeon 4422-3.5): note the Bergeon name is the focal length not the magnification
 - Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm)

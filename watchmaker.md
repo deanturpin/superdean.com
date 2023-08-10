@@ -1,4 +1,4 @@
-# PBWC: Society for the preservation, promotion and pure pleasure of watches
+# Watchmaker resources
 
 "Do better if possible and that is always possible.": François-Constantin to Jacques-Barthélémi Vacheron
 
