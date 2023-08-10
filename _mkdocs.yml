@@ -5,7 +5,7 @@ theme:
 
 nav:
     - PBWC: index.md
-    - Ethusiast resources: brands.md
+    - Ethusiast resources: collector.md
     - On the bench: repairs.md
     - Complete builds: complete.md
 
