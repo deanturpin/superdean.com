@@ -1,0 +1,5 @@
+site_name: PBWC
+site_author: Dean Turpin
+theme:
+    name: readthedocs
+
