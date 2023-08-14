@@ -13,8 +13,8 @@
 
 ## YouTube channels
 
-- [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival): Marshall is a bit of a legend
-- [Nekkid Watchmaker](https://youtube.com/@NekkidWatchmaker)
+- [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival): Marshall is a bit of a legend, essential viewing for aspiring watchmakers
+- [Nekkid Watchmaker](https://youtube.com/@NekkidWatchmaker): less polished production but a bit of a dude
 
 ## Mod kits
 
@@ -39,9 +39,7 @@
 
 ## Clean
 
-At this point it can start to become quite expensive; not only for the machines but also the consumables that you probably can't sell on quite so easily.
-
-Be careful putting your pallet forks and balance wheel in solvent as it can dissolve the [shellac](https://en.wikipedia.org/wiki/Shellac) that holds the pallet and roller jewels in place.
+At this point it can start to become quite expensive; not only for the machines but also the consumables that you probably can't sell on quite so easily. Be careful putting your pallet forks and balance wheel in solvent as it can dissolve the [shellac](https://en.wikipedia.org/wiki/Shellac) that holds the pallet and roller jewels in place.
 
 - Lighter fluid: readily available from a newsagent for £2.99
 - [Renata Essence](https://www.cousinsuk.com/product/renata-essence) hairspring degreaser£11.50 (standard)
@@ -80,6 +78,10 @@ A Timegrapher is the go-to tool for the job and at the low end they are surprisi
 ## Mainspring winders
 
 You can fix a lot by replacing parts rather than making new ones. But I think mainspring winders are the first step into it becoming serious. This _can_ be done by hand but people will get very cross about it if they find out.
+
+## Tweezers
+
+You can spend quite a bit on wood-tipped tweezers, and while they do give you a little more ping protection and safety handling dials, you're still going to need metal ones for fine work. So I think they're a complementary addition to your toolbox rather then essential (certainly for a beginner.)
 
 ## Pro tools and supplies
 

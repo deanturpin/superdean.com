@@ -8,9 +8,7 @@ For those who haven't yet accepted their calling as a watchmaker, head over to t
 
 There are myriad tools that can streamline your workflow; I've listed them in order so you can add more as you progress. And tools can be resold quite easily if you've gone far enough to scratch the itch.
 
-__tldr: expect to fork out £500 to service a basic watch.__
-
-![tools.png](tools.png)
+![Expect to fork out £500 to service a basic watch](tools.png)
 
 See the [full spreadsheet](tools.xlsx).
 
@@ -48,8 +46,8 @@ screw head or both.
 
 - Movement Holder, Gents Size, Carbon Fibre (Bergeon 4040-P): essential and even the Bergeon ones are reasonably-priced
 - Tweezers (Idealtek Anti-Magnetic No. 7 Very Fine, Curved Tips): I actually got a job lot of tweezers on eBay but these curved tipped ones are my favourite
-- Latex ESD Finger Protection Thimble Cots Medium, Pack Of 144 (Bergeon 7968-18)
-- Materials box / cloche: you will never have enough, quite nice to have a whole box for a build or spares of the same movement
+- Latex ESD Finger Protection Thimble Cots Large, Pack Of 144 (Bergeon 7968-18): the sizing of these is a bit of a mystery, I've never thought I had particularly big hands but anything smaller than large is unbearable and even they are a little tight on the thumbs
+- Materials box / cloche: you will never have enough, it's good to use a whole box for a complete build or spares of the same movement
 - Screwdriver with blades white 0.6mm (Bergeon 30080)
 - Screwdriver with Blades yellow 0.8mm
 - Screwdriver with Blades red 1.2mm
