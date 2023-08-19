@@ -23,8 +23,8 @@ You don't need much to get started, you're basically just having a closer look, 
 
 Next you might want to replace straps and maybe do a little cleaning and light buffing.
 
-- Spring Bar Tool (Bergeon 6767-F Watch): quite nice to choose straps with quick release spring bars if you can
-- Polywatch: acrylic crystal polish
+- Spring Bar Tool (Bergeon 6767-F Watch): it's nice to choose straps with quick release spring bars if you can
+- Polywatch: acrylic crystal polish (won't touch mineral glass)
 - Polishing buff (Bergeon 2290)
 
 ### Explore
@@ -32,16 +32,15 @@ Next you might want to replace straps and maybe do a little cleaning and light b
 Now we're cooking: get the case back off and inspect the insides for any issues.
 
 - Rubber Case Ball (Bergeon 8008): squishy ball case back remover that works far better than you might think
-- Case knife: pen knife style
-- Case knife: oyster shucker style; I generally prefer these to the pen knife style but it's good to have a choice
-- Rodico Premium (Bergeon 7033-1): for picking up dust and small components; often useful for manipulating hands
+- Case knife: pen knife style and oyster shucker style; I generally prefer the oyster-style but it's good to have a choice
+- Rodico Premium (Bergeon 7033-1): for picking up dust and small components; often useful for manipulating hands; a little Rodico on a stick is easier if you're using finger cots
 - Eyeglass/loupe 4x (Bergeon 4422-2.5): slightly more magnification
-- Eyeglass Holder (AF 176.530.24): just a loop of spring steel wire that goes around your head, the ones that clip on your glasses look nice but are much more expensive
+- Eyeglass Holder (AF 176.530.24): it's just a loop of spring steel wire that goes around your head, the ones that clip on your glasses look nice but can be more expensive; I tend to swap between depending how I'm feeling, eye glasses can get a little steamy too!
 - Case Cushion (Bergeon Gel Ø75mm): treat yourself to a decent, large gel cushion
 
 ### Strip down
 
-This is getting serious... and you'll need quite a few more tools. But you will have enough to completely dismantle a basic movement (and by "basic" I mean a three hand manual winder.) Note we are _replacing_ broken parts at this level, rather than making new ones. Always use the correct size screwdriver: you just risk chewing up the blades,
+This is getting serious... and you'll need quite a few more tools. But you will have enough to completely dismantle a basic movement (and by "basic" I mean a three hand manual winder.) Note we are _replacing_ broken parts at this level, rather than making new ones. And always use the correct size screwdriver, otherwise you just risk chewing up the blades,
 screw head or both.
 
 - Movement Holder, Gents Size, Carbon Fibre (Bergeon 4040-P): essential and even the Bergeon ones are reasonably-priced
@@ -58,7 +57,7 @@ screw head or both.
 - Cannon pinion remover: can be very expensive for such a niche tool; alternatively do it carefully in a bag with tweezers, I found some blunt end brass ones that work, pull upwards to avoid bending anything
 - Plastic pointy stick/peg wood: Starbucks call them "coffee stirrers" but they look like peg wood to me
 - Barrel press: eBay £5, if it's good enough for Marshall...
-- Crystal press: eBay £15.99, screw down seems a bit more controlled; I also padded the lower dies out with sticky felt furniture pads into a domed shaped
+- Crystal press: eBay £15.99, screw down seems a bit more controlled; I also padded the lower dies out with sticky felt furniture pads into a dome shape
 
 ### The next level
 
