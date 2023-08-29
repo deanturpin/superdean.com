@@ -4,31 +4,35 @@ What's on the bench at the moment?
 
 ## ST3600 build
 
-The ST3600 is an inexpensive but nice-looking ETA 6497 clone. I bought the movement, case, dial and hands separately on eBay. Make sure to buy a 37mm dial and not 38.9mm (which I bought first), and also the dial needs to be for the 6497 with the sub-dial at 9 o'clock, not for the 6498 with central seconds hand (which I also bought in my haste.)
+The ST3600 is an inexpensive but nice-looking ETA 6497 clone. I bought the movement, case, dial and hands separately on eBay. Make sure to buy a 37mm dial and not 38.9mm (which I bought first), and also the dial needs to be for the 6497 with the sub-dial at 9 o'clock, not the 6498 with central seconds hand (which I also bought in my haste.)
 
-You can but the whole build and minimal tools for not too much over £100.
+You can fund the whole build and tools for not too much over £100.
+
+Any resemblance to watches real or imagined is entirely intentional.
 
 ### Tools
 
-So you don't need many tools for this build... in theory. But I ended up dropping a case clamp into the movement and having to strip it down to retrieve it. And I did this twice! So, with a bit of luck you'll only need the following:
+You don't need many tools for this build... in theory. But I ended up dropping a case clamp into the movement and doing a full strip down to retrieve it. And I did this twice! So, if all goes well, here's the minimum set of tools for the build:
 
 #### Not to be skimped on (Swiss)
 
-- Tweezers, fine (e.g., Idealtek No. 7)
-- Bergeon eye glass
-- Bergeon squishy ball
-- Bergeon screwdriver, red
-- Bergeon screwdriver, pink
-- Bergeon hand pushers, red/grey
-- Rodico
+- Idealtek anti-magnetic number 7 very fine, curved tips
+- Bergeon 4422-2.5 eye glass
+- Bergeon 8008 squishy ball
+- Bergeon 30080 screwdriver, red (1.2mm)
+- Bergeon 30080 screwdriver, pink (1.6mm)
+- Bergeon 7033-1 rodico
 
 #### Can be skimped on (eBay)
 
+- Eye glass wire
 - Case cushion
-- Nippers or side-cutters, to trim the stem
-- Needle file, to file the threads after cutting the stem (may not be required, some fine sandpaper will probably do)
-- Finger cots, large (but if this is your first build these will make it harder)
-- Cloche (not essential as you'll have some little containers from the hands and dial, but nice to have)
+- Sharpie, to mark the stem
+- Nippers or side-cutters, to cut the stem to size
+- Polishing buff or needle file, to tidy up the stem after cutting (this is a Bergeon 2290)
+- Finger cots, large (these are Bergeon 7968-18)
+- Hand pushers (only used the 2mm one)
+- Cloche (inexpensive, but you can just use the containers from the hands and dial)
 
 ### Notes
 
