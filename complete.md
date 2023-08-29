@@ -2,6 +2,46 @@
 
 The following builds are complete and/or sold on.
 
+## ST3600 (28 August 2023)
+
+_Disclaimer: any resemblance to watches real or imagined is entirely intentional._
+
+You can fund the whole build and tools for not too much over £100.
+
+The ST3600 is an inexpensive but nice-looking ETA 6497 clone. I bought the movement, case, dial and hands separately on eBay. Make sure to buy a 37mm dial and not 38.9mm (which I bought first), and also the dial needs to be for the 6497 with the sub-dial at 9 o'clock, not the 6498 with central seconds hand (which I also bought in my eagerness.)
+
+### Tools
+
+You don't need many tools for this build... in theory. But I ended up dropping a case clamp into the movement and doing a complete disassembly to retrieve it. And I did this twice! So, if all goes well, here's the minimum set of tools required:
+
+#### Not to be skimped on (Swiss)
+
+- Idealtek anti-magnetic number 7 very fine, curved tips
+- Bergeon 4422-2.5 eye glass
+- Bergeon 8008 squishy ball
+- Bergeon 30080 screwdriver, red (1.2mm)
+- Bergeon 30080 screwdriver, pink (1.6mm)
+- Bergeon 7033-1 Rodico
+
+#### Can be skimped on (eBay)
+
+- Eye glass wire
+- Case cushion
+- Sharpie, to mark the stem
+- Nippers or side-cutters, to cut the stem to size
+- Polishing buff or needle file, to tidy up the stem after cutting (this is a Bergeon 2290)
+- Finger cots, large (these are Bergeon 7968-18)
+- Hand pushers (only used the 2mm one)
+- Cloche (inexpensive, but you could just use the containers from the hands and dial)
+
+### Notes
+
+Whilst on paper this is a simple build, the case clamps are particularly fiddly and need to be fitted with the movement in the case (unlike a vintage Omega 601, for instance, which can be swung out of the way.) With the movement in the case, really get in with the loupe to understand where the lip of the case is; you can press the movement gently into the case to make a little space for the clamp. And with a bit of luck you'll get the screw in.
+
+Once the balance is spinning, tighten the clamps and make sure it doesn't stop with pressure from compressing the dial.
+
+There is talk of these movements coming out of the factory unlubricated, but that's a whole different story, see [watchmaker resources](watchmaker.md) for an introduction to oiling.
+
 ## Omega 131.019 gold-plated (sold)
 
 30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
