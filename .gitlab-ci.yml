@@ -11,10 +11,11 @@ pages:
     # Create new site and publish
     - mkdocs new .
     - mv _mkdocs.yml mkdocs.yml
-    - cp README.md docs/index.md
+    - cp *.md docs/
     - mkdocs build
 
     # Publish
     - mv site public
     - cp tools.xlsx public/
+    - cp tools.png public/
 

@@ -3,3 +3,9 @@ site_author: Dean Turpin
 theme:
     name: readthedocs
 
+nav:
+    - PBWC: index.md
+    - Watchmakers: watchmaker.md
+    - Collectors: collector.md
+    - On the bench: repairs.md
+    - Complete builds: complete.md
