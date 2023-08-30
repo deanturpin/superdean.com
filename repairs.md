@@ -2,7 +2,22 @@
 
 What's on the bench at the moment?
 
-## Raketa 2609.HA 11.5''' (ready to sell)
+## 6498 build
+
+Actually a Seagull clone, thinking about the black ST3621 with sub-seconds at 6 o'clock. I have a really nice 37mm dial but it has no hole for the sub-seconds post; so is there something similar with a central seconds hand? It seems unlikely that I will be drilling it.
+
+See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&Unitas_6497).
+
+- 16.5''', Dm= 36.6mm, Do= 37.2mm
+- H= 4.2mm
+- F= 0.5mm
+- T= 1.85mm
+- 15/17 jewels
+- f = 18000 A/h
+- power reserve 50h
+- Hands 2.00 x 1.15 / 0.27mm
+
+## Raketa 2609.HA 11.5''' (listed)
 
 Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
 
