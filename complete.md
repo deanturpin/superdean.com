@@ -8,7 +8,27 @@ _Disclaimer: any resemblance to watches real or imagined is entirely intentional
 
 You can fund the whole build and tools for not too much over £100.
 
-The ST3600 is an inexpensive but nice-looking ETA 6497 clone. I bought the movement, case, dial and hands separately on eBay. Make sure to buy a 37mm dial and not 38.9mm (which I bought first), and also the dial needs to be for the 6497 with the sub-dial at 9 o'clock, not the 6498 with central seconds hand (which I also bought in my eagerness.)
+The ST3600 is an inexpensive but nice-looking ETA 6497 clone. I bought the movement, case, dial and hands separately on eBay. Make sure to buy a 37mm dial and not 38.9mm (which I bought first in error but still used the hands.)
+
+See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&Unitas_6497).
+
+- 16.5''', Dm= 36.6mm, Do= 37.2mm
+- H= 4.2mm
+- F= 0.5mm
+- T= 1.85mm
+- 15/17 jewels
+- f = 18000 A/h
+- power reserve 50h
+- Hands 2.00 x 1.15 / 0.27mm
+
+### Components
+
+All sourced from eBay.
+
+- [Case](https://www.ebay.co.uk/itm/183588605779?var=690982652345)
+- [Hands](https://www.ebay.co.uk/itm/184951851422?var=692737694119)
+- [Movement](https://www.ebay.co.uk/itm/314013048705)
+- [Dial](https://www.ebay.co.uk/itm/185468300563?var=693275967599)
 
 ### Tools
 
@@ -31,7 +51,7 @@ You don't need many tools for this build... in theory. But I ended up dropping a
 - Nippers or side-cutters, to cut the stem to size
 - Polishing buff or needle file, to tidy up the stem after cutting (this is a Bergeon 2290)
 - Finger cots, large (these are Bergeon 7968-18)
-- Hand pushers (only used the 2mm one)
+- Hand pushers (I only used the 2mm one)
 - Cloche (inexpensive, but you could just use the containers from the hands and dial)
 
 ### Notes

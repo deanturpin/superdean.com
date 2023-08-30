@@ -40,17 +40,16 @@ Now we're cooking: get the case back off and inspect the insides for any issues.
 
 ### Strip down
 
-This is getting serious... and you'll need quite a few more tools. But you will have enough to completely dismantle a basic movement (and by "basic" I mean a three hand manual winder.) Note we are _replacing_ broken parts at this level, rather than making new ones. And always use the correct size screwdriver, otherwise you just risk chewing up the blades,
-screw head or both.
+This is getting serious... and you'll need quite a few more tools. But you will have enough to completely disassemble                                                                              a basic movement (and by "basic" I mean a three hand manual winder.) Note we are _replacing_ broken parts at this level, rather than making new ones. And always use the correct size screwdriver, otherwise you just risk chewing up the blades, screw head or both.
 
 - Movement Holder, Gents Size, Carbon Fibre (Bergeon 4040-P): essential and even the Bergeon ones are reasonably-priced
 - Tweezers (Idealtek Anti-Magnetic No. 7 Very Fine, Curved Tips): I actually got a job lot of tweezers on eBay but these curved tipped ones are my favourite
 - Latex ESD Finger Protection Thimble Cots Large, Pack Of 144 (Bergeon 7968-18): the sizing of these is a bit of a mystery, I've never thought I had particularly big hands but anything smaller than large is unbearable and even they are a little tight on the thumbs
 - Materials box / cloche: you will never have enough, it's good to use a whole box for a complete build or spares of the same movement
 - Screwdriver with blades white 0.6mm (Bergeon 30080)
-- Screwdriver with Blades yellow 0.8mm
-- Screwdriver with Blades red 1.2mm
-- Screwdriver with Blades pink 1.6mm
+- Screwdriver with blades yellow 0.8mm
+- Screwdriver with blades red 1.2mm
+- Screwdriver with blades pink 1.6mm
 - Dial protector (Bergeon 6938): very cheap, or use the traditional "ripped baggy" (or both)
 - Hand Levers, 3.0mm Tips (Bergeon 5431): £40... buying these hurt! I also got some cheap ones from eBay for a 10th of the price and I've since lost one of the Bergeons
 - Hand Pusher, Red Ø0.80 - Grey Ø1.50mm (Bergeon 7404-2): I haven't needed any other size so far but fitting hands is still a little hit-and-miss for me
