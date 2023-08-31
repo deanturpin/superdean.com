@@ -2,6 +2,12 @@
 
 What's on the bench at the moment?
 
+## NH35 build
+
+- [New movement from Cousins](https://www.cousinsuk.com/product/eta-mechanical-movements?code=28242LP)
+- [Cool rainbow bezel](https://www.aliexpress.com/item/1005005905443640.html)
+- [Yachtmaster style case](https://www.aliexpress.com/item/1005005502271197.html?)
+
 ## 6498 build
 
 Actually a Seagull clone, thinking about the black ST3621 with sub-seconds at 6 o'clock. I have a really nice 37mm dial but it has no hole for the sub-seconds post; so is there something similar with a central seconds hand? It seems unlikely that I will be drilling it.
@@ -14,8 +20,16 @@ See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2usw
 - T= 1.85mm
 - 15/17 jewels
 - f = 18000 A/h
-- power reserve 50h
+- Power reserve 50h
 - Hands 2.00 x 1.15 / 0.27mm
+
+### References
+
+- [6497 vs 6498](https://calibercorner.com/eta-unitas-caliber-6497-vs-6498/)
+- [Omega 2211](https://calibercorner.com/omega-caliber-2211/)
+- [6498](https://calibercorner.com/eta-caliber-6498-2/)
+- [ST3600](https://calibercorner.com/seagull-caliber-st3600k/)
+- [Nice pilot with blue hands](https://www.amazon.co.uk/SN0117G-Stainless-Military-Mechanical-Wristwatch/dp/B0C3MNJ6WC?th=1)
 
 ## Raketa 2609.HA 11.5''' (listed)
 
