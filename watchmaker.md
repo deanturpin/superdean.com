@@ -21,7 +21,8 @@
 - [namoki](https://www.namokimods.com/): Seiko 5 mods
 - [DIY Watch Club](https://shop.diywatch.club/)
 - [Watch Modz](https://watch-modz.com/product-category/cases/)
-- [Crystal Times](https://usa.crystaltimes.net/)
+- [Crystal Times](https://usa.crystaltimes.net/) (US delivery only)
+- [Seiko Mods](https://www.seikomods.com/) (Crystal Times sister site)
 - [Secondhand Mods](https://secondhandmods.com/)
 - [DLW Watches](https://www.dlwwatches.com/)
 
