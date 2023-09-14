@@ -23,7 +23,7 @@
 - [Watch Modz](https://watch-modz.com/product-category/cases/)
 - [Crystal Times](https://usa.crystaltimes.net/)
 - [Secondhand Mods](https://secondhandmods.com/)
-- [DLW Wathces](https://www.dlwwatches.com/)
+- [DLW Watches](https://www.dlwwatches.com/)
 
 ## Beat frequencies
 

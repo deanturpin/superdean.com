@@ -25,6 +25,7 @@ See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2usw
 
 ### References
 
+- [Sapphire case](https://www.facebook.com/p/Hong-Kong-Bright-Sapphire-Co-Ltd-100057215358896/)
 - [6497 vs 6498](https://calibercorner.com/eta-unitas-caliber-6497-vs-6498/)
 - [Omega 2211](https://calibercorner.com/omega-caliber-2211/)
 - [6498](https://calibercorner.com/eta-caliber-6498-2/)
