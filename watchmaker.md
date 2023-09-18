@@ -43,7 +43,7 @@
 At this point it can start to become quite expensive; not only for the machines but also the consumables that you probably can't sell on quite so easily. Be careful putting your pallet forks and balance wheel in solvent as it can dissolve the [shellac](https://en.wikipedia.org/wiki/Shellac) that holds the pallet and roller jewels in place.
 
 - Lighter fluid: readily available from a newsagent for £2.99
-- [Renata Essence](https://www.cousinsuk.com/product/renata-essence) hairspring degreaser£11.50 (standard)
+- [Renata Essence](https://www.cousinsuk.com/product/renata-essence) hairspring degreaser £11.50 (standard)
 - Basket 25mm Mini Watch Part Cleaning Basket Economy: get a few of these, you can spend quite a lot but I went economy and I don't know any better; but I prefer the little brass threaded ones
 - Screw top jam jar, recycled and small, the shallower the better to get your bits out and not use lots of cleaning fluid
 
@@ -78,7 +78,7 @@ A Timegrapher is the go-to tool for the job and at the low end they are surprisi
 
 ## Mainspring winders
 
-You can fix a lot by replacing parts rather than making new ones. But I think mainspring winders are the first step into it becoming serious. This _can_ be done by hand but people will get very cross about it if they find out.
+You can fix a lot by replacing parts rather than making new ones; but I think mainspring winders are the first step into it becoming serious. This _can_ be done by hand, however, people will get very cross about it if they find out.
 
 ## Tweezers
 
