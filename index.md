@@ -1,6 +1,6 @@
 # PBWC
 
-We are a group of mostly like-minded collectors with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Watches encompass art, design, culture, history, jewellery, fashion, mechanics and physics (amongst other things.)
+We are a group of mostly like-minded collectors with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Watches encompass art, design, culture, history, jewellery, fashion, economics, mechanics and physics (amongst other things.)
 
 For those who haven't yet accepted their calling as a watchmaker, head over to the [collectors' page](collector.md).
 
