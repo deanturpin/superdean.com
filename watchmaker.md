@@ -4,11 +4,11 @@
 
 ## Books and films
 
-- Practical Watch Repairing by Donald de Carlo: essential reading
+- Practical Watch Repairing by Donald de Carlo: essential reading (get this first)
+- [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) featuring George Daniels and Roger W. Smith (and watch this to whet your appetite)
 - Lessons in Horology by Grossman
 - Joseph Bulova School of Watchmakers
 - Practical Treatise on Gearing by Brown and Sharpe (I haven't read this but what a title!)
-- [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) featuring George Daniels and Roger W. Smith
 - [Masters of Time: The World of Swiss Complicated Watches](https://www.youtube.com/watch?v=CtkcLjiNy_0): the work of independent watchmakers Pilippe Dufour and Antonio Prezioso
 
 ## YouTube channels
@@ -41,7 +41,7 @@
 
 ## Clean
 
-At this point it can start to become quite expensive; not only for the machines but also the consumables that you probably can't sell on quite so easily. Be careful putting your pallet forks and balance wheel in solvent as it can dissolve the [shellac](https://en.wikipedia.org/wiki/Shellac) that holds the pallet and roller jewels in place.
+At this point it can start to become quite expensive: not only for the machines but also the consumables that you probably can't sell on quite so easily. Be careful putting your pallet forks and balance wheel in solvent as it can dissolve the [shellac](https://en.wikipedia.org/wiki/Shellac) that holds the pallet and roller jewels in place.
 
 - Lighter fluid: readily available from a newsagent for £2.99
 - [Renata Essence](https://www.cousinsuk.com/product/renata-essence) hairspring degreaser £11.50 (standard)
@@ -52,7 +52,7 @@ You can do a job with the above, however, ultrasonic cleaners like [this one](ht
 
 ## Rebuild and lubricate
 
-A very complicated business, but let's look at the key areas of interest.
+Lubrication can become a very complicated business, so let's look at the key areas of interest. As a bare minimum you will need:
 
 - A light oil for the quickest moving parts ([Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube)): outrageously expensive!
 - A grease for the high-friction metal-on-metal components ([Moebius 8300](https://www.cousinsuk.com/product/moebius-8300-all-purpose-favourite))
@@ -71,15 +71,15 @@ __Full disclosure__: I also dip my oilers straight into the jars, which is proba
 - Moebius D5: slow wheels; e.g., arbor, cannon pinion, hour wheel, minute wheel
 - Moebius 9415: pallet fork jewels
 - Moebius 9501, DX: keyless works
-- Moebius 8217: for inside barrel wall (getting serious!)
+- Moebius 8217: "braking grease" for inside barrel wall (getting serious!)
 
 ## Timegraphers
 
-A Timegrapher is the go-to tool for the job and at the low end they are surprisingly inexpensive. But you can get some useful results from a phone app; use with an earbud mic if you're not in a completely quiet environment.
+A Timegrapher is the go-to tool for the job and at the low end they are surprisingly inexpensive. But you can get some useful results from a phone app: use with an earbud mic if you're not in a completely quiet environment.
 
 ## Mainspring winders
 
-You can fix a lot by replacing parts rather than making new ones; but I think mainspring winders are the first step into it becoming serious. This _can_ be done by hand, however, people will get very cross about it if they find out.
+You can fix a lot by replacing parts rather than making new ones; but I think mainspring winders are the first step into it becoming serious. This _can_ be done by hand, however, people will get very cross about it if they find out, and you may be compromising the power reserve of the watch.
 
 ## Tweezers
 
