@@ -1,4 +1,4 @@
-# Current repairs
+# Current builds and repairs
 
 What's on the bench at the moment?
 
@@ -72,8 +72,9 @@ Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.
 
 ## Omega 131.019 (steel)
 
-22M serial (1965), cal 601 non-runner, arrived in a case for an automatic, has
-some homemade case clamps.
+> So I rehomed this cal 601 and serviced it... but it doesn't run for very long. Could well be the mainspring as it was the first one I've done by hand.
+
+22M serial (1965), cal 601 non-runner, arrived in a case for an automatic, has some homemade case clamps.
 
 - [x] Buy correct NOS case for movement
 - [x] New mainspring  
@@ -86,8 +87,13 @@ some homemade case clamps.
 - [x] Trial with correct stem outside of the case -- doesn't fit
 - [x] Order new case clamps -- see [Omega case clamps](https://www.cousinsuk.com/PDF/categories/8427_Omega%20Case%20Clamps.pdf)
 - [x] Order new stem and crown (from Cousins) -- stem engages nicely
-- [ ] Trim stem and fit crown
-- [ ] Try oiling the jewels, only achieving approx. 170&deg; amplitude
+- [x] Trim stem and fit crown
+- [x] Try oiling the jewels, only achieving approx. 170&deg; amplitude
+
+### Stems
+
+- [Omega](https://gleave.london/stem-omega-480-1106/)
+- [Generic](https://www.cousinsuk.com/sku/details/omega-generic-movement-parts/ome6001106g)
 
 ## Omega 161.009 gold-plated
 
@@ -129,11 +135,6 @@ Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, bro
 - [x] Order donor movement
 - [ ] Replace mainspring (swap from donor)
 - [ ] Service
-
-### Stems
-
-- [Omega](https://gleave.london/stem-omega-480-1106/)
-- [Generic](https://www.cousinsuk.com/sku/details/omega-generic-movement-parts/ome6001106g)
 
 ## Citizen 2800A (sold)
 
