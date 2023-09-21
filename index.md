@@ -40,7 +40,7 @@ Now we're cooking: get the case back off and inspect the insides for any issues.
 
 ### Strip down
 
-This is getting serious... and you'll need quite a few more tools. But you will have enough to completely disassemble                                                                              a basic movement (and by "basic" I mean a three hand manual winder.) Note we are _replacing_ broken parts at this level, rather than making new ones. And always use the correct size screwdriver, otherwise you just risk chewing up the blades, screw head or both.
+This is getting serious... and you'll need quite a few more tools. But you will have enough to completely disassemble a basic movement (and by "basic" I mean a three hand manual winder.) Note we are _replacing_ broken parts at this level, rather than making new ones. And always use the correct size screwdriver, otherwise you just risk chewing up the blades, screw head or both.
 
 - Movement Holder, Gents Size, Carbon Fibre (Bergeon 4040-P): essential and even the Bergeon ones are reasonably-priced
 - Tweezers (Idealtek Anti-Magnetic No. 7 Very Fine, Curved Tips): I actually got a job lot of tweezers on eBay but these curved tipped ones are my favourite
@@ -60,4 +60,4 @@ This is getting serious... and you'll need quite a few more tools. But you will 
 
 ### The next level
 
-Take it to the next level by repairing and servicing your own watches; but know this: the rabbit hole goes __deep__... see where to go from here in [watchmaker's resources](watchmaker.md#clean).
+Take it to the next level by repairing and servicing your own watches; but know this: the rabbit hole goes _deep_... see where to go next in [watchmaker's resources](watchmaker.md#clean).
