@@ -63,7 +63,7 @@ But are sold out now so tough.
 - [Strap Tailor](https://thestraptailor.com/): mid- to high-priced straps
 - [Delug](https://delugs.com/): mid- to high-priced
 - [Monstraps](https://monstraps.com/): mid- to high-priced
-- [Watch Gecko](https://www.watchgecko.com/)
+- [Watch Gecko](https://www.watchgecko.com/): mid- to high-priced
 
 ### High end
 
