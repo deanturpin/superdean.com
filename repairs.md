@@ -60,6 +60,13 @@ See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2usw
 - [ST3600](https://calibercorner.com/seagull-caliber-st3600k/)
 - [Nice pilot with blue hands](https://www.amazon.co.uk/SN0117G-Stainless-Military-Mechanical-Wristwatch/dp/B0C3MNJ6WC?th=1)
 
+## 6497/8 stealthy
+
+- [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
+- [Red hand](https://www.ebay.co.uk/itm/265605795340?var=565394312836)
+- [Yellow hand](https://www.ebay.co.uk/itm/265605795340?var=565394312834)
+- [Blue hand](https://www.ebay.co.uk/itm/265605795340?var=565394312835)
+
 ## Raketa 2609.HA 11.5''' (listed)
 
 Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
