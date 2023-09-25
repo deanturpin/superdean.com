@@ -45,7 +45,8 @@ At this point it can start to become quite expensive: not only for the machines 
 
 - Lighter fluid: readily available from a newsagent for £2.99
 - [Renata Essence](https://www.cousinsuk.com/product/renata-essence) hairspring degreaser £11.50 (standard)
-- Basket 25mm Mini Watch Part Cleaning Basket Economy: get a few of these, you can spend quite a lot but I went economy and I don't know any better; but I prefer the little brass threaded ones
+- [Basket 25mm Mini Watch Part Cleaning Basket Economy](https://www.hswalsh.com/product/basket-25mm-mini-watch-part-cleaning-basket-economy-hb125)
+: get a few of these, you can spend quite a lot but I went economy and I don't know any better; but I prefer the little brass threaded ones
 - Screw top jam jar, recycled and small, the shallower the better to get your bits out and not use lots of cleaning fluid
 
 You can do a job with the above, however, ultrasonic cleaners like [this one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/) are a great way in. Not as efficient as a proper four-stage cleaning machine but very reasonably-priced and entertaining to use. You can also impressive your friends and relatives by cleaning jewellery and spectacles.
