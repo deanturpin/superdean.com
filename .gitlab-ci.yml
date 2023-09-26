@@ -14,7 +14,7 @@ pages:
     - mkdocs new .
     - mv _mkdocs.yml mkdocs.yml
     - cp *.md docs/
-    - cp -r img docs/
+    - cp *.jpg docs/
     - mkdocs build
 
     # Publish
