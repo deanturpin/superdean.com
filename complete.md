@@ -21,6 +21,12 @@ See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2usw
 - power reserve 50h
 - Hands 2.00 x 1.15 / 0.27mm
 
+![ST3600 front](img/st3600_front.jpg)
+
+![ST3600 rear](img/st3600_rear.jpg)
+
+![ST3600 tools](img/st3600_tools.jpg)
+
 ### Components
 
 All sourced from eBay.
