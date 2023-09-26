@@ -86,6 +86,10 @@ You can fix a lot by replacing parts rather than making new ones; but I think ma
 
 There are dedicated tools for this but you can get away with a pair of side cutters and some sandpaper. And I like to finish on a Bergeon polishing buff. Now, how much stem should you leave? Often it seems quite subjective but 0.1mm between crown and case is a good rule of thumb. You could measure it precisely with a feeler gauge, but equally, if you have a micrometer, you can find a piece of paper the correct thickness and use that.
 
+## Case clamps
+
+Something that cost me a lot of time and frustration is flicking a case clamp deep into a movement. So when casing up I've made it a habit of tipping the movent up a little so if the clamp or screw decides to jump it will probably end up on the case cushion.
+
 ## Tweezers
 
 You can spend quite a bit on wood-tipped tweezers, and while they do give you a little more ping protection and safety handling dials, you're still going to need metal ones for fine work. So I think they're a complementary addition to your toolbox rather then essential (certainly for a beginner.)
