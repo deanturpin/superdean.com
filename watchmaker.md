@@ -82,6 +82,10 @@ A Timegrapher is the go-to tool for the job and at the low end they are surprisi
 
 You can fix a lot by replacing parts rather than making new ones; but I think mainspring winders are the first step into it becoming serious. This _can_ be done by hand, however, people will get very cross about it if they find out, and you may be compromising the power reserve of the watch.
 
+## Cutting stems
+
+There are dedicated tools for this but you can get away with a pair of side cutters and some sandpaper. And I like to finish on a Bergeon polishing buff. Now, how much stem should you leave? Often it seems quite subjective but 0.1mm between crown and case is a good rule of thumb. You could measure it precisely with a feeler gauge, but equally, if you have a micrometer, you can find a piece of paper the correct thickness and use that.
+
 ## Tweezers
 
 You can spend quite a bit on wood-tipped tweezers, and while they do give you a little more ping protection and safety handling dials, you're still going to need metal ones for fine work. So I think they're a complementary addition to your toolbox rather then essential (certainly for a beginner.)

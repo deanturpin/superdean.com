@@ -14,6 +14,7 @@ pages:
     - mkdocs new .
     - mv _mkdocs.yml mkdocs.yml
     - cp *.md docs/
+    - cp -r img docs/
     - mkdocs build
 
     # Publish
@@ -21,4 +22,3 @@ pages:
     - mv site public
     - cp tools.xlsx public/
     - cp tools.png public/
-    - cp -r img public/
