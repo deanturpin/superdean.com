@@ -13,6 +13,8 @@ The dial comes with extra feet for other movements, these can just be twisted of
 - [Gold dial](https://www.ebay.co.uk/itm/125386605361?var=426399896939)
 - [Gold hands](https://www.ebay.co.uk/itm/354891209789?var=624196900074)
 
+I have to say, this movement does feel a little cheap compared to the ST3600. Quite a few of the wheels are plastic but it does feel quite robust: you can spin the rotor around over the balance and handle it quite roughly.
+
 ### Comments from Facebook
 
 My questions:

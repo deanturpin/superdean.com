@@ -6,6 +6,8 @@ The following builds are complete and/or sold on.
 
 _Disclaimer: any resemblance to watches real or imagined is entirely intentional._
 
+![ST3600 front](img/st3600_front.jpg)
+
 You can fund the whole build and tools for not too much over £100.
 
 The ST3600 is an inexpensive but nice-looking ETA 6497 clone. I bought the movement, case, dial and hands separately on eBay. Make sure to buy a 37mm dial and not 38.9mm (which I bought first in error but still used the hands.)
@@ -21,11 +23,7 @@ See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2usw
 - power reserve 50h
 - Hands 2.00 x 1.15 / 0.27mm
 
-![ST3600 front](img/st3600_front.jpg)
-
 ![ST3600 rear](img/st3600_rear.jpg)
-
-![ST3600 tools](img/st3600_tools.jpg)
 
 ### Components
 
@@ -39,6 +37,8 @@ All sourced from eBay.
 ### Tools
 
 You don't need many tools for this build... in theory. But I ended up dropping a case clamp into the movement and doing a complete disassembly to retrieve it. And I did this twice! So, if all goes well, here's the minimum set of tools required:
+
+![ST3600 tools](img/st3600_tools.jpg)
 
 #### Not to be skimped on (Swiss)
 

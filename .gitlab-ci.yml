@@ -5,17 +5,20 @@ pages:
   script:
 
     # Deps
+
     - apt update
     - apt install --yes curl mkdocs
 
-    # Create new site and publish
+    # Create new site
+
     - mkdocs new .
     - mv _mkdocs.yml mkdocs.yml
     - cp *.md docs/
     - mkdocs build
 
     # Publish
+
     - mv site public
     - cp tools.xlsx public/
     - cp tools.png public/
-
+    - cp -r img public/
