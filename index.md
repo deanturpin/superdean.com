@@ -50,7 +50,7 @@ This is getting serious... and you'll need quite a few more tools. But you will 
 - Screwdriver with blades yellow 0.8mm
 - Screwdriver with blades red 1.2mm
 - Screwdriver with blades pink 1.6mm
-- Dial protector (Bergeon 6938): very cheap, or use the traditional "ripped baggy" (or both)
+- Dial protector (Bergeon 6938): very cheap, or use the traditional "ripped baggy" (I've found that hands can sometimes ping off so the baggy does at least prevent that)
 - Hand Levers, 3.0mm Tips (Bergeon 5431): £40... buying these hurt! I also got some cheap ones from eBay for a 10th of the price and I've since lost one of the Bergeons
 - Hand Pusher, Red Ø0.80 - Grey Ø1.50mm (Bergeon 7404-2): I haven't needed any other size so far but fitting hands is still a little hit-and-miss for me
 - Cannon pinion remover: can be very expensive for such a niche tool; alternatively do it carefully in a bag with tweezers, I found some blunt end brass ones that work, pull upwards to avoid bending anything
