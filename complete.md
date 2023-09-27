@@ -1,25 +1,54 @@
 # Serviced/fixed/sold
 
-The following builds are complete and/or sold on.
+## NH35a build (27 September 2023)
 
-## NH35 build (27 September 2023)
-
-![NH35a front](nh35a_front.jpg)
-
-Don't remove the plastic spacer ring from the movement, it comes off a lot easier than it goes back on.
-
-The dial comes with extra feet for other movements, these can just be twisted off with an old pair of blunt tweezers. This leaves little nubs but the dial is soft any they can quickly be ground off with sandpaper. The ones you want to remove are those with the smallest gap between them.
+This is my first NH35a build: I just wanted to get a feel for it given the abundance of mod kits for these Seiko movements. (I'm two years in, and mostly been tinkering with vintage Swiss/Soviet Union movements and a couple of new Seagulls.)
 
 - [Clear diver case](https://www.ebay.co.uk/itm/175384131933)
 - [NH35A](https://www.ebay.co.uk/itm/374352507306)
 - [Gold dial](https://www.ebay.co.uk/itm/125386605361?var=426399896939)
 - [Gold hands](https://www.ebay.co.uk/itm/354891209789?var=624196900074)
 
+![NH35a front](nh35a_front.jpg)
+
+Initially I was confused by the dial feet spacing so I removed the plastic movement spacer. Do not do this! Unless you want to disassemble the calendar works to get it back on again. However, having done this I was surprised to discover how many plastic components are in there.
+
+The dial comes with extra feet for other movements, these can simply be twisted off with an old pair of blunt tweezers. This does leave little nubs that will stop the dial laying flat but the dial is soft and they can quickly be ground off with sandpaper. The feet you need to remove are those with the smallest gap between them.
+
 ![NH35a rear](nh35a_rear.jpg)
 
-I have to say, this movement does feel a little cheap compared to the ST3600. Quite a few of the wheels are plastic but it does feel quite robust: you can spin the rotor around over the balance and handle it quite roughly. A fun piece if a little cheap!
+I have to say, this movement does feel a little cheap compared to the ST3600, but it is also pretty rugged. I thought I'd broken it putting the dial side back together and then didn't follow the usual precautions: lost an index, bent a hand... but when I realised what I'd done -- I'd actually fitted one of those plastic wheels upside down so you couldn't move the hands -- I popped the cots back on and did it properly! Finally, you don't need the extra movement spacer that came with the case, nor does this movement require a dial washer.
+
+In conclusion: this case looks cool but it feels very poor quality: the bezel tolerance is particularly poor. But it was a fun little project that I shall be wearing after all.
 
 ![NH35a tools](nh35a_tools.jpg)
+
+### Tools
+
+If I hadn't cocked up the spacer I wouldn't have needed a screwdriver.
+
+#### Not to be skimped on (Swiss)
+
+- Tweezers (e.g., Idealtek anti-magnetic number 7 very fine, curved tips)
+- Bergeon 4422-2.5 eye glass
+- Bergeon 8008 squishy ball
+- Bergeon 7033-1 Rodico
+
+#### Can be skimped on (eBay)
+
+- Blunt tweezers (to remove the extra dial feet)
+- Pointy stick (to release the stem)
+- Eye glass wire
+- Case cushion
+- Blower
+- Sharpie, to mark the stem
+- Nippers or side-cutters, to cut the stem to size
+- Polishing buff or needle file, to tidy up the stem after cutting (this is a Bergeon 2290)
+- Finger cots, large (these are Bergeon 7968-18)
+- Hand pushers (pack of 4)
+- Hand levers
+- Baggy (to protect the dial)
+- Sandpaper (to tidy the stem and remove the extra dial feet)
 
 ## ST3600 (28 August 2023)
 
