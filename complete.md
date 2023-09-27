@@ -2,6 +2,25 @@
 
 The following builds are complete and/or sold on.
 
+## NH35 build (27 September 2023)
+
+![NH35a front](nh35a_front.jpg)
+
+Don't remove the plastic spacer ring from the movement, it comes off a lot easier than it goes back on.
+
+The dial comes with extra feet for other movements, these can just be twisted off with an old pair of blunt tweezers. This leaves little nubs but the dial is soft any they can quickly be ground off with sandpaper. The ones you want to remove are those with the smallest gap between them.
+
+- [Clear diver case](https://www.ebay.co.uk/itm/175384131933)
+- [NH35A](https://www.ebay.co.uk/itm/374352507306)
+- [Gold dial](https://www.ebay.co.uk/itm/125386605361?var=426399896939)
+- [Gold hands](https://www.ebay.co.uk/itm/354891209789?var=624196900074)
+
+![NH35a rear](nh35a_rear.jpg)
+
+I have to say, this movement does feel a little cheap compared to the ST3600. Quite a few of the wheels are plastic but it does feel quite robust: you can spin the rotor around over the balance and handle it quite roughly. A fun piece if a little cheap!
+
+![NH35a tools](nh35a_tools.jpg)
+
 ## ST3600 (28 August 2023)
 
 _Disclaimer: any resemblance to watches real or imagined is entirely intentional._
