@@ -1,54 +1,59 @@
 # Serviced/fixed/sold
 
-## NH35a build (27 September 2023)
+## NH35A build (27 September 2023)
 
-This is my first NH35a build: I just wanted to get a feel for it given the abundance of mod kits for these Seiko movements. (I'm two years in, and mostly been tinkering with vintage Swiss/Soviet Union movements and a couple of new Seagulls.)
+This is my first NH35A build. I just wanted to get a feel for it given the abundance of mod kits for these Seiko movements. (For reference: I'm two years into the hobby, and have mostly been tinkering with vintage Swiss/Soviet Union movements and a couple of new Seagulls.)
+
+£60 for the parts, probably the same again on tools.
 
 - [Clear diver case](https://www.ebay.co.uk/itm/175384131933)
 - [NH35A](https://www.ebay.co.uk/itm/374352507306)
 - [Gold dial](https://www.ebay.co.uk/itm/125386605361?var=426399896939)
 - [Gold hands](https://www.ebay.co.uk/itm/354891209789?var=624196900074)
 
-![NH35a front](nh35a_front.jpg)
+![NH35A front](nh35a_front.jpg)
 
-Initially I was confused by the dial feet spacing so I removed the plastic movement spacer. Do not do this! Unless you want to disassemble the calendar works to get it back on again. However, having done this I was surprised to discover how many plastic components are in there.
+Initially I was confused by the dial feet spacing so I removed the plastic movement spacer. _Do not do this!_ Unless you want to disassemble the calendar works to get it back on again. However, having done this, I was surprised to discover how many plastic components are in there.
 
-The dial comes with extra feet for other movements, these can simply be twisted off with an old pair of blunt tweezers. This does leave little nubs that will stop the dial laying flat but the dial is soft and they can quickly be ground off with sandpaper. The feet you need to remove are those with the smallest gap between them.
+The dial comes with extra feet for other movements, but these can simply be twisted off with an old pair of blunt tweezers. This does leave little nubs that will stop the dial laying flat but the dial is soft and they can quickly be ground off with sandpaper. The feet you need to remove are those with the smallest gap between them.
 
-![NH35a rear](nh35a_rear.jpg)
+![NH35A rear](nh35a_rear.jpg)
 
-I have to say, this movement does feel a little cheap compared to the ST3600, but it is also pretty rugged. I thought I'd broken it putting the dial side back together and then didn't follow the usual precautions: lost an index, bent a hand... but when I realised what I'd done -- I'd actually fitted one of those plastic wheels upside down so you couldn't move the hands -- I popped the cots back on and did it properly! Finally, you don't need the extra movement spacer that came with the case, nor does this movement require a dial washer.
+I have to say, this movement does feel a little cheap compared to an ST3600, say, but it is also pretty rugged. I actualy thought I'd broken it putting the dial side back together and then didn't follow the usual precautions: subsequently lost an index and bent a hand... but when I realised what I'd done I popped the cots back on and continued properly! (I'd actually fitted one of those plastic wheels _upside down_ so you couldn't adjust the hands.) Finally, you don't need the extra movement spacer that came with the case, nor does this movement require a dial washer.
 
-In conclusion: this case looks cool but it feels very poor quality: the bezel tolerance is particularly poor. But it was a fun little project that I shall be wearing after all.
+In conclusion: this case looks cool but it feels very poor quality: the bezel tolerance is particularly bad. But it was a fun little project that will stay in the collection.
 
-![NH35a tools](nh35a_tools.jpg)
+![NH35A tools](nh35a_tools.jpg)
 
 ### Tools
 
-If I hadn't cocked up the spacer I wouldn't have needed a screwdriver.
+If I hadn't cocked up the spacer I wouldn't have needed a screwdriver at all. [For reference, I used a Bergeon 30080 screwdriver, red (1.2mm) to remove the calendar works... although it might atually be a 1.4mm.]
 
 #### Not to be skimped on (Swiss)
 
-- Tweezers (e.g., Idealtek anti-magnetic number 7 very fine, curved tips)
+- Tweezers (you don't need these expensive ones for this job, but they are Dumoxel Non Magnetic Tweezers with Boxwood Tips)
 - Bergeon 4422-2.5 eye glass
 - Bergeon 8008 squishy ball
 - Bergeon 7033-1 Rodico
 
 #### Can be skimped on (eBay)
 
-- Blunt tweezers (to remove the extra dial feet)
-- Pointy stick (to release the stem)
+- Blunt tweezers, to remove the extra dial feet and hold the square section of the stem (these are brass from a job lot)
+- Finger cots, large (these are Bergeon 7968-18)
+- Hand pushers (Hand Fitting Tool Set, Deluxe from CousinsUK)
+- Pointy stick, to release the stem
 - Eye glass wire
-- Case cushion
-- Blower
 - Sharpie, to mark the stem
 - Nippers or side-cutters, to cut the stem to size
-- Polishing buff or needle file, to tidy up the stem after cutting (this is a Bergeon 2290)
-- Finger cots, large (these are Bergeon 7968-18)
-- Hand pushers (pack of 4)
-- Hand levers
-- Baggy (to protect the dial)
-- Sandpaper (to tidy the stem and remove the extra dial feet)
+- 600 grit sandpaper, to clean up the stem and remove the extra dial feet
+
+#### Nice to have
+
+- Case cushion (slightly contentious but you _could_ get away with just a cloth)
+- Hand levers (assuming you don't get it right first time)
+- Baggy, to protect the dial when removing the hands
+- Blower
+- Polishing buff or needle file, to refine the stem after cutting (this is a Bergeon 2290)
 
 ## ST3600 (28 August 2023)
 
