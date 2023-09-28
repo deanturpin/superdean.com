@@ -2,7 +2,7 @@
 
 ## NH35A build (27 September 2023)
 
-This is my first NH35A build. I just wanted to get a feel for it given the abundance of mod kits for these Seiko movements. (For reference: I'm two years into the hobby, and have mostly been tinkering with vintage Swiss/Soviet Union movements and a couple of new Seagulls.)
+This is my first NH35A build. I just wanted to get a feel for it given the abundance of mod kits for these Seiko movements.
 
 £60 for the parts, probably the same again on tools.
 
@@ -19,7 +19,7 @@ The dial comes with extra feet for other movements, but these can simply be twis
 
 ![NH35A rear](nh35a_rear.jpg)
 
-I have to say, this movement does feel a little cheap compared to an ST3600, say, but it is also pretty rugged. I actualy thought I'd broken it putting the dial side back together and then didn't follow the usual precautions: subsequently lost an index and bent a hand... but when I realised what I'd done I popped the cots back on and continued properly! (I'd actually fitted one of those plastic wheels _upside down_ so you couldn't adjust the hands.) Finally, you don't need the extra movement spacer that came with the case, nor does this movement require a dial washer.
+I have to say, this movement does feel a little cheap compared to an ST3600, say, but it is also pretty rugged. I actually thought I'd broken it putting the dial side back together and then didn't follow the usual precautions: subsequently lost an index and bent a hand... but when I realised what I'd done I popped the cots back on and continued properly! (I'd fitted one of those plastic wheels _upside down_ so you couldn't adjust the hands.) Finally, you don't need the extra movement spacer that came with the case, nor does this movement require a dial washer.
 
 In conclusion: this case looks cool but it feels very poor quality: the bezel tolerance is particularly bad. But it was a fun little project that will stay in the collection.
 
@@ -27,7 +27,7 @@ In conclusion: this case looks cool but it feels very poor quality: the bezel to
 
 ### Tools
 
-If I hadn't cocked up the spacer I wouldn't have needed a screwdriver at all. [For reference, I used a Bergeon 30080 screwdriver, red (1.2mm) to remove the calendar works... although it might atually be a 1.4mm.]
+If I hadn't cocked up the spacer I wouldn't have needed a screwdriver at all. (I used a Bergeon 30080 screwdriver, red (1.2mm) to remove the calendar works... although it might actually be a 1.4mm.)
 
 #### Not to be skimped on (Swiss)
 
@@ -39,7 +39,7 @@ If I hadn't cocked up the spacer I wouldn't have needed a screwdriver at all. [F
 #### Can be skimped on (eBay)
 
 - Blunt tweezers, to remove the extra dial feet and hold the square section of the stem (these are brass from a job lot)
-- Finger cots, large (these are Bergeon 7968-18)
+- Finger cots (I use large Bergeon 7968-18)
 - Hand pushers (Hand Fitting Tool Set, Deluxe from CousinsUK)
 - Pointy stick, to release the stem
 - Eye glass wire
