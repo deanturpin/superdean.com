@@ -1,6 +1,6 @@
 # Serviced/fixed/sold
 
-## NH35A build (27 September 2023)
+## NH35A: "B&H Pool Cruiser" -- 27 September 2023
 
 This is my first NH35A build. I just wanted to get a feel for it given the abundance of mod kits for these Seiko movements.
 
@@ -55,7 +55,7 @@ If I hadn't cocked up the spacer I wouldn't have needed a screwdriver at all. (I
 - Blower
 - Polishing buff or needle file, to refine the stem after cutting (this is a Bergeon 2290)
 
-## ST3600 (28 August 2023)
+## ST3600: "BigDeano" (28 August 2023)
 
 _Disclaimer: any resemblance to watches real or imagined is entirely intentional._
 
@@ -126,7 +126,7 @@ There is talk of these movements coming out of the factory unlubricated, but tha
 30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
 case back is a mess, very strong running so might not do a full service.
 
-Wearing this despite the sticky keyless works.
+![Omega 131.019](omega_geneve.jpg)
 
 - [x] Replace case back
 - [x] Trial refitting old crystal -- cracked it
@@ -135,25 +135,11 @@ Wearing this despite the sticky keyless works.
 - [ ] Measure amplitude 
 - [ ] Partial service of keyless works
 
-## Raketa 2609.HA (sold)
-
-From 1975, in good condition and running well. Measured 47h power reserve (nominally 45h) -- see [Ranftt](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Raketa_2609_HA). Dial brightened up with a little with water and cottonbud, also removed some of the gunk on the [chapter ring](https://www.watch-wiki.net/doku.php?id=chapter_ring).
-
-- [x] Check power reserve
-- [x] Clean dial
-- [ ] Ultrasonic clean
-- [ ] Lubricate
-
-## Timex (sold)
-
-Keeps great time, 40-hour power reserve, 180&deg; amplitude
-
-- [ ] Attempt to bend bend hour hand back
-- [x] Minor service -- oiled the pivots
-
 ## Rone 34mm FHF ST-96 11.5''' (donated to fellow watchmaker)
 
 I think this might be my rite of passage.
+
+![Rone Countryman](rone_countryman.jpg)
 
 Bought for 25 bucks four months ago, and it _just_ had a slippy mainspring. So,
 I attempted a service and immediately the cannon pinion evaporated. Ordered a
@@ -163,13 +149,6 @@ into orbit. No worries, I have another... also sent that one to the Moon. But
 wait... I found the first on my pants! Right, on the home stretch, located the
 case and movement spacer from months previous and it's back together, looking
 exactly like it did when I bought it! But I have grown as a human being.
-
-## Accurist Shockmaster (sold)
-
-Hand winder G10, keeps great time, 34-hour power reserve.
-
-- [x] Buff case
-- [x] Add crocodile leather strap
 
 ## Mr. Jones "The Accurate" (returned to customer)
 
