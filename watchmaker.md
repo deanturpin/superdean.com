@@ -6,6 +6,7 @@
 
 - Practical Watch Repairing by Donald de Carlo: essential reading (get this first)
 - [The Watchmaker's Apprentice](https://www.imdb.com/title/tt2958390/) featuring George Daniels and Roger W. Smith (and watch this to whet your appetite)
+- [Teddy Baldassarre interviewing Max Büsser](https://www.youtube.com/watch?v=700nTdwv-k0)
 - Lessons in Horology by Grossman
 - Joseph Bulova School of Watchmakers
 - Practical Treatise on Gearing by Brown and Sharpe (I haven't read this but what a title!)
