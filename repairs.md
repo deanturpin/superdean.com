@@ -194,6 +194,7 @@ Marvin 362, 29.5mm; bezel &#x2300; 30.2mm. Bezel measured thrice: 30.17, 30.21, 
 - [ ] Service
 - [ ] Repair original strap -- see [leather conditioner](https://www.watchobsession.co.uk/blogs/watchobsession-blog/how-to-care-for-leather-watch-strap)
 - [ ] Grease threads on case
+- [ ] Trial a new rubber strap with the metal insert
 
 ## Fortis FHF ST-96 11.5'''
 
