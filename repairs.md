@@ -2,33 +2,6 @@
 
 What's on the bench at the moment?
 
-### Comments from Facebook
-
-My questions:
-
-1. There was no dial washer with the movement, does it not need one?
-2. Is that large crinkle cut ring a dial spacer?
-3. There are also no case clamps! How is it held in the case?
-4. What's the best way to remove the extra dial feet for other movements?
-
-All parts sourced separately from eBay.
-
-> Also I have used that clear case and found that the crinkled ring did not fit. So try it but don't force it the case may be tight enough alone
-
-> "crinkle cut ring" usually goes behind the movement (between the movement and the case back) and compresses with the caseback to hold the movement in place.
-There is _usually_ a spacer ring around the movement to hold it centrally in the case (on vintage Seiko's anyway)
-
-> 1: No dial washer, the NH34 has one due to the GMT wheel
-> 2: usually the crinkle ring is to provide tension to hold the movement in, don’t usually see them with new mod Seiko cases but might be due to the clear plastic case requiring extra movement compression?
-> 3: Seiko movements don’t usually have movement clamps, the grey plastic movement ring just friction fits in the case
-> 4: you can twist off the extra dial feet with tweezers (don’t use your good ones) or clip them off (I use good quality nail clippers and nip them off)
-
-### Alternative components
-
-- [New movement from Cousins](https://www.cousinsuk.com/product/eta-mechanical-movements?code=28242LP)
-- [Cool rainbow bezel](https://www.aliexpress.com/item/1005005905443640.html)
-- [Yachtmaster style case](https://www.aliexpress.com/item/1005005502271197.html?)
-
 ## 6498 build
 
 Actually a Seagull clone, thinking about the black ST3621 with sub-seconds at 6 o'clock. I have a really nice 37mm dial but it has no hole for the sub-seconds post; so is there something similar with a central seconds hand? It seems unlikely that I will be drilling it.
