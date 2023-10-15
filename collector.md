@@ -59,6 +59,7 @@ But are sold out now so tough.
 - [Barton](https://www.bartonwatchbands.com/): low- to mid-priced (also Horween leather)
 - [Welwyn](https://welwynwatchparts.co.uk/collections/leather-straps): low- to mid-priced
 - [Strap Bandits](https://www.strapbandits.com/): mid-priced fabric straps
+- [Wrist Buddy](https://wristbuddys.com/): mid-priced
 - [Uncle](https://unclestraps.com/): mid-priced
 - [Strap Tailor](https://thestraptailor.com/): mid- to high-priced straps
 - [Delug](https://delugs.com/): mid- to high-priced
