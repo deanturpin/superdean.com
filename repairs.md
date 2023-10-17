@@ -90,6 +90,7 @@ See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Molnia_
 ```
 
 - [x] Compare hands with ST3600 -- wildly different 
+- [ ] Check length of hour wheel tube
 - [ ] Trial alternative hands from existing spares
 - [ ] Trial fit without the dial
 - [ ] Source blued hour/minute and red seconds hands
