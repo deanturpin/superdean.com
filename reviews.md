@@ -4,7 +4,7 @@
 
 ### Seiko 5 Sport
 
-Rugged tool watches that will probably never see any water let alone 100m of it.
+Rugged tool watches that will probably never see any water let alone 100m of it. You can get involved for less than £300.
 
 ![Seiko 5 Sport](seiko_5_sport.jpg)
 
@@ -31,7 +31,7 @@ An unusually affordable Swiss automatic. Doesn't look much from the back; but of
 
 ### Forge and Foster
 
-Jamming on the high-end Hublot "porthole" aesthetic. Inexpensive but perfectly reliable chinese movements. Unusually for this price range, they have a cutout rotor that lets you see through into the movement.
+Jamming on the high-end Hublot "porthole" aesthetic. Inexpensive but perfectly reliable Chinese movements. Unusually, for this price range, they feature a cutout rotor that lets you see through into the movement.
 
 ![Forge and Foster](forge_and_foster.jpg)
 
@@ -51,15 +51,19 @@ You can get a lot for your money if you're prepared to go old-school. They may n
 
 ### Omega 552
 
-Beautiful classic dress watch. If a little small for modern tastes.
+Beautiful classic dress watch, if a little small for modern tastes.
 
 ![](omega_552.jpg)
 
 ### Raketa 2609.HA
 
+Some interesting watches from the Soviet Union.
+
 ![](raketa.jpg)
 
 ### HMT Pilot
+
+Also some interesting watches from India.
 
 ![](hmt.jpg)
 
