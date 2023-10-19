@@ -2,9 +2,13 @@
 
 ## Seiko 5 Sport
 
+Rugged tool watches that will probably never see any water let alone 100m of it.
+
 ![](seiko_5_sport.jpg)
 
 ## NH35A
+
+There's a massive modding community for this movement, lots of choice to create your own.
 
 - [Clear diver case](https://www.ebay.co.uk/itm/175384131933)
 - [NH35A](https://www.ebay.co.uk/itm/374352507306)
@@ -19,9 +23,13 @@ See [modding options](watchmaker.md#modkits).
 
 ## Tissot
 
+An unusually affordable Swiss automatic. Doesn't look much from the back; but of course, you get what you don't pay for.
+
 ![](tissot.jpg)
 
 ## Forge and Foster
+
+Jamming on the high-end Hublot "porthole" aestetic. Inexpensive but perfectly reliable chinese movements.
 
 ![](forge_and_foster.jpg)
 
