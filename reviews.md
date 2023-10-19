@@ -31,7 +31,7 @@ An unusually affordable Swiss automatic. Doesn't look much from the back; but of
 
 ### Forge and Foster
 
-Jamming on the high-end Hublot "porthole" aestetic. Inexpensive but perfectly reliable chinese movements.
+Jamming on the high-end Hublot "porthole" aesthetic. Inexpensive but perfectly reliable chinese movements.
 
 ![Forge and Foster](forge_and_foster.jpg)
 
