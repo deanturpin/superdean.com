@@ -29,6 +29,16 @@ An unusually affordable Swiss automatic. Doesn't look much from the back; but of
 
 ![Tissot](tissot.jpg)
 
+## ST3600
+
+This is a clone of an ETA 6497 and you can pick them up very cheaply fully built on eBay. However, where's the fun in that if you can build it yourself?! There's also a similar version with the seconds at 6 o'clock: the ST3620.
+
+See one of my [complete builds](complete.md#st3600).
+
+![ST3600 front](st3600_front.jpg)
+
+![ST3600 rear](st3600_rear.jpg)
+
 ### Forge and Foster
 
 Jamming on the high-end Hublot "porthole" aesthetic. Inexpensive but perfectly reliable Chinese movements. Unusually, for this price range, they feature a cutout rotor that lets you see through into the movement.

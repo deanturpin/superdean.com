@@ -61,7 +61,7 @@ If I hadn't cocked up the spacer I wouldn't have needed a screwdriver at all. (I
 - [Cool rainbow bezel](https://www.aliexpress.com/item/1005005905443640.html)
 - [Yachtmaster style case](https://www.aliexpress.com/item/1005005502271197.html?)
 
-## ST3600: "BigDeano" (28 August 2023)
+## ST3600: "BigDeano" -- 28 August 2023
 
 _Disclaimer: any resemblance to watches real or imagined is entirely intentional._
 
