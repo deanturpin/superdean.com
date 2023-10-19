@@ -7,5 +7,7 @@ nav:
     - PBWC: index.md
     - Watchmakers: watchmaker.md
     - Collectors: collector.md
-    - On the bench: repairs.md
-    - Complete builds: complete.md
+    - repairs.md
+    - Complete: complete.md
+    - Reviews: reviews.md
+

@@ -17,7 +17,7 @@
 - [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival): Marshall is a bit of a legend, essential viewing for aspiring watchmakers
 - [Nekkid Watchmaker](https://youtube.com/@NekkidWatchmaker): less polished production but a bit of a dude
 
-## Mod kits
+## Modkits
 
 - [namoki](https://www.namokimods.com/): Seiko 5 mods
 - [DIY Watch Club](https://shop.diywatch.club/)
