@@ -26,6 +26,7 @@
 - [Seiko Mods](https://www.seikomods.com/) (Crystal Times sister site)
 - [Secondhand Mods](https://secondhandmods.com/)
 - [DLW Watches](https://www.dlwwatches.com/)
+- [ModMode](https://modmodewatches.com/)
 - eBay: search for a movement, e.g., "nh35a" or ["6497"](https://www.ebay.co.uk/sch/i.html?_nkw=6497)
 
 ## Beat frequencies
