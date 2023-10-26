@@ -34,9 +34,7 @@ Any suggestions?
 
 - [ST3621 movement](https://www.ebay.co.uk/itm/353975090330)
 - [Black case](https://www.ebay.co.uk/itm/185497907594)
-- [Yellow hand](https://www.ebay.co.uk/itm/265605795340?var=565394312834)
-- [Red hand](https://www.ebay.co.uk/itm/265605795340?var=565394312836)
-- [Blue hand](https://www.ebay.co.uk/itm/265605795340?var=565394312835)
+- [Red/blue/yellow hands](https://www.ebay.co.uk/itm/265605795340?var=565394312836)
 - [Black dial 1](https://www.ebay.co.uk/itm/155711905599)
 - [Black dial 2](https://www.ebay.co.uk/itm/114805434265)
 - [White dial](https://www.ebay.co.uk/itm/185468300563)
