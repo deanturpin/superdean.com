@@ -55,19 +55,28 @@ But are sold out now so tough.
 
 ## Straps
 
-- [Gleave London](https://gleave.london/straps/): inexpensive leather straps
-- [Barton](https://www.bartonwatchbands.com/): low- to mid-priced (also Horween leather)
-- [Welwyn](https://welwynwatchparts.co.uk/collections/leather-straps): low- to mid-priced
-- [Strap Bandits](https://www.strapbandits.com/): mid-priced fabric straps
-- [Wrist Buddy](https://wristbuddys.com/): mid-priced
-- [Uncle](https://unclestraps.com/): mid-priced
-- [Strap Tailor](https://thestraptailor.com/): mid- to high-priced straps
-- [Delug](https://delugs.com/): mid- to high-priced
-- [Monstraps](https://monstraps.com/): mid- to high-priced
-- [Watch Gecko](https://www.watchgecko.com/): mid- to high-priced
-- [Hirsch](https://www.hirschstraps.com/): mid- to high-priced
+### Low- to mid-priced
 
-### High end
+- [Gleave London](https://gleave.london/straps/)
+- [Barton](https://www.bartonwatchbands.com/) (also Horween leather)
+- [Welwyn](https://welwynwatchparts.co.uk/collections/leather-straps)
+
+### Mid-priced
+
+- [Crafter Blue](https://www.crafterblue.com/)
+- [Strap Bandits](https://www.strapbandits.com/) (fabric straps)
+- [Wrist Buddy](https://wristbuddys.com/)
+- [Uncle](https://unclestraps.com/)
+
+### Mid- to high-priced
+
+- [Strap Tailor](https://thestraptailor.com/)
+- [Delug](https://delugs.com/)
+- [Monstraps](https://monstraps.com/)
+- [Watch Gecko](https://www.watchgecko.com/)
+- [Hirsch](https://www.hirschstraps.com/) (I've got a couple of these)
+
+### High-priced
 
 - [Forstner](https://forstnerbands.com/): steel bracelets
 - [Vulcain](https://www.vulcanwatchstraps.com/): Rolex rubber straps
@@ -93,7 +102,7 @@ But are sold out now so tough.
 ## Enthusiast cleaning
 
 - [Nanoclear](https://nanoclear.com/)
-- [Polywatch](https://www.polywatch.de/)
+- [Polywatch](https://www.polywatch.de/) (usually for vintage acrylic crystals)
 
 ## Enthusiast books
 
