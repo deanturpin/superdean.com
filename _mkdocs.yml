@@ -1,9 +1,12 @@
 site_name: PBWC
 site_author: Dean Turpin
+
 theme:
     name: readthedocs
 
 nav:
+navbar_depth: 3
+
     - About: index.md
     - watchmaker.md
     - collector.md

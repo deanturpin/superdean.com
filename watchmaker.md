@@ -45,7 +45,7 @@
 At this point it can start to become quite expensive: not only for the machines but also the consumables that you probably can't sell on quite so easily. Be careful putting your pallet forks and balance wheel in solvent as it can dissolve the [shellac](https://en.wikipedia.org/wiki/Shellac) that holds the pallet and roller jewels in place.
 
 - Lighter fluid: readily available from a newsagent for £2.99
-- [Renata Essence](https://www.cousinsuk.com/product/renata-essence) hairspring degreaser £11.50 (standard)
+- [Renata Essence](https://www.cousinsuk.com/product/renata-essence) balance spring degreaser £11.50 (standard)
 - [Basket 25mm Mini Watch Part Cleaning Basket Economy](https://www.hswalsh.com/product/basket-25mm-mini-watch-part-cleaning-basket-economy-hb125)
 : get a few of these, you can spend quite a lot but I went economy and I don't know any better; but I prefer the little brass threaded ones
 - Screw top jam jar, recycled and small, the shallower the better to get your bits out and not use lots of cleaning fluid
@@ -77,19 +77,19 @@ __Full disclosure__: I also dip my oilers straight into the jars, which is proba
 
 ## Timegraphers
 
-A Timegrapher is the go-to tool for the job and at the low end they are surprisingly inexpensive. But you can get some useful results from a phone app: use with an earbud mic if you're not in a completely quiet environment.
+A Timegrapher is the go-to tool for the job and at the low end they are surprisingly inexpensive. However, you can get some useful results from a phone app: use with an earbud mic if you're not in a completely quiet environment. You may find for some movements they give you very poor results when regulating, which could lead you to think the movement is poorly when it's actually in good health.
 
 ## Mainspring winders
 
-You can fix a lot by replacing parts rather than making new ones; but I think mainspring winders are the first step into it becoming serious. This _can_ be done by hand, however, people will get very cross about it if they find out, and you may be compromising the power reserve of the watch.
+You can fix a lot by replacing parts rather than making new ones. But cleaning and refitting mainsprings is probably your first step into really getting series. Winding a mainspring back up in the barrel _can_ be done by hand, however, people will get very cross about it if they find out, and you may be compromising the power reserve of the watch. A proper winder is the answer but a set is fiendishly expensive.
 
-## Cutting stems
+## Stem cutting
 
-There are dedicated tools for this but you can get away with a pair of side cutters and some sandpaper. And I like to finish on a Bergeon polishing buff. Now, how much stem should you leave? Often it seems quite subjective but 0.1mm between crown and case is a good rule of thumb. You could measure it precisely with a feeler gauge, but equally, if you have a micrometer, you can find a piece of paper the correct thickness and use that.
+There are dedicated tools for this but you can get away with a pair of side cutters and some sandpaper; I like to finish on a Bergeon polishing buff. Now, how much stem should you leave? Often it seems quite subjective but 0.1mm between crown and case is a good rule of thumb. You could measure it precisely with a feeler gauge, but equally, if you have a micrometer, you can find a piece of paper the correct thickness and use that. In reality, the tolerances in the watch may be larger than 0.1mm so you shouldn't worry about it too much.
 
 ## Case clamps
 
-Something that cost me a lot of time and frustration is flicking a case clamp deep into a movement. So when casing up I've made it a habit of tipping the movent up a little so if the clamp or screw decides to jump it will probably end up on the case cushion.
+Something that cost me a lot of time and frustration is flicking a case clamp deep into a movement. So when casing up I've made it a habit of tipping the movement up a little -- i.e., not flat against the case cushion -- so if the clamp or screw decides to jump it will probably end up on your desk and not beneath the balance spring.
 
 ## Tweezers
 
@@ -97,10 +97,12 @@ You can spend quite a bit on wood-tipped tweezers, and while they do give you a 
 
 ## Pro tools and supplies
 
+The top two offer some good economy options if you can't justify £25 on a tiny cleaning basket, for instance.
+
+- [H&S Walsh](https://www.hswalsh.com/)
+- [Cousins](https://www.cousinsuk.com)
 - [Gleave London](https://gleave.london/straps/)
-- [H&S Walsh](https://www.hswalsh.com/): a few more economy options
 - [Eternal tools](https://www.eternaltools.com/)
 - [Lucius Atelier](https://luciusatelier.com/)
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
-- [Cousins](https://www.cousinsuk.com)
 - [Welwyn](https://welwynwatchparts.co.uk/)

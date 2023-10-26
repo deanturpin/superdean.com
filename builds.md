@@ -28,11 +28,19 @@ See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2usw
 
 ## 6497/8 stealthy
 
-Black case and dial, one of each hand colour.
+Parts for a new ST3600 build. Obviously these dials are a mixture of ST3600 and ST3620 so just for ideas. I was originally intending to use this striking, black finish ST3621 (ETA 6498 clone) with 6 o'clock seconds sub-dial in a stealthy all-black build, but I got these straps on the cheap and now I've gone in completely the opposite direction! Also, I bought three sets of hands to give me the options of using one of each colour on the same watch, maybe do a white dial and a black dial version?
 
+Any suggestions?
+
+- [ST3621 movement](https://www.ebay.co.uk/itm/353975090330)
+- [Black case](https://www.ebay.co.uk/itm/185497907594)
 - [Yellow hand](https://www.ebay.co.uk/itm/265605795340?var=565394312834)
 - [Red hand](https://www.ebay.co.uk/itm/265605795340?var=565394312836)
 - [Blue hand](https://www.ebay.co.uk/itm/265605795340?var=565394312835)
+- [Black dial 1](https://www.ebay.co.uk/itm/155711905599)
+- [Black dial 2](https://www.ebay.co.uk/itm/114805434265)
+- [White dial](https://www.ebay.co.uk/itm/185468300563)
+- [Straps](https://www.cousinsuk.com/category/clearance-section1) from the Cousins bargain bin
 
 ### Straps
 
