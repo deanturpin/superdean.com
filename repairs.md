@@ -28,10 +28,16 @@ See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2usw
 
 ## 6497/8 stealthy
 
-- [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
-- [Red hand](https://www.ebay.co.uk/itm/265605795340?var=565394312836)
+Black case and dial, one of each hand colour.
+
 - [Yellow hand](https://www.ebay.co.uk/itm/265605795340?var=565394312834)
+- [Red hand](https://www.ebay.co.uk/itm/265605795340?var=565394312836)
 - [Blue hand](https://www.ebay.co.uk/itm/265605795340?var=565394312835)
+
+### Straps
+
+- [Camo strap](https://www.crafterblue.com/products/curved-end-fkm-rubber-strap-for-seiko-skx-seiko-5-sports-cb10)
+- [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
 
 ## Raketa 2609.HA 11.5''' (listed)
 
