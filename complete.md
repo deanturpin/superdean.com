@@ -1,4 +1,6 @@
-# Serviced/fixed/sold
+# Complete
+
+Finished builds and required tools.
 
 ## NH35A: "B&H Pool Cruiser" -- 27 September 2023
 

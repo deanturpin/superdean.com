@@ -1,5 +1,7 @@
 # Reviews
 
+Reviews of watches bought and built.
+
 ## Modern
 
 ### Seiko 5 Sport
