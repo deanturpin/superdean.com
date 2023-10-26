@@ -4,10 +4,9 @@ theme:
     name: readthedocs
 
 nav:
-    - PBWC: index.md
-    - Watchmakers: watchmaker.md
-    - Collectors: collector.md
-    - repairs.md
-    - Complete: complete.md
-    - Reviews: reviews.md
-
+    - About: index.md
+    - watchmaker.md
+    - collector.md
+    - builds.md
+    - complete.md
+    - reviews.md
