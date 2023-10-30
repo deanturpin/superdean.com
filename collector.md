@@ -13,6 +13,7 @@
 - [Bourlinger](https://www.bourlinger.com/)
 - [CAP](https://en.cap-watch.com/): sustainability, recycled materials
 - [Sequent](https://sequentworld.com/en-gb/products/elektron-hr-2-2-space-white-rubber): mechanical smartwatch
+- [Baltany](https://baltany.co.uk/): inexpensive, some nice vintage styling
 
 ## In-house movements
 
