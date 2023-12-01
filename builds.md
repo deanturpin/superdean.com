@@ -2,20 +2,20 @@
 
 What's on the bench at the moment?
 
-## 6498 build
+## ST3621: "Red hand... spells DANGER"
 
-Actually a Seagull clone, thinking about the black ST3621 with sub-seconds at 6 o'clock. I have a really nice 37mm dial but it has no hole for the sub-seconds post; so is there something similar with a central seconds hand? It seems unlikely that I will be drilling it.
+Another Seagull clone. Supposedly just a reword of the 6497 to put the seconds at 6 o'clock, but the movement is actually a little more open with better finishing. It also looks pretty dark on eBay but it is a trick of the light.
 
-See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&Unitas_6497).
+- [ST3621 movement](https://www.ebay.co.uk/itm/353975090330)
+- [Black case](https://www.ebay.co.uk/itm/185497907594)
+- [Red/blue/yellow hands](https://www.ebay.co.uk/itm/265605795340?var=565394312836)
+- [Dial](https://www.ebay.co.uk/itm/155711905599)
 
-- 16.5''', Dm= 36.6mm, Do= 37.2mm
-- H= 4.2mm
-- F= 0.5mm
-- T= 1.85mm
-- 15/17 jewels
-- f = 18000 A/h
-- Power reserve 50h
-- Hands 2.00 x 1.15 / 0.27mm
+### Straps
+
+- [Straps](https://www.cousinsuk.com/category/clearance-section1) from the Cousins bargain bin
+- [Camo strap](https://www.crafterblue.com/products/curved-end-fkm-rubber-strap-for-seiko-skx-seiko-5-sports-cb10)
+- [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
 
 ### References
 
@@ -25,25 +25,6 @@ See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2usw
 - [6498](https://calibercorner.com/eta-caliber-6498-2/)
 - [ST3600](https://calibercorner.com/seagull-caliber-st3600k/)
 - [Nice pilot with blue hands](https://www.amazon.co.uk/SN0117G-Stainless-Military-Mechanical-Wristwatch/dp/B0C3MNJ6WC?th=1)
-
-## 6497/8 stealthy
-
-Parts for a new ST3600 build. Obviously these dials are a mixture of ST3600 and ST3620 so just for ideas. I was originally intending to use this striking, black finish ST3621 (ETA 6498 clone) with 6 o'clock seconds sub-dial in a stealthy all-black build, but I got these straps on the cheap and now I've gone in completely the opposite direction! Also, I bought three sets of hands to give me the options of using one of each colour on the same watch, maybe do a white dial and a black dial version?
-
-Any suggestions?
-
-- [ST3621 movement](https://www.ebay.co.uk/itm/353975090330)
-- [Black case](https://www.ebay.co.uk/itm/185497907594)
-- [Red/blue/yellow hands](https://www.ebay.co.uk/itm/265605795340?var=565394312836)
-- [Black dial 1](https://www.ebay.co.uk/itm/155711905599)
-- [Black dial 2](https://www.ebay.co.uk/itm/114805434265)
-- [White dial](https://www.ebay.co.uk/itm/185468300563)
-- [Straps](https://www.cousinsuk.com/category/clearance-section1) from the Cousins bargain bin
-
-### Straps
-
-- [Camo strap](https://www.crafterblue.com/products/curved-end-fkm-rubber-strap-for-seiko-skx-seiko-5-sports-cb10)
-- [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
 
 ## Raketa 2609.HA 11.5''' (listed)
 
@@ -94,14 +75,12 @@ little worn.
 
 ## Molnja 3602
 
-I've been through a few iterations of this and I'm going to return to the silver case with a white dial.
-
-The hands that came with the case look good, but the hour hand pushes far too near the dial, and the seconds hand is too tight. The movement appears to ba pre-1985 with the smaller diameter post for the hand.
+I've been through a few iterations of this and I'm going to return to the silver case with a white dial. The hands that came with the case look good, but the hour hand pushes far too near the dial, and the seconds hand is too tight. The movement appears to ba pre-1985 with the smaller diameter post for the hand.
 
 See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Molnia_3602)
-```
 
 - [x] Compare hands with ST3600 -- wildly different 
+- [x] Trial fit 6497 hands -- no dice
 - [ ] Check length of hour wheel tube
 - [ ] Trial alternative hands from existing spares
 - [ ] Trial fit without the dial
@@ -116,7 +95,7 @@ Serial 595600. Marriage watch using new case from eBay. It's actually a regular 
 - [x] Fit movement
 - [x] Fit silver hands -- seconds hand too tight, refitted original black
 - [x] Trim stem
-- [ ] Trial gold dagger 6497 hands
+- [x] Trial gold dagger 6497 hands -- different size
 -->
 
 ## 1975 Nino AS 2066 11.5'''
