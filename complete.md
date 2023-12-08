@@ -4,7 +4,7 @@ Finished builds and required tools.
 
 ## ST3621: "Red hand... spells DANGER" -- 7 December 2023
 
-Another Seagull clone. Supposedly just a reword of the 6497 to put the seconds at 6 o'clock, but the movement is actually a little more open with better finishing. It also looks pretty dark on eBay but it is a trick of the light.
+Another Seagull clone. It sounds like a reword of the 6497 to put the seconds at 6 o'clock, but the movement is actually a little more open -- you can see the escape wheel nicely -- and this clone has more interesting finishing.
 
 - [ST3621 movement](https://www.ebay.co.uk/itm/353975090330)
 - [Black case](https://www.ebay.co.uk/itm/185497907594)
@@ -13,7 +13,7 @@ Another Seagull clone. Supposedly just a reword of the 6497 to put the seconds a
 
 ![ST3621 front](st3621_front.jpg)
 
-I do like this black case but in hindsight I would go for the slightly larger crown; it's quite fiddly to wind and pull even though I haven't cut the stem right up to the case.
+I do like this black case, but in hindsight I would go for the slightly larger crown: it's quite fiddly to wind and pull even though I haven't cut the stem right up to the case. The case clamps are quite fiddly, I find it easier to fit with the movement angled almost vertically, poking the clamp beneath the lip (bent towards the dial) before putting it flat and tightening the screw.
 
 ### Tools
 
