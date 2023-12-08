@@ -45,6 +45,7 @@ Only one screwdriver required for this build to release the stem and fit the cas
 - Eye glass wire
 - Sharpie, to mark the stem
 - Nippers or side-cutters, to cut the stem to size
+- Small pliers, to hold the square section of the stem whilst removing the crown
 
 #### Nice to have
 
