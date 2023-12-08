@@ -15,7 +15,11 @@ Another Seagull clone. It sounds like a reword of the 6497 to put the seconds at
 
 I do like this black case, but in hindsight I would go for the slightly larger crown: it's quite fiddly to wind and pull even though I haven't cut the stem right up to the case. The case clamps are quite fiddly, I find it easier to fit with the movement angled almost vertically, poking the clamp beneath the lip (bent towards the dial) before putting it flat and tightening the screw.
 
+![ST3621 rear](st3621_rear.jpg)
+
 ### Tools
+
+![ST3621 tools](st3621_tools.jpg)
 
 #### Not to be skimped on (Swiss)
 
@@ -79,11 +83,11 @@ I have to say, this movement does feel a little cheap compared to an ST3600, say
 
 In conclusion: this case looks cool but it feels very poor quality: the bezel tolerance is particularly bad. But it was a fun little project that will stay in the collection.
 
-![NH35A tools](nh35a_tools.jpg)
-
 ### Tools
 
 If I hadn't cocked up the spacer I wouldn't have needed a screwdriver at all. (I used a Bergeon 30080 screwdriver, red (1.2mm) to remove the calendar works... although it might actually be a 1.4mm.)
+
+![NH35A tools](nh35a_tools.jpg)
 
 #### Not to be skimped on (Swiss)
 
