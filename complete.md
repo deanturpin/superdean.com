@@ -13,7 +13,9 @@ Another Seagull clone. It sounds like a reword of the 6497 to put the seconds at
 
 ![ST3621 front](st3621_front.jpg)
 
-I do like this black case, but in hindsight I would go for the slightly larger crown: it's quite fiddly to wind and pull even though I haven't cut the stem right up to the case. The case clamps are quite fiddly, I find it easier to fit with the movement angled almost vertically, poking the clamp beneath the lip (bent towards the dial) before putting it flat and tightening the screw.
+I do like this black case, but in hindsight I would go for the slightly larger crown; it's quite fiddly to wind and pull even though I haven't cut the stem right up to the case. The case clamps are quite fiddly: I find it easier to fit with the movement angled almost vertically, poking the clamp beneath the lip (bent towards the dial) before putting it flat and fitting the screw.
+
+This build one is around 120 bucks for the parts and I've chucked it on a nice Hirsch strap. I bought three sets of hands so I could use one of each colour: if you're being picky you'll notice the seconds hand is a slight different yellow to the numbers on the dial... but hey, we're amongst friends!
 
 ![ST3621 rear](st3621_rear.jpg)
 
