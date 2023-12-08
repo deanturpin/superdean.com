@@ -2,30 +2,6 @@
 
 What's on the bench at the moment?
 
-## ST3621: "Red hand... spells DANGER"
-
-Another Seagull clone. Supposedly just a reword of the 6497 to put the seconds at 6 o'clock, but the movement is actually a little more open with better finishing. It also looks pretty dark on eBay but it is a trick of the light.
-
-- [ST3621 movement](https://www.ebay.co.uk/itm/353975090330)
-- [Black case](https://www.ebay.co.uk/itm/185497907594)
-- [Red/blue/yellow hands](https://www.ebay.co.uk/itm/265605795340?var=565394312836)
-- [Dial](https://www.ebay.co.uk/itm/155711905599)
-
-### Straps
-
-- [Straps](https://www.cousinsuk.com/category/clearance-section1) from the Cousins bargain bin
-- [Camo strap](https://www.crafterblue.com/products/curved-end-fkm-rubber-strap-for-seiko-skx-seiko-5-sports-cb10)
-- [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
-
-### References
-
-- [Sapphire case](https://www.facebook.com/p/Hong-Kong-Bright-Sapphire-Co-Ltd-100057215358896/)
-- [6497 vs 6498](https://calibercorner.com/eta-unitas-caliber-6497-vs-6498/)
-- [Omega 2211](https://calibercorner.com/omega-caliber-2211/)
-- [6498](https://calibercorner.com/eta-caliber-6498-2/)
-- [ST3600](https://calibercorner.com/seagull-caliber-st3600k/)
-- [Nice pilot with blue hands](https://www.amazon.co.uk/SN0117G-Stainless-Military-Mechanical-Wristwatch/dp/B0C3MNJ6WC?th=1)
-
 ## Raketa 2609.HA 11.5''' (listed)
 
 Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).

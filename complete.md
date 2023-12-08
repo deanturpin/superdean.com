@@ -2,6 +2,60 @@
 
 Finished builds and required tools.
 
+## ST3621: "Red hand... spells DANGER" -- 7 December 2023
+
+Another Seagull clone. Supposedly just a reword of the 6497 to put the seconds at 6 o'clock, but the movement is actually a little more open with better finishing. It also looks pretty dark on eBay but it is a trick of the light.
+
+- [ST3621 movement](https://www.ebay.co.uk/itm/353975090330)
+- [Black case](https://www.ebay.co.uk/itm/185497907594)
+- [Red/blue/yellow hands](https://www.ebay.co.uk/itm/265605795340?var=565394312836)
+- [Dial](https://www.ebay.co.uk/itm/155711905599)
+
+![ST3621 front](st3621_front.jpg)
+
+I do like this black case but in hindsight I would go for the slightly larger crown; it's quite fiddly to wind and pull even though I haven't cut the stem right up to the case.
+
+### Tools
+
+#### Not to be skimped on (Swiss)
+
+- Tweezers (you don't need these expensive ones for this job, but they are Dumoxel Non Magnetic Tweezers with Boxwood Tips)
+- Bergeon 4422-2.5 eye glass
+- Bergeon 8008 squishy ball
+- Bergeon 7033-1 Rodico
+- [Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube)
+- [Moebius 8300](https://www.cousinsuk.com/product/moebius-8300-all-purpose-favourite)
+- Bergeon Oiler, medium (green for the grease)
+- Bergeon Oiler, fine (red for the rubies)
+
+#### Can be skimped on (eBay)
+
+- Sealing grease, for gaskets on caseback and crown tube ([CousinsUK](https://www.cousinsuk.com/product/gasket-grease-applicator?code=G36964))
+- Finger cots (I use large Bergeon 7968-18)
+- Hand pushers (Hand Fitting Tool Set, Deluxe from CousinsUK)
+- Eye glass wire
+- Sharpie, to mark the stem
+- Nippers or side-cutters, to cut the stem to size
+
+#### Nice to have
+
+- Case cushion (slightly contentious but you _could_ get away with just a cloth)
+- Blower
+- Polishing buff or needle file, to refine the stem after cutting (this is a Bergeon 2290)
+
+### Alternative components
+
+- [Sapphire case](https://www.facebook.com/p/Hong-Kong-Bright-Sapphire-Co-Ltd-100057215358896/)
+- [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
+- [Nice pilot with blue hands](https://www.amazon.co.uk/SN0117G-Stainless-Military-Mechanical-Wristwatch/dp/B0C3MNJ6WC?th=1)
+
+### Movements references
+
+- [6497 vs 6498](https://calibercorner.com/eta-unitas-caliber-6497-vs-6498/)
+- [Omega 2211](https://calibercorner.com/omega-caliber-2211/)
+- [6498](https://calibercorner.com/eta-caliber-6498-2/)
+- [ST3600](https://calibercorner.com/seagull-caliber-st3600k/)
+
 ## NH35A: "B&H Pool Cruiser" -- 27 September 2023
 
 This is my first NH35A build. I just wanted to get a feel for it given the abundance of mod kits for these Seiko movements.

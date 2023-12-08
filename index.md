@@ -57,6 +57,7 @@ This is getting serious... and you'll need quite a few more tools. But you will 
 - Plastic pointy stick/peg wood: Starbucks call them "coffee stirrers" but they look like peg wood to me
 - Barrel press: eBay £5, if it's good enough for Marshall...
 - Crystal press: eBay £15.99, screw down seems a bit more controlled; I also padded the lower dies out with sticky felt furniture pads into a dome shape; this is really only for vintage restoration rather than building from new
+- Sealing Grease Winder: for gaskets on case back and crown tube; a nice little finishing flourish
 
 ### The next level
 
