@@ -21,6 +21,8 @@ This build one is around 120 bucks for the parts and I've chucked it on a nice H
 
 ### Tools
 
+Only one screwdriver required for this build to release the stem and fit the case clamps.
+
 ![ST3621 tools](st3621_tools.jpg)
 
 #### Not to be skimped on (Swiss)
@@ -28,6 +30,7 @@ This build one is around 120 bucks for the parts and I've chucked it on a nice H
 - Tweezers (you don't need these expensive ones for this job, but they are Dumoxel Non Magnetic Tweezers with Boxwood Tips)
 - Bergeon 4422-2.5 eye glass
 - Bergeon 8008 squishy ball
+- Bergeon 30080 screwdriver, red (1.2mm)
 - Bergeon 7033-1 Rodico
 - [Moebius Syntalube 9010](https://www.cousinsuk.com/product/moebius-9010-syntalube)
 - [Moebius 8300](https://www.cousinsuk.com/product/moebius-8300-all-purpose-favourite)
@@ -150,9 +153,9 @@ See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2usw
 
 All sourced from eBay.
 
-- [Case](https://www.ebay.co.uk/itm/183588605779?var=690982652345)
+- [Steel case](https://www.ebay.co.uk/itm/183588605779?var=690982652345)
 - [Hands](https://www.ebay.co.uk/itm/184951851422?var=692737694119)
-- [Movement](https://www.ebay.co.uk/itm/314013048705)
+- [ST3600 movement](https://www.ebay.co.uk/itm/314013048705)
 - [Dial](https://www.ebay.co.uk/itm/185468300563?var=693275967599)
 
 ### Tools
