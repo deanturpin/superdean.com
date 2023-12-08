@@ -2,18 +2,18 @@
 
 Finished builds and required tools.
 
-## ST3621: "Red hand... spells DANGER" -- 7 December 2023
+## ST3621: "Red hand... spells DANGER!" -- 7 December 2023
 
 A Seagull clone of the 6498. It sounds like a rework of the 6497, putting the seconds at 6 o'clock; but the movement is actually a little more open -- you can see the escape wheel nicely -- and this clone has more interesting finishing.
 
 - [ST3621 movement](https://www.ebay.co.uk/itm/353975090330)
-- [Black case](https://www.ebay.co.uk/itm/185497907594)
+- [Black PVD case](https://www.ebay.co.uk/itm/185497907594)
 - [Red/blue/yellow hands](https://www.ebay.co.uk/itm/265605795340?var=565394312836)
 - [Dial](https://www.ebay.co.uk/itm/155711905599)
 
 ![ST3621 front](st3621_front.jpg)
 
-I do like this black case, but in hindsight I would go for the slightly larger crown; it's a little tricky to wind and pull out even though I haven't cut the stem right up to the case. And the case clamps are quite fiddly: I find it easier to fit with the movement angled almost vertically, poking the clamp beneath the lip (bend towards the dial) before putting it flat and fitting the screw.
+I do like this black PVD case, but in hindsight I would go for the slightly larger crown; it's a little tricky to wind and pull out even though I haven't cut the stem right up to the case. And the case clamps are quite fiddly: I find it easier to fit with the movement angled almost vertically, poking the clamp beneath the lip (bend towards the dial) before putting it flat and fitting the screw.
 
 The whole build is around 120 bucks for the parts and I've chucked it on a nice Hirsch strap. I bought three sets of hands so I could use one of each colour: if you're being picky you'll notice the seconds hand is a slight different yellow to the numbers on the dial... but hey, we're amongst friends!
 
