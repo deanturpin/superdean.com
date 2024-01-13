@@ -1,6 +1,10 @@
-# PBWC
+---
+title: brighton watch
+---
 
-We are a group of mostly like-minded collectors with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Horology encompasses such things as art, design, culture, history, jewellery, fashion, economics, mechanics and physics (amongst others.)
+<!-- # Brighton watch -->
+
+We are a collection of like-minded collectors, with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Horology encompasses art, design, culture, history, jewellery, fashion, economics, mechanics and physics (amongst others).
 
 For those who haven't yet accepted their calling as a watchmaker, head over to the [collectors' page](collector.md).
 
@@ -17,7 +21,7 @@ See the [full spreadsheet](tools.xlsx).
 You don't need much to get started, you're basically just having a closer look, but I often go out and about with a loupe in my jacket pocket. Just in case.
 
 - Eyeglass/loupe 2.8x (Bergeon 4422-3.5): note the Bergeon name is the focal length not the magnification
-- Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm)
+- Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm): I think it's good practice to always handle watches with a cloth (especially if it's not yours)
 
 ### Maintain
 

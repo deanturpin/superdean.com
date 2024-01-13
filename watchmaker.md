@@ -19,7 +19,7 @@
 
 ## Modkits
 
-- [namoki](https://www.namokimods.com/): Seiko 5 mods
+- [Namoki Mods](https://www.namokimods.com/): Seiko 5 mods
 - [DIY Watch Club](https://shop.diywatch.club/)
 - [Watch Modz](https://watch-modz.com/product-category/cases/)
 - [Crystal Times](https://usa.crystaltimes.net/) (US delivery only)
@@ -28,6 +28,7 @@
 - [DLW Watches](https://www.dlwwatches.com/)
 - [ModMode](https://modmodewatches.com/)
 - eBay: search for a movement, e.g., "nh35a" or ["6497"](https://www.ebay.co.uk/sch/i.html?_nkw=6497)
+- [Almond Mods](https://almondmods.com/)
 
 ## Beat frequencies
 

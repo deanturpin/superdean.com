@@ -49,31 +49,6 @@ little worn.
 - [x] New leather strap
 - [ ] Get the back off and see what the rattle is
 
-## Molnja 3602
-
-I've been through a few iterations of this and I'm going to return to the silver case with a white dial. The hands that came with the case look good, but the hour hand pushes far too near the dial, and the seconds hand is too tight. The movement appears to ba pre-1985 with the smaller diameter post for the hand.
-
-See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Molnia_3602)
-
-- [x] Compare hands with ST3600 -- wildly different 
-- [x] Trial fit 6497 hands -- no dice
-- [ ] Check length of hour wheel tube
-- [ ] Trial alternative hands from existing spares
-- [ ] Trial fit without the dial
-- [ ] Source blued hour/minute and red seconds hands
-- [ ] Trial larger crown
-- [ ] Trim stem
-
-<!--
-Serial 595600. Marriage watch using new case from eBay. It's actually a regular wear even though it still needs a bit of work: notably the hour and minute hands are new and silver but the seconds hand it didn't fit so it still has a chipped black paint one.
-
-- [x] Order NOS watch case
-- [x] Fit movement
-- [x] Fit silver hands -- seconds hand too tight, refitted original black
-- [x] Trim stem
-- [x] Trial gold dagger 6497 hands -- different size
--->
-
 ## 1975 Nino AS 2066 11.5'''
 
 Low amplitude, needs a service. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&AS_2066).

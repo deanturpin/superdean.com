@@ -2,6 +2,61 @@
 
 Finished builds and required tools.
 
+## Molniya 3602: "White Lightning" -- 12 January 2024
+
+Marriage of an '80s-ish Molnija 3602 movement with a new case, dial and hands. And they actually still make something similar in their [Tribute series](https://molniya-watches.com/shop/tribute-1984-2-0-1-black-tcb/)! The latest is based on the 3603 which has shock protection.
+
+- [Case and hands set](https://www.ebay.co.uk/itm/266415685911)
+- [Example donor movement search](https://www.ebay.co.uk/sch/i.html?_nkw=molnija+3602)
+- [Alternative black case](https://www.ebay.co.uk/itm/266402331767)
+
+![Molniya 3602 front](molniya_3602_front.jpg)
+
+This was a really interesting return where it began for me two years ago. The 3602 was the first movement I fully stripped down and rebuilt.
+
+
+<!--
+I swapped the dial out for the one I discounted at the time and found the hour hand was so flush to the dial I'm surprised it ran at all. On closer inspection I found the hour wheel tube to be very short. 
+
+I've picked up a few of these and interestingly they have a few different lengths. Similarly, the seconds hand post varies a little.
+
+They very often have broken balance wheels so if you can fix them you are onto a winner; consequently you may have to buy a few donors to make a good one.
+
+I've been through a few iterations of this and I'm going to return to the silver case with a white dial. The hands that came with the case look good, but the hour hand pushes far too near the dial, and the seconds hand is too tight. The movement appears to ba pre-1985 with the smaller diameter post for the hand.
+-->
+
+![Molniya 3602 front](molniya_3602_rear.jpg)
+
+### Tools
+
+![Molniya 3602 tools](molniya_3602_tools.jpg)
+
+- Tweezers (Dumoxel Non Magnetic Tweezers with Boxwood Tips)
+- Tweezers (Idealtek anti-magnetic number 7 very fine, curved tips)
+- Eye glass x4 (Bergeon 4422-2.5)
+- Eye glass wire
+- Screwdriver yellow 0.8mm (Bergeon 30080)
+- Screwdriver red 1.2mm (Bergeon 30080)
+- Screwdriver blue 2.5mm (Bergeon 30080): the case screws are big boys!
+- Rodico (Bergeon 7033-1)
+- Finger cots (Bergeon 7968-18)
+- Hand Levers, 3.0mm Tips (Bergeon 5431): these are expensive, 10th of the price for eBay specials
+- Hand pushers 2.0mm, 1.5mm, 0.6mm (set of four from CousinsUK)
+- Sharpie, to mark the stem
+- Small pliers, to hold the square section of the stem whilst unscrewing the crown and also to cut the stem
+- Polishing buff or needle file, to refine the stem after cutting (Bergeon 2290)
+- Case cushion, black gel Ø75mm (Bergeon 5395-75-N)
+- Blower
+- Pin vice, for holding the stem
+- Cloche
+- Case knife
+
+### References
+
+- [Molnija 3601 3602 3603 differences](https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/)
+- [Ranfft 3602](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
+- [Linux Focus -- comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
+
 ## ST3621: "Red hand... spells DANGER!" -- 7 December 2023
 
 A Seagull clone of the 6498. It sounds like a rework of the 6497, putting the seconds at 6 o'clock; but the movement is actually a little more open -- you can see the escape wheel nicely -- and this clone has more interesting finishing.
