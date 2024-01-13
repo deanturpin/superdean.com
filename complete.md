@@ -4,7 +4,7 @@ Finished builds and required tools.
 
 ## Molniya 3602: "White Lightning" -- 12 January 2024
 
-Marriage of an '80s-ish Molnija 3602 movement with a new case, dial and hands. And they actually still make something similar in their [Tribute series](https://molniya-watches.com/shop/tribute-1984-2-0-1-black-tcb/)! The latest is based on the 3603 which has shock protection.
+Marriage of an '80s-ish Molniya 3602 movement with a new case, dial and hands. And the company actually still makes something similar in their [Tribute series](https://molniya-watches.com/shop/tribute-1984-2-0-1-black-tcb/); the latest is based on the 3603 which has shock protection.
 
 - [Case and hands set](https://www.ebay.co.uk/itm/266415685911)
 - [Example donor movement search](https://www.ebay.co.uk/sch/i.html?_nkw=molnija+3602)
@@ -12,8 +12,7 @@ Marriage of an '80s-ish Molnija 3602 movement with a new case, dial and hands. A
 
 ![Molniya 3602 front](molniya_3602_front.jpg)
 
-This was a really interesting return where it began for me two years ago. The 3602 was the first movement I fully stripped down and rebuilt.
-
+This was a really interesting return to where it began for me two years ago. The 3602 was the first movement I fully stripped down and rebuilt. And I've built up a small collection of spares if anybody wants to get involved.
 
 <!--
 I swapped the dial out for the one I discounted at the time and found the hour hand was so flush to the dial I'm surprised it ran at all. On closer inspection I found the hour wheel tube to be very short. 
@@ -54,7 +53,6 @@ I've been through a few iterations of this and I'm going to return to the silver
 ### References
 
 - [Molnija 3601 3602 3603 differences](https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/)
-- [Ranfft 3602](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&2&2uswk&Molnia_3602)
 - [Linux Focus -- comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
 
 ## ST3621: "Red hand... spells DANGER!" -- 7 December 2023
