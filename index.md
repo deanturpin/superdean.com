@@ -1,8 +1,4 @@
----
-title: brighton watch
----
-
-<!-- # Brighton watch -->
+# superdean.com
 
 We are a collection of like-minded collectors, with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Horology encompasses art, design, culture, history, jewellery, fashion, economics, mechanics and physics (amongst others).
 
