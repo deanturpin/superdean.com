@@ -2,15 +2,14 @@
 
 What's on the bench at the moment?
 
-## Raketa 2609.HA 11.5''' (listed)
+## Small jobs
 
-Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
+- 6821: trim stem
+- 3602: trim stem, review barrel slip, service
 
-- [x] Estimate amplitude (slow-mo video): approx 200&deg;
-- [x] Potential loose dial (rattles when you tap it but case screws are tight): was missing a dial screw
-- [x] Clean dial
-- [x] Put case in ultrasonic
-- [x] Polywatch crystal
+## Build ideas
+
+- Namoki gold integrated bracelet
 
 ## Omega 131.019 (steel)
 
@@ -67,16 +66,6 @@ Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, bro
 - [x] Order donor movement
 - [ ] Replace mainspring (swap from donor)
 - [ ] Service
-
-## Citizen 2800A (sold)
-
-Time drifts, quite erratic 180&deg; amplitude.
-
-- [ ] Review keyless works
-- [ ] Service
-- [ ] Replace main spring (gets very low amplitude on a low wind)
-- [ ] Bezel has a gap
-- [ ] Grease gasket
 
 ## Longines 12.92 12'''
 
