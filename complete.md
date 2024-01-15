@@ -106,12 +106,6 @@ Only one screwdriver required for this build to release the stem and fit the cas
 - Case cushion (slightly contentious but you _could_ get away with just a cloth)
 - Blower
 
-### Alternative components
-
-- [Sapphire case](https://www.facebook.com/p/Hong-Kong-Bright-Sapphire-Co-Ltd-100057215358896/)
-- [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
-- [Nice pilot with blue hands](https://www.amazon.co.uk/SN0117G-Stainless-Military-Mechanical-Wristwatch/dp/B0C3MNJ6WC?th=1)
-
 ### Movements references
 
 - [6497 vs 6498](https://calibercorner.com/eta-unitas-caliber-6497-vs-6498/)
@@ -173,12 +167,6 @@ If I hadn't cocked up the spacer I wouldn't have needed a screwdriver at all. (I
 - Baggy, to protect the dial when removing the hands
 - Blower
 - Polishing buff or needle file, to refine the stem after cutting (this is a Bergeon 2290)
-
-### Alternative components
-
-- [New movement from Cousins](https://www.cousinsuk.com/product/eta-mechanical-movements?code=28242LP)
-- [Cool rainbow bezel](https://www.aliexpress.com/item/1005005905443640.html)
-- [Yachtmaster style case](https://www.aliexpress.com/item/1005005502271197.html?)
 
 ## ST3600: "BigDeano" -- 28 August 2023
 

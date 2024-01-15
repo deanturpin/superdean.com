@@ -9,7 +9,14 @@ What's on the bench at the moment?
 
 ## Build ideas
 
+- [New movement from Cousins](https://www.cousinsuk.com/product/eta-mechanical-movements?code=28242LP)
+- [Diver with rainbow bezel](https://www.aliexpress.com/item/1005005905443640.html)
+- [Yachtmaster style case](https://www.aliexpress.com/item/1005005502271197.html?)
 - Namoki gold integrated bracelet
+- NH35 with [custom crown](https://www.ebay.co.uk/itm/404445006599)
+- [Sapphire case](https://www.facebook.com/p/Hong-Kong-Bright-Sapphire-Co-Ltd-100057215358896/)
+- [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
+- [Nice pilot with blue hands](https://www.amazon.co.uk/SN0117G-Stainless-Military-Mechanical-Wristwatch/dp/B0C3MNJ6WC?th=1)
 
 ## Omega 131.019 (steel)
 
