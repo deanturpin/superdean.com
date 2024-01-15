@@ -4,7 +4,9 @@ Finished builds and required tools.
 
 ## Molniya 3602: "White Lightning" -- 12 January 2024
 
-Marriage of an '80s-ish Molniya 3602 movement with a new case, dial and hands. And the company actually still makes something similar in their [Tribute series](https://molniya-watches.com/shop/tribute-1984-2-0-1-black-tcb/); the latest is based on the 3603 which has shock protection.
+Marriage of an 1980s Molniya 3602 movement (serial 595600) with a new case, dial and hands. And the company actually still makes something similar in their [Tribute series](https://molniya-watches.com/shop/tribute-1984-2-0-1-black-tcb/); the latest is based on the 3603 which has shock protection.
+
+> The Molnija movement is basically a copy of a Cortebert movement as used e.g in Rolex watches from around 1940. The Russians improved accuracy of the movement quite a bit when they upgraded it to their 18 jewels version of the movement but the basic design remained the same until the closure of the factory in 2007.
 
 - [Case and hands set](https://www.ebay.co.uk/itm/266415685911)
 - [Example donor movement search](https://www.ebay.co.uk/sch/i.html?_nkw=molnija+3602)
@@ -12,16 +14,14 @@ Marriage of an '80s-ish Molniya 3602 movement with a new case, dial and hands. A
 
 ![Molniya 3602 front](molniya_3602_front.jpg)
 
-This was a really interesting return to where it began for me two years ago. The 3602 was the first movement I fully stripped down and rebuilt. And I've built up a small collection of spares if anybody wants to get involved.
+This was a really interesting return to where it began for me two years ago. The 3602 was the first movement I fully stripped down and rebuilt, and I've built up a nice collection of spares.
 
-<!--
 I swapped the dial out for the one I discounted at the time and found the hour hand was so flush to the dial I'm surprised it ran at all. On closer inspection I found the hour wheel tube to be very short. 
 
+<!--
 I've picked up a few of these and interestingly they have a few different lengths. Similarly, the seconds hand post varies a little.
 
 They very often have broken balance wheels so if you can fix them you are onto a winner; consequently you may have to buy a few donors to make a good one.
-
-I've been through a few iterations of this and I'm going to return to the silver case with a white dial. The hands that came with the case look good, but the hour hand pushes far too near the dial, and the seconds hand is too tight. The movement appears to ba pre-1985 with the smaller diameter post for the hand.
 -->
 
 ![Molniya 3602 front](molniya_3602_rear.jpg)
@@ -53,7 +53,7 @@ I've been through a few iterations of this and I'm going to return to the silver
 ### References
 
 - [Molnija 3601 3602 3603 differences](https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/)
-- [Linux Focus -- comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
+- [Linux Focus: comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
 
 ## ST3621: "Red hand... spells DANGER!" -- 7 December 2023
 
@@ -66,7 +66,7 @@ A Seagull clone of the 6498. It sounds like a rework of the 6497, putting the se
 
 ![ST3621 front](st3621_front.jpg)
 
-I do like this black PVD case, but in hindsight I would go for the slightly larger crown; it's a little tricky to wind and pull out even though I haven't cut the stem right up to the case. And the case clamps are quite fiddly: I find it easier to fit with the movement angled almost vertically, poking the clamp beneath the lip (bend towards the dial) before putting it flat and fitting the screw.
+I do like this black PVD case, but in hindsight I would go for the slightly larger crown: it's a little tricky to wind and pull out even though I haven't cut the stem right up to the case. And the case clamps are quite fiddly: I find it easier to fit with the movement angled almost vertically, poking the clamp beneath the lip (bend towards the dial) before putting it flat and fitting the screw.
 
 The whole build is around 120 bucks for the parts and I've chucked it on a nice Hirsch strap. I bought three sets of hands so I could use one of each colour: if you're being picky you'll notice the seconds hand is a slight different yellow to the numbers on the dial... but hey, we're amongst friends!
 
@@ -246,10 +246,9 @@ Once the balance is spinning, tighten the clamps and make sure it doesn't stop w
 
 There is talk of these movements coming out of the factory unlubricated, but that's a whole different story, see [watchmaker resources](watchmaker.md) for an introduction to oiling.
 
-## Omega 131.019 gold-plated (sold)
+## Omega 131.019 gold-plated
 
-30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose,
-case back is a mess, very strong running so might not do a full service.
+30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess, very strong running so might not do a full service.
 
 ![Omega 131.019](omega_geneve.jpg)
 
@@ -260,7 +259,7 @@ case back is a mess, very strong running so might not do a full service.
 - [ ] Measure amplitude 
 - [ ] Partial service of keyless works
 
-## Rone 34mm FHF ST-96 11.5''' (donated to fellow watchmaker)
+## Rone 34mm FHF ST-96 11.5'''
 
 I think this might be my rite of passage.
 
@@ -275,7 +274,17 @@ wait... I found the first on my pants! Right, on the home stretch, located the
 case and movement spacer from months previous and it's back together, looking
 exactly like it did when I bought it! But I have grown as a human being.
 
-## Mr. Jones "The Accurate" (returned to customer)
+## Raketa 2609.HA 11.5'''
+
+Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
+
+- [x] Estimate amplitude (slow-mo video): approx 200&deg;
+- [x] Potential loose dial (rattles when you tap it but case screws are tight): was missing a dial screw
+- [x] Clean dial
+- [x] Put case in ultrasonic
+- [x] Polywatch crystal
+
+## Mr. Jones "The Accurate"
 
 An actual quartz repair!
 

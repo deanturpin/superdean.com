@@ -21,8 +21,8 @@ You don't need much to get started, you're basically just having a closer look, 
 
 Next you might want to replace straps and maybe do a little cleaning and light buffing.
 
-- Spring Bar Tool (Bergeon 6767-F Watch): it's nice to choose straps with quick release spring bars if you can
-- Polywatch: acrylic crystal polish (won't touch mineral glass)
+- Spring Bar Tool (Bergeon 6767-F): it's really nice to choose straps with quick release spring bars if you can
+- Polywatch: acrylic crystal polish: vintage crystals, won't touch mineral glass
 - Polishing buff (Bergeon 2290)
 
 ## Explore
@@ -31,10 +31,10 @@ Now we're cooking: get the case back off and inspect the insides for any issues.
 
 - Rubber Case Ball (Bergeon 8008): squishy ball case back remover that works far better than you might think
 - Case knife: pen knife style and oyster shucker style; I generally prefer the oyster-style but it's good to have a choice
-- Rodico Premium (Bergeon 7033-1): for picking up dust and small components; often useful for manipulating hands; a little Rodico on a stick is easier if you're using finger cots
+- Rodico Premium (Bergeon 7033-1): for picking up dust and small components; useful for manipulating hands into position, a little Rodico on the end of a closed oil dropper is my go-to
 - Eyeglass/loupe 4x (Bergeon 4422-2.5): slightly more magnification
 - Eyeglass Holder (AF 176.530.24): it's just a loop of spring steel wire that goes around your head, the ones that clip on your glasses look nice but can be more expensive; I tend to swap between depending how I'm feeling, eye glasses can get a little steamy too!
-- Case Cushion (Bergeon Gel Ø75mm): treat yourself to a decent, large gel cushion
+- Case cushion (Bergeon 5395-75-N): treat yourself to a decent, large gel cushion
 
 ## Strip down
 
