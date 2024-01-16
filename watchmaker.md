@@ -12,6 +12,10 @@
 - Practical Treatise on Gearing by Brown and Sharpe (I haven't read this but what a title!)
 - [Masters of Time: The World of Swiss Complicated Watches](https://www.youtube.com/watch?v=CtkcLjiNy_0): the work of independent watchmakers Pilippe Dufour and Antonio Prezioso
 
+## Websites
+
+- [Ranfft](https://ranfft.org/) calibre database
+
 ## YouTube channels
 
 - [Wristwatch Revival](https://www.youtube.com/c/wristwatchrevival): Marshall is a bit of a legend, essential viewing for aspiring watchmakers
