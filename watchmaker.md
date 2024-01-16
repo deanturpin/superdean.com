@@ -56,7 +56,7 @@ At this point it can start to become quite expensive: not only for the machines 
 : get a few of these, you can spend quite a lot but I went economy and I don't know any better; but I prefer the little brass threaded ones
 - Screw top jam jar, recycled and small, the shallower the better to get your bits out and not use lots of cleaning fluid
 
-You can do a job with the above, however, ultrasonic cleaners like [this one](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/) are a great way in. Not as efficient as a proper four-stage cleaning machine but very reasonably-priced and entertaining to use. You can also impressive your friends and relatives by cleaning jewellery and spectacles.
+You can do a bit of a clean with the above, but ultrasonic cleaners like [this](https://www.amazon.co.uk/DK-SONIC-Household-Ultrasonic-Eyeglasses/dp/B08S6V52MV/) are a great way to improve your process. They're probably not as efficient as a proper four-stage cleaning machine but they're very reasonably-priced and oddly entertaining to use (wait until you see the "gravy" that comes off old pieces). You can also impressive your friends and relatives by cleaning jewellery and spectacles.
 
 ## Rebuild and lubricate
 
