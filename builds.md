@@ -6,6 +6,8 @@ What's on the bench at the moment?
 
 - 6821: trim stem
 - 3602: trim stem, review barrel slip, service
+- Replace battery in Pulsar
+- Fix Seiko bracelet (replace spring bars)
 
 ## Build ideas
 
