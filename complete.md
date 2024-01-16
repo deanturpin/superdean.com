@@ -178,8 +178,6 @@ You can fund the whole build and tools for not too much over £100.
 
 The ST3600 is an inexpensive but nice-looking ETA 6497 clone. I bought the movement, case, dial and hands separately on eBay. Make sure to buy a 37mm dial and not 38.9mm (which I bought first in error but still used the hands.)
 
-See [6497 on Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&Unitas_6497).
-
 - 16.5''', Dm= 36.6mm, Do= 37.2mm
 - H= 4.2mm
 - F= 0.5mm
@@ -264,7 +262,7 @@ exactly like it did when I bought it! But I have grown as a human being.
 
 ## Raketa 2609.HA 11.5'''
 
-Solid Soviet-era watch, 38mm, just needs a little love. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&Raketa_2609_HA).
+Solid Soviet-era watch, 38mm, just needs a little love.
 
 - [x] Estimate amplitude (slow-mo video): approx 200&deg;
 - [x] Potential loose dial (rattles when you tap it but case screws are tight): was missing a dial screw

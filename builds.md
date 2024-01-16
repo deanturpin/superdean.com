@@ -13,6 +13,7 @@ What's on the bench at the moment?
 - [Diver with rainbow bezel](https://www.aliexpress.com/item/1005005905443640.html)
 - [Yachtmaster style case](https://www.aliexpress.com/item/1005005502271197.html?)
 - Namoki gold integrated bracelet
+- [Namoki Nautilus](https://www.namokimods.com/en-gb/collections/cases-casebacks/products/nmk926-nautilus-skx-watch-case-polished)
 - NH35 with [custom crown](https://www.ebay.co.uk/itm/404445006599)
 - [Sapphire case](https://www.facebook.com/p/Hong-Kong-Bright-Sapphire-Co-Ltd-100057215358896/)
 - [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
@@ -57,7 +58,7 @@ little worn.
 
 ## 1975 Nino AS 2066 11.5'''
 
-Low amplitude, needs a service. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&&2uswk&AS_2066).
+Low amplitude, needs a service.
 
 - [ ] Clean dial
 - [ ] Ultrasonic case
@@ -65,7 +66,7 @@ Low amplitude, needs a service. See [Ranfft](http://www.ranfft.de/cgi-bin/bidfun
 
 ## Cauny small dress watch with sub-seconds
 
-Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement [FHF 63](http://www.ranfft.de/cgi-bin/bidfun-db.cgi?10&ranfft&0&2uswk&FHF_63).
+Non-runner, balance OK, stem very difficult to remove, rolled gold bracelet, broken mainspring, movement FHF 63.
 
 - [x] Remove from case -- pop the front
 - [x] Clean dial -- didn't make much difference
