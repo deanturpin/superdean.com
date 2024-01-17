@@ -138,7 +138,7 @@ In conclusion: this case looks cool but it feels very poor quality: the bezel to
 
 ### Tools
 
-If I hadn't cocked up the spacer I wouldn't have needed a screwdriver at all. (I used a Bergeon 30080 screwdriver, red (1.2mm) to remove the calendar works... although it might actually be a 1.4mm.)
+If I hadn't cocked up the spacer I wouldn't have needed a screwdriver at all. But I used a Bergeon 30080 screwdriver, red (1.2mm) to remove the calendar works... although it might actually be a 1.4mm.
 
 ![NH35A tools](nh35a_tools.jpg)
 
@@ -176,7 +176,7 @@ _Disclaimer: any resemblance to watches real or imagined is entirely intentional
 
 You can fund the whole build and tools for not too much over £100.
 
-The ST3600 is an inexpensive but nice-looking ETA 6497 clone. I bought the movement, case, dial and hands separately on eBay. Make sure to buy a 37mm dial and not 38.9mm (which I bought first in error but still used the hands.)
+The ST3600 is an inexpensive but nice-looking ETA 6497 clone. I bought the movement, case, dial and hands separately on eBay. Make sure to buy a 37mm dial and not 38.9mm (which I bought first in error but still used the hands).
 
 - 16.5''', Dm= 36.6mm, Do= 37.2mm
 - H= 4.2mm
@@ -226,7 +226,7 @@ You don't need many tools for this build... in theory. But I ended up dropping a
 
 ### Notes
 
-Whilst on paper this is a simple build, the case clamps are particularly fiddly and need to be fitted with the movement in the case (unlike a vintage Omega 601, for instance, which can be swung out of the way.) With the movement in the case, really get in with the loupe to understand where the lip of the case is; you can press the movement gently into the case to make a little space for the clamp. And with a bit of luck you'll get the screw in.
+Whilst on paper this is a simple build, the case clamps are particularly fiddly and need to be fitted with the movement in the case (unlike a vintage Omega 601, for instance, which can be swung out of the way). With the movement in the case, really get in with the loupe to understand where the lip of the case is; you can press the movement gently into the case to make a little space for the clamp. And with a bit of luck you'll get the screw in.
 
 Once the balance is spinning, tighten the clamps and make sure it doesn't stop with pressure from compressing the dial.
 
@@ -234,16 +234,11 @@ There is talk of these movements coming out of the factory unlubricated, but tha
 
 ## Omega 131.019 gold-plated
 
-30463681 (1970), cal 601, worn crown, 43-hour power reserve, crystal is loose, case back is a mess, very strong running so might not do a full service.
+30463681 (1970), cal 601, worn crown, crystal loose, case back a mess... however, good amplitude so full service not required.
+
+Replaced the case back with a NOS original and fitted new crystal: 30.8mm, 3.5mm height (Sternkreuz Sku: MG3011-308).
 
 ![Omega 131.019](omega_geneve.jpg)
-
-- [x] Replace case back
-- [x] Trial refitting old crystal -- cracked it
-- [x] Order new crystal: &#x2300; 30.8mm, 3.5mm height (Sternkreuz Sku: MG3011-308)
-- [x] Fit new crystal
-- [ ] Measure amplitude 
-- [ ] Partial service of keyless works
 
 ## Rone 34mm FHF ST-96 11.5'''
 

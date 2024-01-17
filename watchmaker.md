@@ -83,23 +83,23 @@ __Full disclosure__: I also dip my oilers straight into the jars, which is proba
 
 ## Timegraphers
 
-A Timegrapher is the go-to tool for the job and at the low end they are surprisingly inexpensive. However, you can get some useful results from a phone app: use with an earbud mic if you're not in a completely quiet environment. You may find for some movements they give you very poor results when regulating, which could lead you to think the movement is poorly when it's actually in good health.
+A Timegrapher is the go-to tool for the job and at the low end they can be surprisingly inexpensive. However, you can also get some useful results from a phone app: use with an earbud mic if you're not in a completely quiet environment. You may find for some movements they give you very poor results when regulating, which could lead you to think the movement is poorly when it's actually in good health. If it runs well on your wrist, don't worry about weird timegrapher results.
 
 ## Mainspring winders
 
-You can fix a lot by replacing parts rather than making new ones. But cleaning and refitting mainsprings is probably your first step into really getting series. Winding a mainspring back up in the barrel _can_ be done by hand, however, people will get very cross about it if they find out, and you may be compromising the power reserve of the watch. A proper winder is the answer but a set is fiendishly expensive.
+You can fix a lot by replacing parts rather than making new ones. But cleaning and refitting mainsprings is probably your first step into really getting series. Winding a mainspring back up in the barrel _can_ be done by hand, however, people will get very cross about it if they find out, and you may be compromising the power reserve of the watch (or it may not run for very long at all). A proper winder is the answer but a full set is fiendishly expensive.
 
 ## Stem cutting
 
-There are dedicated tools for this but you can get away with a pair of side cutters and some sandpaper; I like to finish on a Bergeon polishing buff. Now, how much stem should you leave? Often it seems quite subjective but 0.1mm between crown and case is a good rule of thumb. You could measure it precisely with a feeler gauge, but equally, if you have a micrometer, you can find a piece of paper the correct thickness and use that. In reality, the tolerances in the watch may be larger than 0.1mm so you shouldn't worry about it too much.
+There are dedicated tools for this but you can get away with a small pair of pliers cutters and some sandpaper; I like to finish on a Bergeon polishing buff. Now, how much stem should you leave? Often it seems quite subjective but 0.1mm between crown and case is a good rule of thumb. You could measure it precisely with a feeler gauge, but equally, if you have a micrometer, you can find a piece of paper the correct thickness and use that. In reality, the tolerances in the watch may be larger than 0.1mm so you shouldn't worry about it too much.
 
 ## Case clamps
 
-Something that cost me a lot of time and frustration is flicking a case clamp deep into a movement. So when casing up I've made it a habit of tipping the movement up a little -- i.e., not flat against the case cushion -- so if the clamp or screw decides to jump it will probably end up on your desk and not beneath the balance spring.
+Something that cost me a lot of time and frustration is flicking a case clamp deep into a movement. So when casing up I've made it a habit of tipping the movement up a little -- i.e., not flat against the case cushion -- so if the clamp or screw decides to make a bid for freedom, it will probably end up on your desk and not hiding beneath the balance spring.
 
 ## Tweezers
 
-You can spend quite a bit on wood-tipped tweezers, and while they do give you a little more ping protection and safety handling dials, you're still going to need metal ones for fine work. So I think they're a complementary addition to your toolbox rather then essential (certainly for a beginner.)
+You can spend quite a bit on wood-tipped tweezers, and while they do give you a little more ping protection and safety handling dials, you're still going to need metal ones for fine work. So I think they're a complementary addition to your toolbox rather then essential (certainly for a beginner).
 
 ## Pro tools and supplies
 
