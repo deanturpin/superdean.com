@@ -4,11 +4,12 @@ What's on the bench at the moment?
 
 ## Small jobs
 
-- 6821: trim stem
-- 3602: trim stem, review barrel slip, service
-- Replace battery in Pulsar, TBC
-- Fix Seiko bracelet (replace spring bars)
-- Review remaining SR box
+- [ ] Review remaining SR box: prepared for eBay
+- [ ] Replace battery in Pulsar, TBC
+- [ ] Sort vintage straps
+- [ ] 6821: trim stem
+- [ ] 3602: trim stem, review barrel slip, service
+- [ ] Fix Seiko bracelet (replace spring bars)
 
 ## Build ideas
 
