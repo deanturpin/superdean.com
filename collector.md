@@ -1,52 +1,66 @@
 # Collector resources
 
+## Newcomers
+
+Firstly, welcome! Some important brands that you may not know about if you're just thinking about getting your feet wet.
+
+- [Christopher Ward](https://www.christopherward.com/): the posterboy of British watchmaking, for the most part mass produced, but have elevated themselves by making Swiss design more attainanble and some collaborations with very high-end watchmakers
+
+- [Grand Seiko](https://www.grand-seiko.com/): big brother to the well-known Seiko brand, offering high-tech movements and accuracy alongside stunning dials
+
 ## Micro brands
 
-- [Christopher Ward](https://www.christopherward.com/)
+Often less than £1000, using mass-produced (therefore reliable/servicable) movements, with focus more on the aesthetic.
+
 - [Farer](https://farer.com/)
-- [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
-- [BA111OD](https://ba111od.com/)
-- [Kopf](http://kopf.watch/)
 - [Minhoon Yoo](https://minhoonyoo.com/)
 - [The Camden Watch Company](https://www.camdenwatchcompany.com/)
-- [Molnar Fabry](Molnar Fabry): based in Slovakia
 - [Bourlinger](https://www.bourlinger.com/)
 - [CAP](https://en.cap-watch.com/): sustainability, recycled materials
 - [Sequent](https://sequentworld.com/en-gb/products/elektron-hr-2-2-space-white-rubber): mechanical smartwatch
 - [Baltany](https://baltany.co.uk/): inexpensive, some nice vintage styling
-- [Extropian](https://www.extropian.co/watches)
+- [Extropian](https://www.extropian.co/watches): lots of micros
 
-## In-house movements
-
-- [A. Lange & Söhne](https://www.alange-soehne.com/)
-- [F.P.Journe](https://www.fpjourne.com/)
-- [Speake-Marin](https://www.speake-marin.com/)
-- [Frederic Jouvenot](https://fjouvenot.com/solar-deity-collection/amaterasu-titanium/): unusual sundial face
-- [Moritz Grossman](https://en.grossmann-uhren.com/)
-- [Leica](https://leica-camera.com/en-GB/World-of-Leica/Leica-Watch): camera-inspired
-- [Glashütte Original](https://www.glashuette-original.com/)
-
-## Alien technology
-
-- [HYT](https://hytwatches.com/)
-
-## Miyota
+### Miyota
 
 - [Sternglas](https://www.sternglas.com/): that Glashütte look on a budget
 - [Vario](https://vario.sg/pages/ww1-trench-watch): inspired by WW1 trench watches
 - [Autogromo](https://autodromo.com/): driving-inspired
 
-## Seagull
+### Seagull
 
-- [Studio Underd0g](https://underd0g.com/)
+- [Studio Underd0g](https://underd0g.com/): interesting dial design earned a lot of attention
 - [Forge and Foster](https://forgeandfoster.com/): Hublot kind of aesthetic for £300
 
-## NH35
+### NH35
+
+There's a big modding culture with these movements.
 
 - [Shoreham](https://www.shorehamwatches.com/)
 - [Spinnaker](https://spinnaker-watches.com/)
 - [Adley](https://watchadley.co/): bike-inspired design
 - [Camden Watch Company](https://www.camdenwatchcompany.com/)
+
+## Alien technology
+
+Brands that aren't afraid to ignore centuries of watch design.
+
+- [HYT](https://hytwatches.com/)
+- [Kopf](http://kopf.watch/)
+- [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
+
+## In-house movements
+
+Serious, will cost more than a car.
+
+- [BA111OD](https://ba111od.com/)
+- [Molnar Fabry](https://www.molnarfabry.com/): based in Slovakia
+- [A. Lange & Söhne](https://www.alange-soehne.com/)
+- [F.P.Journe](https://www.fpjourne.com/)
+- [Speake-Marin](https://www.speake-marin.com/)
+- [Frederic Jouvenot](https://fjouvenot.com/solar-deity-collection/amaterasu-titanium/): unusual sundial face
+- [Moritz Grossman](https://en.grossmann-uhren.com/)
+- [Glashütte Original](https://www.glashuette-original.com/)
 
 ## Watches you should have bought
 
@@ -104,7 +118,7 @@ But are sold out now so tough.
 ## Enthusiast cleaning
 
 - [Nanoclear](https://nanoclear.com/)
-- [Polywatch](https://www.polywatch.de/) (usually for vintage acrylic crystals)
+- [Polywatch](https://www.polywatch.de/): for vintage acrylic crystals
 
 ## Enthusiast books
 
