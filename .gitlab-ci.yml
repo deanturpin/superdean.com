@@ -1,24 +1,21 @@
 pages:
+
   image: ubuntu:devel
   stage: deploy
   artifacts: {paths: [public/]}
+
   script:
-
     # Deps
-
     - apt update
     - apt install --yes curl mkdocs
 
     # Create new site
-
     - mkdocs new .
     - mv _mkdocs.yml mkdocs.yml
     - cp *.md docs/
     - cp *.jpg docs/
+    - cp tools.xlsx docs/
     - mkdocs build
 
     # Publish
-
     - mv site public
-    - cp tools.xlsx public/
-    - cp tools.png public/
