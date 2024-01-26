@@ -8,7 +8,9 @@ There are myriad tools to streamline your workflow; I've listed them in order so
 
 > __tl;dr__ Expect to fork out £500 to service a basic watch.
 
+<!--
 ![Tools spreadsheet screenshot](tools.png)
+-->
 
 See the [full spreadsheet](tools.xlsx).
 
