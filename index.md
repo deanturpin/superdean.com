@@ -1,8 +1,12 @@
+# The Brighton Watch
+
 We are a collection of like-minded collectors, with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Horology encompasses art, design, culture, history, jewellery, fashion, economics, mechanics and physics (amongst others).
 
 For those who haven't yet accepted their calling as a watchmaker, head over to the [collectors' page](collector.md).
 
-# Tools
+![Molniya 3602 front](molniya_3602_front.jpg)
+
+## Tools
 
 There are myriad tools to streamline your workflow, I've listed them in order so you can add more as you progress; and tools can be resold quite easily if you've gone far enough to scratch the itch.
 
@@ -10,14 +14,16 @@ __Expect to fork out £500 to service a basic watch.__
 
 See the [full spreadsheet](tools.xlsx).
 
-## Inspect
+![Molniya 3602 tools](molniya_3602_tools.jpg)
+
+### Inspect
 
 You don't need much to get started, you're basically just having a closer look, but I often go out and about with a loupe in my jacket pocket. Just in case.
 
 - Eyeglass/loupe 2.8x (Bergeon 4422-3.5): note the Bergeon name is the focal length not the magnification
 - Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm): I think it's good practice to always handle watches with a cloth (especially if it's not yours)
 
-## Maintain
+### Maintain
 
 Next you might want to replace straps and maybe do a little cleaning and light buffing.
 
@@ -25,7 +31,7 @@ Next you might want to replace straps and maybe do a little cleaning and light b
 - Polywatch: acrylic crystal polish: vintage crystals, won't touch mineral glass
 - Polishing buff (Bergeon 2290)
 
-## Explore
+### Explore
 
 Now we're cooking: get the case back off and inspect the insides for any issues.
 
@@ -36,7 +42,7 @@ Now we're cooking: get the case back off and inspect the insides for any issues.
 - Eyeglass Holder (AF 176.530.24): it's just a loop of spring steel wire that goes around your head, the ones that clip on your glasses look nice but can be more expensive; I tend to swap between depending how I'm feeling, eye glasses can get a little steamy too!
 - Case cushion (Bergeon 5395-75-N): treat yourself to a decent, large gel cushion
 
-## Strip down
+### Strip down
 
 This is getting serious... and you'll need quite a few more tools. But you will have enough to completely disassemble a basic movement (and by "basic" I mean a three hand manual winder). Note we are _replacing_ broken parts at this level, rather than making new ones. And always use the correct size screwdriver, otherwise you just risk chewing up the blades, screw head or both.
 
@@ -57,7 +63,7 @@ This is getting serious... and you'll need quite a few more tools. But you will 
 - Crystal press: eBay £15.99, screw down seems a bit more controlled; I also padded the lower dies out with sticky felt furniture pads into a dome shape; this is really only for vintage restoration rather than building from new
 - Sealing Grease Winder: for gaskets on case back and crown tube; a nice little finishing flourish
 
-## The next level
+### The next level
 
 Take it to the next level by repairing and servicing your own watches; but know this: the rabbit hole goes _deep_... see where to go next in [watchmaker's resources](watchmaker.md#clean).
 
