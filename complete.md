@@ -14,15 +14,11 @@ Marriage of an 1980s Molniya 3602 movement (serial 595600) with a new case, dial
 
 ![Molniya 3602 front](molniya_3602_front.jpg)
 
-This was a really interesting return to where it began for me two years ago. The 3602 was the first movement I fully stripped down and rebuilt, and I've built up a nice collection of spares.
+This was a really interesting return to where it began for me two years ago. The 3602 was the first movement I fully stripped down and rebuilt.
 
-I swapped the dial out for the one I discounted at the time and found the hour hand was so flush to the dial I'm surprised it ran at all. On closer inspection I found the hour wheel tube to be very short. 
+I swapped the dial out for the one I originally discounted as "a bit old-fashioned" and found the hour hand was so flush to the dial I'm surprised it ran at all. On closer inspection I found the hour wheel tube to be very short. Fortunately I've built up a nice collection of sparesfor this movement and quickly found a suitably long replacement.
 
-<!--
-I've picked up a few of these and interestingly they have a few different lengths. Similarly, the seconds hand post varies a little.
-
-They very often have broken balance wheels so if you can fix them you are onto a winner; consequently you may have to buy a few donors to make a good one.
--->
+They very often have broken balance wheels as they have no shock protection, so if you can fix balances you are onto a winner; otherwise you may have to buy a few donors to make a good one.
 
 ![Molniya 3602 front](molniya_3602_rear.jpg)
 
