@@ -4,13 +4,9 @@ For those who haven't yet accepted their calling as a watchmaker, head over to t
 
 # Tools
 
-There are myriad tools to streamline your workflow; I've listed them in order so you can add more as you progress. And tools can be resold quite easily if you've gone far enough to scratch the itch.
+There are myriad tools to streamline your workflow, I've listed them in order so you can add more as you progress; and tools can be resold quite easily if you've gone far enough to scratch the itch.
 
-> __tl;dr__ Expect to fork out £500 to service a basic watch.
-
-<!--
-![Tools spreadsheet screenshot](tools.png)
--->
+__Expect to fork out £500 to service a basic watch.__
 
 See the [full spreadsheet](tools.xlsx).
 
