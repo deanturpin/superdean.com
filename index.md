@@ -18,10 +18,10 @@ See the [full spreadsheet](tools.xlsx).
 
 ### Inspect
 
-You don't need much to get started, you're basically just having a closer look, but I often go out and about with a loupe in my jacket pocket. Just in case.
+You don't need much to get started -- you're basically just having a closer look -- but I often go out and about with a loupe in my jacket pocket. You know... just in case.
 
 - Eyeglass/loupe 2.8x (Bergeon 4422-3.5): note the Bergeon name is the focal length not the magnification
-- Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm): I think it's good practice to always handle watches with a cloth (especially if it's not yours)
+- Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm): I think it's good practice to always handle watches with a cloth, especially if it's not yours; a decent microfibre cloth is a good alternative
 
 ### Maintain
 
@@ -29,7 +29,7 @@ Next you might want to replace straps and maybe do a little cleaning and light b
 
 - Spring Bar Tool (Bergeon 6767-F): it's really nice to choose straps with quick release spring bars if you can
 - Polywatch: acrylic crystal polish: vintage crystals, won't touch mineral glass
-- Polishing buff (Bergeon 2290)
+- Polishing buff (Bergeon 2290): for steel cases, don't use on gold-plated or it won't be gold-plated for much longer
 
 ### Explore
 
