@@ -34,18 +34,6 @@
 - eBay: search for a movement, e.g., "nh35a" or ["6497"](https://www.ebay.co.uk/sch/i.html?_nkw=6497)
 - [Almond Mods](https://almondmods.com/)
 
-## Beat frequencies
-
-| Beats per second | Vibrations per hour |
-|---|---|
-| 3   | 10800 |
-| 4   | 14400 |
-| 5   | 18000 |
-| 5.5 | 19800 |
-| 6   | 21600 |
-| 7   | 25200 |
-| 8   | 28800 |
-
 ## Clean
 
 At this point it can start to become quite expensive: not only for the machines but also the consumables that you probably can't sell on quite so easily. Be careful putting your pallet forks and balance wheel in solvent as it can dissolve the [shellac](https://en.wikipedia.org/wiki/Shellac) that holds the pallet and roller jewels in place.
