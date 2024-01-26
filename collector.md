@@ -10,7 +10,7 @@ Firstly, welcome! Some important brands that you may not know about if you're ju
 
 ## Micro brands
 
-Often less than £1000, using mass-produced (therefore reliable/servicable) movements, with focus more on the aesthetic.
+Often less than £1000, using mass-produced movements; which is often looked down upon, but arguably that makes them more reliable and servicable. The focus is usually more on the aesthetic and associated lifestyle.
 
 - [Farer](https://farer.com/)
 - [Minhoon Yoo](https://minhoonyoo.com/)
