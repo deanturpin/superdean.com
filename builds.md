@@ -13,6 +13,7 @@ What's on the bench at the moment?
 
 ## Build ideas
 
+- Skeletonised 3620 with black case
 - [Stealth NH35](https://www.ebay.co.uk/itm/126001068891?hash=item1d563fbb5b:g:x1QAAOSweS9krQsT)
 - [NH25 full lume](https://www.ebay.co.uk/itm/186045140367)
 - [TY2809](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=ty2809+case&_sacat=0): same as Ciga Design

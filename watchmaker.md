@@ -75,7 +75,7 @@ A Timegrapher is the go-to tool for the job and at the low end they can be surpr
 
 ## Mainspring winders
 
-You can fix a lot by replacing parts rather than making new ones. But cleaning and refitting mainsprings is probably your first step into really getting series. Winding a mainspring back up in the barrel _can_ be done by hand, however, people will get very cross about it if they find out, and you may be compromising the power reserve of the watch (or it may not run for very long at all). A proper winder is the answer but a full set is fiendishly expensive.
+You can fix a lot by replacing parts rather than making new ones. But cleaning and refitting mainsprings is probably your first step into really getting series. Winding a mainspring back up in the barrel _can_ be done by hand, however, people will get very cross about it if they find out, and you may be compromising the power reserve of the watch (or it may not run for very long at all). You can just buy new mainsprings pre-wound -- and with a bit of luck they just push into the barrel) -- but a proper winder is the answer for full a full service. A full set, however, is fiendishly expensive.
 
 ## Stem cutting
 
