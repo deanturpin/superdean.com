@@ -1,5 +1,12 @@
 # The Brighton Watch
 
+```bash
+ ____  _ _ __  ___ _ _ __| |___ __ _ _ _    __ ___ _ __  
+(_-< || | '_ \/ -_) '_/ _` / -_) _` | ' \ _/ _/ _ \ '  \ 
+/__/\_,_| .__/\___|_| \__,_\___\__,_|_||_(_)__\___/_|_|_|
+        |_|    
+```
+
 We are a collection of like-minded collectors, with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Horology encompasses art, design, culture, history, jewellery, fashion, economics, mechanics and physics (amongst others).
 
 For those who haven't yet accepted their calling as a watchmaker, head over to the [collectors' page](collector.md).
