@@ -89,6 +89,10 @@ Something that cost me a lot of time and frustration is flicking a case clamp de
 
 You can spend quite a bit on wood-tipped tweezers, and while they do give you a little more ping protection and safety handling dials, you're still going to need metal ones for fine work. So I think they're a complementary addition to your toolbox rather then essential (certainly for a beginner).
 
+## Searching for new parts
+
+You can find part names by digging around on CousinsUK; e.g., for vintage Omega [case clamps](https://www.cousinsuk.com/sku/details/omega-case-clamps/ome5501911).
+
 ## Pro tools and supplies
 
 The top two offer some good economy options if you can't justify £25 on a tiny cleaning basket, for instance.
