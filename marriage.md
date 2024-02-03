@@ -1,6 +1,6 @@
 # Marriage watches
 
-If you want to fit a movement in a non-standard case.
+If you want to fit a movement in a non-standard case and make use of a perfectly good old movement.
 
 | Movement | Ligne | Reference |
 |---|---|---|
@@ -13,6 +13,7 @@ If you want to fit a movement in a non-standard case.
 ## Examples
 
 - [Omega](https://www.ebay.co.uk/itm/386650088173)
+- [Molniya 3602](https://www.ebay.co.uk/itm/266572846773)
 - [Omega cal 40.6](https://www.ebay.co.uk/itm/256383256116)
 - [Longines](https://www.ebay.co.uk/itm/225514766616?)
 - [Hamilton](https://www.ebay.co.uk/itm/256109526719?)
