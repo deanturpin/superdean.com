@@ -8,7 +8,7 @@ Marriage of an 1980s Molniya 3602 movement (serial 595600) with a new case, dial
 
 > The Molnija movement is basically a copy of a Cortebert movement as used e.g in Rolex watches from around 1940. The Russians improved accuracy of the movement quite a bit when they upgraded it to their 18 jewels version of the movement but the basic design remained the same until the closure of the factory in 2007.
 
-- [Case and hands set](https://www.ebay.co.uk/itm/266572846773)
+- [Case and hands set](https://www.ebay.co.uk/itm/266621241920)
 - [Example donor movement search](https://www.ebay.co.uk/sch/i.html?_nkw=molnija+3602)
 - [Alternative black case](https://www.ebay.co.uk/itm/266402331767)
 
