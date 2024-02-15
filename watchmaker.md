@@ -2,6 +2,8 @@
 
 "Do better if possible and that is always possible.": François-Constantin to Jacques-Barthélémi Vacheron
 
+![Exploded view of a movement](mech.jpg)
+
 ## Books and films
 
 - Practical Watch Repairing by Donald de Carlo: essential reading (get this first)
