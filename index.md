@@ -21,6 +21,7 @@ See the [full spreadsheet](tools.xlsx).
 
 ![Molniya 3602 tools](molniya_3602_tools.jpg)
 
+<!--
 
 | Item | Price |
 | ---- | ----- |
@@ -33,12 +34,17 @@ See the [full spreadsheet](tools.xlsx).
 | Bergeon 2290 Polishing Buff | 2.50 |
 | Selvyt Medium (PR) Cloth, White Size: Size A 25x25cm | 3.50 |
 
+-->
+
 ### Inspect
 
 You don't need much to get started -- you're basically just having a closer look -- but I often go out and about with a loupe in my jacket pocket. You know... just in case.
 
-- Eyeglass/loupe 2.8x (Bergeon 4422-3.5): note the Bergeon name is the focal length not the magnification
-- Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm): I think it's good practice to always handle watches with a cloth, especially if it's not yours; a decent microfibre cloth is a good alternative (I like the [CRYSTOWEL glass cloth](https://mcrofbre.com/products/crystowel-streak-free-700gsm-glass-microfibre-cloth))
+
+| Item | Description | Price |
+|---|---|---|
+| Eyeglass/loupe 2.8x (Bergeon 4422-3.5) | The Bergeon name is the focal length not the magnification | 7.95 |
+| Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm) | I think it's good practice to always handle watches with a cloth, especially if it's not yours; a decent microfibre cloth is a good alternative (I like the [CRYSTOWEL glass cloth](https://mcrofbre.com/products/crystowel-streak-free-700gsm-glass-microfibre-cloth)) | 5 |
 
 ### Maintain
 
