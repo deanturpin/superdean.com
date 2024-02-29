@@ -8,6 +8,8 @@ Another ST3600 commission -- see below for required tools -- I would normally ad
 
 ![ST3600 front](st36_moon_front.jpg)
 
+This is my 2nd ST3600 commission and the 4th one I've built. The build was going swimmingly until I trimmed the stem and found it was very difficult to wind. After tinkering with a spare stem and greasing/oiling I ended up replacing the whole case (with another new one). Nothing obvious with the crown tube by eye but clearly something out of tolerance somewhere. In the end it turned out the smoothest one I've built.
+
 ![ST3600 back](st36_moon_back.jpg)
 
 ## Molniya 3602: "White Lightning" -- 12 January 2024
