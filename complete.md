@@ -2,6 +2,14 @@
 
 Finished builds and required tools.
 
+## ST3600: 月亮 "Yuèliàng" ("The Moon") -- 27 Feb 2024
+
+Another ST3600 commission -- see below for required tools -- but the customer stood firm on the white on white (despite me lobbying to go for colourful hands) and I'm a little bit jaloux of the outcome.
+
+![ST3600 front](st36_moon_front.jpg)
+
+![ST3600 back](st36_moon_back.jpg)
+
 ## Molniya 3602: "White Lightning" -- 12 January 2024
 
 Marriage of an 1980s Molniya 3602 movement (serial 595600) with a new case, dial and hands. And the company actually still makes something similar in their [Tribute series](https://molniya-watches.com/shop/tribute-1984-2-0-1-black-tcb/); the latest is based on the 3603 which has shock protection.

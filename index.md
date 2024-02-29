@@ -22,7 +22,6 @@ See the [full spreadsheet](tools.xlsx).
 ![Molniya 3602 tools](molniya_3602_tools.jpg)
 
 <!--
-
 | Item | Price |
 | ---- | ----- |
 | Tweezers, Idealtek Anti-Magnetic No. 7 Very Fine, Curved Tips	 | 16.95 |
@@ -33,7 +32,6 @@ See the [full spreadsheet](tools.xlsx).
 | Hand Levers, 3.0mm Tips (Bergeon 5431) | 39.95 |
 | Bergeon 2290 Polishing Buff | 2.50 |
 | Selvyt Medium (PR) Cloth, White Size: Size A 25x25cm | 3.50 |
-
 -->
 
 ### Inspect
