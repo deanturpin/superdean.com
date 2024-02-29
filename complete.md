@@ -4,7 +4,7 @@ Finished builds and required tools.
 
 ## ST3600: 月亮 "Yuèliàng" ("The Moon") -- 27 Feb 2024
 
-Another ST3600 commission -- see below for required tools -- but the customer stood firm on the white on white (despite me lobbying to go for colourful hands) and I'm a little bit jaloux of the outcome.
+Another ST3600 commission -- see below for required tools -- I would normally add a splash of colour; but I'm actually a little bit jaloux of the white-on-white: very versatile with the strap pairings.
 
 ![ST3600 front](st36_moon_front.jpg)
 
