@@ -15,24 +15,26 @@ What's on the bench at the moment?
 
 ## NH35
 
-I'm missing my diver and some interest in commissions. So...
+I'm missing my diver and there's some interest in commissions. So...
 
-- [Stealth NH35](https://www.ebay.co.uk/itm/126001068891?hash=item1d563fbb5b:g:x1QAAOSweS9krQsT)
-- [NH35 full lume](https://www.ebay.co.uk/itm/186045140367)
 - [Diver with rainbow bezel](https://www.aliexpress.com/item/1005005905443640.html)
 - [Yachtmaster style case](https://www.aliexpress.com/item/1005005502271197.html?)
-- Namoki gold integrated bracelet
-- [Namoki Nautilus](https://www.namokimods.com/en-gb/collections/cases-casebacks/products/nmk926-nautilus-skx-watch-case-polished)
-- NH35 with [custom crown](https://www.ebay.co.uk/itm/404445006599)
+- Namoki [gold integrated bracelet](https://www.namokimods.com/en-gb/products/nmk945-nrx-sports-watch-case-bundle-gold-finish)
+- Namoki [Nautilus](https://www.namokimods.com/en-gb/collections/cases-casebacks/products/nmk926-nautilus-skx-watch-case-polished)
+- NH35 [custom crown](https://www.ebay.co.uk/itm/404445006599)
+- [Stealth NH35](https://www.ebay.co.uk/itm/126001068891?hash=item1d563fbb5b:g:x1QAAOSweS9krQsT)
+- [NH35 full lume](https://www.ebay.co.uk/itm/186045140367)
 - [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
+
+## ST36 skeleton
+
+- [Sapphire case](https://www.facebook.com/p/Hong-Kong-Bright-Sapphire-Co-Ltd-100057215358896/)
+- Skeletonised 3620 with black case
 
 ### Others
 
-- [Nice pilot with blue hands](https://www.amazon.co.uk/SN0117G-Stainless-Military-Mechanical-Wristwatch/dp/B0C3MNJ6WC?th=1)
-- Skeletonised 3620 with black case
 - [TY2809](https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p4432023.m570.l1313&_nkw=ty2809+case&_sacat=0): same as Ciga Design
 - [New movement from Cousins](https://www.cousinsuk.com/product/eta-mechanical-movements?code=28242LP)
-- [Sapphire case](https://www.facebook.com/p/Hong-Kong-Bright-Sapphire-Co-Ltd-100057215358896/)
 
 ## Omega 131.019 (steel)
 
