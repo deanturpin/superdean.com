@@ -1,9 +1,6 @@
-```bash
- ____  _ _ __  ___ _ _ __| |___ __ _ _ _    __ ___ _ __  
-(_-< || | '_ \/ -_) '_/ _` / -_) _` | ' \ _/ _/ _ \ '  \ 
-/__/\_,_| .__/\___|_| \__,_\___\__,_|_||_(_)__\___/_|_|_|
-        |_|    
-```
+# superdean.com
+
+> See my [complete builds](complete.md) and what's on the bench [right now](builds.md).
 
 We are a collection of like-minded collectors, with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Horology encompasses art, design, culture, history, jewellery, fashion, economics, mechanics and physics (amongst others).
 
