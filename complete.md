@@ -2,7 +2,7 @@
 
 Finished builds and required tools.
 
-## ST3600: 月亮 "Yuèliàng" ("The Moon") -- 27 Feb 2024
+## ST3600: 月亮 "Yuèliàng" ("The Moon") [27 Feb 2024]
 
 Another ST3600 commission -- see below for required tools -- I would normally add a splash of colour; but I'm actually a little bit jaloux of the white-on-white: very versatile with the strap pairings.
 
@@ -12,7 +12,7 @@ This is my 2nd ST3600 commission and the 4th one I've built. The build was going
 
 ![ST3600 back](st36_moon_back.jpg)
 
-## Molniya 3602: "White Lightning" -- 12 January 2024
+## Molniya 3602: "White Lightning" [12 January 2024]
 
 Marriage of an 1980s Molniya 3602 movement (serial 595600) with a new case, dial and hands. And the company actually still makes something similar in their [Tribute series](https://molniya-watches.com/shop/tribute-1984-2-0-1-black-tcb/); the latest is based on the 3603 which has shock protection.
 
@@ -61,7 +61,7 @@ They very often have broken balance wheels as they have no shock protection, so 
 - [Molnija 3601 3602 3603 differences](https://www.thewatchforum.co.uk/threads/molnija-3601-3602-3603-differences.59492/)
 - [Linux Focus: comprehensive article on the history of the movement](http://cgi.linuxfocus.org/~guido/molnija-pocket-watch/)
 
-## ST3621: "Red hand... spells DANGER!" -- 7 December 2023
+## ST3621: "Red hand... spells DANGER!" [7 December 2023]
 
 A Seagull clone of the 6498. It sounds like a rework of the 6497, putting the seconds at 6 o'clock; but the movement is actually a little more open -- you can see the escape wheel nicely -- and this clone has more interesting finishing.
 
@@ -119,7 +119,7 @@ Only one screwdriver required for this build to release the stem and fit the cas
 - [6498](https://calibercorner.com/eta-caliber-6498-2/)
 - [ST3600](https://calibercorner.com/seagull-caliber-st3600k/)
 
-## NH35A: "B&H Pool Cruiser" -- 27 September 2023
+## NH35A: "B&H Pool Cruiser" [27 September 2023]
 
 This is my first NH35A build. I just wanted to get a feel for it given the abundance of mod kits for these Seiko movements.
 
@@ -174,7 +174,7 @@ If I hadn't cocked up the spacer I wouldn't have needed a screwdriver at all. Bu
 - Blower
 - Polishing buff or needle file, to refine the stem after cutting (this is a Bergeon 2290)
 
-## ST3600: "BigDeano" -- 28 August 2023
+## ST3600: "BigDeano" [28 August 2023]
 
 _Disclaimer: any resemblance to watches real or imagined is entirely intentional._
 
