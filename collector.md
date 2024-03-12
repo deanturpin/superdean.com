@@ -48,6 +48,8 @@ Brands that aren't afraid to ignore centuries of watch design.
 - [HYT](https://hytwatches.com/)
 - [Kopf](http://kopf.watch/)
 - [Giuliano Mazzuoli](https://giulianomazzuoli.com/)
+- URwerk
+- MB&F
 
 ## In-house movements
 

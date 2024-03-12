@@ -106,3 +106,6 @@ The top two offer some good economy options if you can't justify £25 on a tiny 
 - [Lucius Atelier](https://luciusatelier.com/)
 - [DIY Watch Club](https://shop.diywatch.club/collections/watchmaking-tools)
 - [Welwyn](https://welwynwatchparts.co.uk/)
+- Esslinger
+- Jules Borel
+- Casker
