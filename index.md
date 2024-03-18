@@ -14,7 +14,7 @@ There are myriad tools to streamline your workflow, I've listed them in order so
 
 __Expect to fork out £500 to service a basic watch.__
 
-See the [full spreadsheet](tools.xlsx).
+<!-- See the [full spreadsheet](tools.xlsx). -->
 
 ![Molniya 3602 tools](molniya_3602_tools.jpg)
 
@@ -35,11 +35,10 @@ See the [full spreadsheet](tools.xlsx).
 
 You don't need much to get started -- you're basically just having a closer look -- but I often go out and about with a loupe in my jacket pocket. You know... just in case.
 
-
 | Item | Description | Price |
 |---|---|---|
 | Eyeglass/loupe 2.8x (Bergeon 4422-3.5) | The Bergeon name is the focal length not the magnification | 7.95 |
-| Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm) | I think it's good practice to always handle watches with a cloth, especially if it's not yours; a decent microfibre cloth is a good alternative (I like the [CRYSTOWEL glass cloth](https://mcrofbre.com/products/crystowel-streak-free-700gsm-glass-microfibre-cloth)) | 5 |
+| Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm) | I think it's good practice to always handle watches with a cloth, especially if it's not yours; a decent microfibre cloth is a good alternative | 5 |
 
 ### Maintain
 
