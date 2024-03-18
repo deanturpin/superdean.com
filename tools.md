@@ -58,7 +58,7 @@ Now we're cooking: get the case back off and inspect the insides for any issues.
 | Case cushion (Bergeon 5395-75-N) | Treat yourself to a decent, large gel cushion | 15 |
 | TOTAL | | 38 |
 
-### Strip down
+## Strip down
 
 This is getting serious... and you'll need quite a few more tools. But you will have enough to completely disassemble a basic movement (and by "basic" I mean a three hand manual winder). Note we are _replacing_ broken parts at this level, rather than making new ones. And always use the correct size screwdriver, otherwise you just risk chewing up the blades, screw head or both.
 
@@ -82,6 +82,15 @@ This is getting serious... and you'll need quite a few more tools. But you will 
 | Plastic pointy stick/peg wood |Starbucks call them "coffee stirrers" but they look like peg wood to me | 0 |
 | Total | | 217 |
 
-### The next level
+## Cutting stems
+
+| Product | Description | Price |
+|---|---|---|
+| Nippers | You can cut the stem with regular pliers but you'll make a better job of it with end cutters | 10 |
+| Emery sticks (assorted) | To refine the cut stem, you can get away 800 grit paper | 7 |
+| Pin vice | To hold the stem when you're polishing it | 4 |
+| Total | | 21 |
+
+## The next level
 
 Take it to the next level by repairing and servicing your own watches; but know this: the rabbit hole goes _deep_... see where to go next in [watchmaker's resources](watchmaker.md#clean).
