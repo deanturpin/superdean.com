@@ -4,9 +4,9 @@ If you want to fit a movement in a non-standard case and make use of a perfectly
 
 | Movement | Ligne | mm | Reference |
 |-|-|-|-|
-| ETA 2824-2 | 11.5 | | |
-| Raketa 2609 | 11.5 | | |
-| NH35 | 12 | | [website](https://calibercorner.com/seiko-caliber-nh35a/) |
+| ETA 2824-2 | 11.5 | 25.942 | |
+| Raketa 2609 | 11.5 | 25.942 | |
+| NH35 | 12/13 | 27.40/29.36 | [website](https://calibercorner.com/seiko-caliber-nh35a/) |
 | Omega 601 | | 28.4 | |
 | Molniya 3602 | 16 | | |
 | Unitas-6497, TY3600, ST3600 | 16.5 | | |
@@ -17,7 +17,7 @@ If you want to fit a movement in a non-standard case and make use of a perfectly
 > 1 ligne = 2.256 mm
 
 | Ligne | mm |
-|---|---|
+|-|-|
 | 11 | 24.814 |
 | 11.5 | 25.942 |
 | 12 | 27.070 |
