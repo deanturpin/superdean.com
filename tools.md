@@ -65,7 +65,18 @@ Tidy up an old case and crystal.
 | Crystal press | The screw down type seems a bit more controlled; I also padded the lower dies out with sticky felt furniture pads into a dome shape | 16 |
 | TOTAL | | TBD |
 
-## Cutting stems
+## Lubricate
+
+This is a big old can of expensive oily worms. But let's get started with the basics, and just go for the smallest volume as you'll be using it sparingly. You can buy just the red and green but you might as well get the set. There's a bit of a knack to loading the oiler: kind of slow dip and then quick out; you just want the tip to be wet.
+
+| Product | Description | Price |
+|---|---|---|
+| Light oil | For the quick wheels; e.g, Moebius 9010 | 20 |
+| Grease | For the high-friction metal-on-metal components; e.g, Moebius 8300 | 13 |
+| Bergeon pack of 4 | Oiler, fine (red) for the jewels; medium (green) for the grease | 12 |
+| Total | | 45 |
+
+## Stem cutting
 
 | Product | Description | Price |
 |---|---|---|

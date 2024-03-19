@@ -7,6 +7,7 @@ If you want to fit a movement in a non-standard case and make use of a perfectly
 | ETA 2824-2 | 11.5 | | |
 | Raketa 2609 | 11.5 | | |
 | NH35 | 12 | | [website](https://calibercorner.com/seiko-caliber-nh35a/) |
+| Omega 601 | | 28.4 | |
 | Molniya 3602 | 16 | | |
 | Unitas-6497, TY3600, ST3600 | 16.5 | | |
 | TY-2809, TY2809, ST1601K3 | | 31 | [website](https://calibercorner.com/seagull-caliber-ty2809/) |
