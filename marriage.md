@@ -3,7 +3,7 @@
 If you want to fit a movement in a non-standard case and make use of a perfectly good old movement.
 
 | Movement | Ligne | mm | Reference |
-|---|---|---|
+|-|-|-|-|
 | ETA 2824-2 | 11.5 | | |
 | Raketa 2609 | 11.5 | | |
 | NH35 | 12 | | [website](https://calibercorner.com/seiko-caliber-nh35a/) |

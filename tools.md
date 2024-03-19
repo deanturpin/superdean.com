@@ -31,18 +31,6 @@ You don't need much to get started -- you're basically just having a closer look
 | Large cleaning cloth (Selvyt Medium White Size: Size A 25x25cm) | I think it's good practice to always handle watches with a cloth, especially if it's not yours; a decent microfibre cloth is a good alternative | 5 |
 | Spring Bar Tool (Bergeon 6767-F) | It's really nice to choose straps with quick release spring bars if you can, otherwise this tool is essential | |
 
-## Vintage clean and restore
-
-Tidy up an old case and crystal.
-
-| Product | Description | Price |
-|---|---|---|
-| Polywatch | Acrylic crystal polish: vintage crystals, won't touch mineral glass | 10 |
-| Polishing buff (Bergeon 2290) | For steel cases, don't use on gold-plated or it won't be gold-plated for much longer | 8 |
-| Rodico Premium (Bergeon 7033-1) | For picking up dust and small components; also useful for manipulating hands into position, a little Rodico on the end of a closed oil dropper is my go-to | 5 |
-| Crystal press | The screw down type seems a bit more controlled; I also padded the lower dies out with sticky felt furniture pads into a dome shape | 16 |
-| TOTAL | | TBD |
-
 ## Explore
 
 Now we're cooking: get the case back off and inspect the insides for any issues.
@@ -56,7 +44,8 @@ Now we're cooking: get the case back off and inspect the insides for any issues.
 | Case cushion (Bergeon 5395-75-N) | Treat yourself to a decent, large gel cushion | 15 |
 | TOTAL | | 38 |
 
-## Strip down
+## Dissassemble
+
 
 This is getting serious... and you'll need quite a few more tools. But you will have enough to completely disassemble a basic movement (and by "basic" I mean a three hand manual winder). Note we are _replacing_ broken parts at this level, rather than making new ones. And always use the correct size screwdriver, otherwise you just risk chewing up the blades, screw head or both.
 
@@ -77,6 +66,18 @@ This is getting serious... and you'll need quite a few more tools. But you will 
 | Cannon pinion remover | Can be very expensive for such a niche tool; alternatively do it carefully in a bag with tweezers, I found some blunt-end brass ones that work, pull upwards to avoid bending anything | |
 | Plastic pointy stick/peg wood |Starbucks call them "coffee stirrers" but they look like peg wood to me | 0 |
 | Total | | 217 |
+
+## Vintage clean and restore
+
+Tidy up an old case and crystal.
+
+| Product | Description | Price |
+|---|---|---|
+| Polywatch | Acrylic crystal polish: vintage crystals, won't touch mineral glass | 10 |
+| Polishing buff (Bergeon 2290) | For steel cases, don't use on gold-plated or it won't be gold-plated for much longer | 8 |
+| Rodico Premium (Bergeon 7033-1) | For picking up dust and small components; also useful for manipulating hands into position, a little Rodico on the end of a closed oil dropper is my go-to | 5 |
+| Crystal press | The screw down type seems a bit more controlled; I also padded the lower dies out with sticky felt furniture pads into a dome shape | 16 |
+| TOTAL | | TBD |
 
 ## Cutting stems
 
