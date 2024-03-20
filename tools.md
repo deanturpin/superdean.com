@@ -6,6 +6,8 @@ Optics, tweezers and screwdrivers can't be skimped on. If you can justify a full
 
 __Expect to fork out £500 to service a basic watch.__
 
+I've added the product code in brackets, the six-digit ones are [Cousins UK own brand](https://www.cousinsuk.com/).
+
 ![Molniya 3602 tools](molniya_3602_tools.jpg)
 
 ## Inspect
@@ -25,9 +27,9 @@ Now we're cooking: get the case back off and inspect the insides for any issues.
 | Product | Description | Price |
 |---|---|---|
 | Rubber Case Ball (Bergeon 8008) | Squishy ball case back remover that works far better than you might think | 5 |
-| Case knife | Pen knife style and oyster shucker style; I generally prefer the oyster-style but it's good to have a choice | 5 |
+| Case knife (C20800) | Pen knife style and oyster shucker style; I generally prefer the oyster-style but it's good to have a choice | 4 |
 | Eyeglass/loupe 4x (Bergeon 4422-2.5) | Slightly more magnification | 8 |
-| Eyeglass Holder (AF 176.530.24) | It's just a loop of spring steel wire that goes around your head, the ones that clip on your glasses look nice but can be more expensive; I tend to swap between depending how I'm feeling, eye glasses can get a little steamy too! | 5 |
+| Eyeglass Holder (Bergeon 5461) | It's just a loop of spring steel wire that goes around your head, the ones that clip on your glasses look nice but can be more expensive; I tend to swap between depending how I'm feeling, eye glasses can get a little steamy too! | 6 |
 | Case cushion (Bergeon 5395-75-N) | Treat yourself to a decent, large gel cushion | 15 |
 | TOTAL | | 38 |
 
@@ -67,23 +69,32 @@ Tidy up an old case and crystal.
 
 ## Lubricate
 
-This is a big old can of expensive oily worms. But let's get started with the basics, and just go for the smallest volume as you'll be using it sparingly. You can buy just the red and green but you might as well get the set. There's a bit of a knack to loading the oiler: kind of slow dip and then quick out; you just want the tip to be wet.
+This is a big old can of expensive oily worms. But let's get started with the basics, and just go for the smallest volume as you'll be using it sparingly. You can buy just the red and green oilers but you might as well get the set. There's a bit of a knack to loading the oiler: kind of slow dip and then quick out; you just want the tip to be wet.
 
 | Product | Description | Price |
 |---|---|---|
 | Light oil | For the quick wheels; e.g, Moebius 9010 | 20 |
 | Grease | For the high-friction metal-on-metal components; e.g, Moebius 8300 | 13 |
-| Bergeon pack of 4 | Oiler, fine (red) for the jewels; medium (green) for the grease | 12 |
+| Oilers, pack of 4 (Bergeon 30102-P4) | Red for the rubies; green for the grease | 12 |
 | Total | | 45 |
 
 ## Stem cutting
 
 | Product | Description | Price |
 |---|---|---|
-| Nippers | You can cut the stem with regular pliers but you'll make a better job of it with end cutters | 10 |
-| Emery sticks (assorted) | To refine the cut stem, you can get away 800 grit paper | 7 |
+| Nippers (C49671) | You can cut the stem with regular pliers but you'll make a better job of it with end cutters | 10 |
+| Emery sticks (E33809) | To refine the cut stem, you can get away 800 grit paper | 7 |
 | Pin vice | To hold the stem when you're polishing it | 4 |
 | Total | | 21 |
+
+## Additional
+
+Non-essentials, but these might improve your workflow when you start getting into it.
+
+| Product | Description | Price |
+|-|-|-|
+| Dumoxel Non Magnetic Tweezers with Boxwood Tips | Not a replacement for really fiddly work, but a luxury for hands/dials and pingy things | 50 |
+| Loctite 222 | Screwlock | 12 |
 
 ## The next level
 
