@@ -76,7 +76,7 @@ But are sold out now so tough.
 ### Low- to mid-priced
 
 - [Gleave London](https://gleave.london/straps/)
-- [Barton](https://www.bartonwatchbands.com/) (also Horween leather)
+- [Barton](https://www.bartonwatchbands.com/): also Horween leather; sailcloth looks cool but takes a little wearing in
 - [Welwyn](https://welwynwatchparts.co.uk/collections/leather-straps)
 
 ### Mid-priced
@@ -88,11 +88,11 @@ But are sold out now so tough.
 
 ### Mid- to high-priced
 
+- [Hirsch](https://www.hirschstraps.com/) -- these are great, I have a couple
 - [Strap Tailor](https://thestraptailor.com/)
 - [Delug](https://delugs.com/)
 - [Monstraps](https://monstraps.com/)
 - [Watch Gecko](https://www.watchgecko.com/)
-- [Hirsch](https://www.hirschstraps.com/) (I've got a couple of these)
 
 ### High-priced
 
