@@ -91,6 +91,10 @@ Something that cost me a lot of time and frustration is flicking a case clamp de
 
 You can spend quite a bit on wood-tipped tweezers, and while they do give you a little more ping protection and safety handling dials, you're still going to need metal ones for fine work. So I think they're a complementary addition to your toolbox rather then essential (certainly for a beginner).
 
+## Caseback
+
+The squishy ball usually does me fine but sometimes you cannot budge them without a Jacot tool. Bergeon are very expensive but Vevor do a [cheaper option](https://uk.vevor.com/watch-repair-tools-c_10815/5700-bench-watch-case-opener-opering-tool-back-open-fixing-scientific-process-p_010845392924).
+
 ## Searching for new parts
 
 You can find part names by digging around on CousinsUK; e.g., for vintage Omega [case clamps](https://www.cousinsuk.com/sku/details/omega-case-clamps/ome5501911).
