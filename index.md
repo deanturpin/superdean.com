@@ -52,7 +52,7 @@ Now we're cooking: get the case back off and inspect the insides for any issues.
 
 - Rubber Case Ball (Bergeon 8008): squishy ball case back remover that works far better than you might think
 - Case knife: pen knife style and oyster shucker style; I generally prefer the oyster-style but it's good to have a choice
-- Rodico Premium (Bergeon 7033-1): for picking up dust and small components; useful for manipulating hands into position, a little Rodico on the end of a closed oil dropper is my go-to
+- Rodico Premium (Bergeon 7033-1): for picking up dust and small components; useful for manipulating hands into position (although frowned upon at the upper echelons): a little Rodico on the end of a closed oil dropper is my go-to, see [usage tips](https://watchmakingtools.com/how-to-use-rodico/)
 - Eyeglass/loupe 4x (Bergeon 4422-2.5): slightly more magnification
 - Eyeglass Holder (AF 176.530.24): it's just a loop of spring steel wire that goes around your head, the ones that clip on your glasses look nice but can be more expensive; I tend to swap between depending how I'm feeling, eye glasses can get a little steamy too!
 - Case cushion (Bergeon 5395-75-N): treat yourself to a decent, large gel cushion
@@ -64,7 +64,7 @@ This is getting serious... and you'll need quite a few more tools. But you will 
 - Movement Holder, Gents Size, Carbon Fibre (Bergeon 4040-P): essential and even the Bergeon ones are reasonably-priced
 - Tweezers (Idealtek Anti-Magnetic No. 7 Very Fine, Curved Tips): I actually got a job lot of tweezers on eBay but these curved tipped ones are my favourite
 - Latex ESD Finger Protection Thimble Cots Large, Pack Of 144 (Bergeon 7968-18): the sizing of these is a bit of a mystery, I've never thought I had particularly big hands but anything smaller than large is unbearable and even they are a little tight on the thumbs
-- Materials box / cloche: you will never have enough, it's good to use a whole box for a complete build or spares of the same movement
+- [Materials box](https://www.cousinsuk.com/product/trays-watch-disassembly-assembly-swiss) / cloche: you will never have enough, it's good to use a whole box for a complete build or spares of the same movement
 - Screwdriver with blades white 0.6mm (Bergeon 30080)
 - Screwdriver with blades yellow 0.8mm
 - Screwdriver with blades red 1.2mm
