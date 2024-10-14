@@ -6,6 +6,18 @@ We are a collection of like-minded collectors, with a shared enthusiasm for the 
 
 ![Molniya 3602 front](molniya_3602_front.jpg)
 
+<ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<ul>
+  {% for page in site.pages %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
+
 ## Tools
 
 There are myriad tools to streamline your workflow, I've listed them in order so you can add more as you progress; and tools can be resold quite easily if you've gone far enough to scratch the itch.
