@@ -1,6 +1,6 @@
 title: "The Brighton Watch"
 description: "superdean.com"
-theme: jekyll-theme-architect
+theme: jekyll-theme-minima
 markdown: kramdown
 kramdown:
   input: GFM
