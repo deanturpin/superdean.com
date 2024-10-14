@@ -6,6 +6,8 @@ We are a collection of like-minded collectors, with a shared enthusiasm for the 
 
 ![Molniya 3602 front](molniya_3602_front.jpg)
 
+## Index
+
 <ul>
   {% for post in site.posts %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
