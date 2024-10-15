@@ -4,9 +4,9 @@ title: "My Hidden Page"
 exclude_from_index: true
 ---
 
-See my [complete builds](complete.md) and what's on the bench [right now](builds.md).
+_See my [complete builds](complete.md) and what's on the bench [right now](builds.md)._
 
-We are a collection of like-minded collectors, with a shared enthusiasm for the preservation, promotion and pure pleasure of watches. Horology encompasses art, design, culture, history, jewellery, fashion, economics, mechanics and physics (amongst others). For those who haven't yet accepted their calling as a watchmaker, head over to the [collectors' page](collector.md).
+Horology encompasses art, design, culture, history, jewellery, fashion, economics, mechanics and physics (amongst others). For those who haven't yet accepted their calling as a watchmaker, head over to the [collectors' page](collector.md).
 
 ![Molniya 3602 front](molniya_3602_front.jpg)
 
