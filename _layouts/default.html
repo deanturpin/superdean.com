@@ -10,34 +10,36 @@
 
     <div class="shell">
       <header>
-      <span class="ribbon-outer">
-      <span class="ribbon-inner">
-      <h1>superdean.com</h1>
-      <!-- <h2>turpin.dev</h2> -->
-      </span>
-      <span class="left-tail"></span>
-      <span class="right-tail"></span>
-      </span>
+
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>superdean.com</h1>
+            <!-- <h2>turpin.dev</h2> -->
+          </span>
+
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <!-- </header> -->
+        <div id="no-downloads">
+        <span class="inner">
+        </span>
+
+        <!-- <h1>superdean.com</h1> -->
+        <nav>
+          <ul>
+            <!-- Loop through all pages in the site and list them -->
+            {% for page in site.pages %}
+              {% if page.title and page.exclude_from_index != true %}
+                <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </nav>
+
       </header>
-      <div id="no-downloads">
-      <span class="inner">
-      </span>
     </div>
     <span class="banner-fix"></span>
-
-    <header>
-      <h1>superdean.com</h1>
-      <nav>
-        <ul>
-          <!-- Loop through all pages in the site and list them -->
-          {% for page in site.pages %}
-            {% if page.title and page.exclude_from_index != true %}
-              <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
-    </header>
 
     <!-- Main Content Section -->
     <main>
