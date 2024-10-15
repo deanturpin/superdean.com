@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <!-- <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}"> -->
+  </head>
+  <body>
+    <header>
+      <h1>superdean.com</h1>
+      <nav>
+        <ul>
+          <!-- Loop through all pages in the site and list them -->
+          {% for page in site.pages %}
+            {% if page.title %}
+              <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+      {{ content }}
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+      <p>&copy; {{ site.time | date: "%Y" }} superdean.com</p>
+    </footer>
+  </body>
+</html>
