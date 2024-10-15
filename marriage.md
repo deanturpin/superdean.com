@@ -1,4 +1,7 @@
-# Marriage watches
+---
+layout: default
+title: "Marriage watches"
+---
 
 If you want to fit a movement in a non-standard case and make use of a perfectly good old movement.
 

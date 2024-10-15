@@ -1,5 +1,3 @@
-# Complete
-
 Finished builds and required tools.
 
 ## ST3600: 月亮 "Yuèliàng" ("The Moon") [27 Feb 2024]
