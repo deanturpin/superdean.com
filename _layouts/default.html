@@ -13,7 +13,7 @@
         <ul>
           <!-- Loop through all pages in the site and list them -->
           {% for page in site.pages %}
-            {% if page.title %}
+            {% if page.title and page.exclude_from_index != true %}
               <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
