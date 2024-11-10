@@ -17,6 +17,7 @@
 ## Websites
 
 - [Ranfft](https://ranfft.org/caliber/index) calibre database
+- [History of A. Lange & Söhne](https://monochrome-watches.com/in-depth-ultimate-guide-to-the-a-lange-sohne-lange-1-collection-incl-video/)
 
 ## YouTube channels
 
