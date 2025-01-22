@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "My Hidden Page"
-exclude_from_index: true
 ---
 
 See my [complete builds](complete.md) and what's on the bench [right now](builds.md); you might also be interested in [marriage watches](marriage.md).
@@ -86,5 +85,5 @@ This is getting serious... and you'll need quite a few more tools. But you will 
 
 ### The next level
 
-Take it to the next level by repairing and servicing your own watches; but know this: the rabbit hole goes _deep_... see where to go next in [watchmaker's resources](watchmaker.md#clean).
+Take it to the next level by repairing and servicing your own watches; but know this: the rabbit hole goes [_deep_](watchmaker.md)...
 

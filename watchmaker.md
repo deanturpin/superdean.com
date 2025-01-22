@@ -1,6 +1,6 @@
 # Watchmaker resources
 
-"Do better if possible and that is always possible.": François-Constantin to Jacques-Barthélémi Vacheron
+"Do better if possible and that is always possible" -- François-Constantin to Jacques-Barthélémi Vacheron
 
 ![Exploded view of a movement](mech.jpg)
 
