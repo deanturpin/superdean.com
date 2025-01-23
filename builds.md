@@ -25,6 +25,7 @@ I'm missing my diver and there's some interest in commissions. So...
 - [Stealth NH35](https://www.ebay.co.uk/itm/126001068891?hash=item1d563fbb5b:g:x1QAAOSweS9krQsT)
 - [NH35 full lume](https://www.ebay.co.uk/itm/186045140367)
 - [Black sailcloth strap with quick release](https://www.bartonwatchbands.com/products/black-sailcloth-quick-release?variant=21395996213302)
+- [Silver case](https://www.dlwwatches.com/products/case-srpe-s5-vintage-brushed-steel-with-case-back)
 
 ## ST36 skeleton
 
