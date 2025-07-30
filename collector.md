@@ -5,7 +5,6 @@
 Firstly, welcome! Some important brands that you may not know about if you're just thinking about getting your feet wet.
 
 - [Christopher Ward](https://www.christopherward.com/): the posterboy of British watchmaking, for the most part mass produced, but have elevated themselves by making Swiss design more attainanble and some collaborations with very high-end watchmakers
-
 - [Grand Seiko](https://www.grand-seiko.com/): big brother to the well-known Seiko brand, offering high-tech movements and accuracy alongside stunning dials
 
 ## Micro brands
