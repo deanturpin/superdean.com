@@ -1,11 +1,6 @@
----
-layout: default
-title: "My Hidden Page"
----
 
 See my [complete builds](complete.md) and what's on the bench [right now](builds.md); you might also be interested in [marriage watches](marriage.md).
 
----
 
 Horology encompasses art, design, culture, history, jewellery, fashion, economics, mechanics and physics (amongst others). For those who haven't yet accepted their calling as a watchmaker, head over to the [collectors' page](collector.md).
 
