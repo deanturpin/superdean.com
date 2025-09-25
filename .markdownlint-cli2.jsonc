@@ -1,0 +1,59 @@
+{
+  // Configuration for markdownlint-cli2
+  "config": {
+    // Disable some rules that are too strict for content-focused sites
+    "MD013": false, // Line length - allow long lines for readability
+    "MD033": false, // Allow inline HTML (useful for images and styling)
+    "MD041": false, // First line in file should be a top level header (not always needed)
+    "MD026": false, // Allow trailing punctuation in headers
+    "MD034": false, // Allow bare URLs
+    "MD036": false, // Emphasis used instead of header (allows emphasis for styling)
+
+    // Keep these rules enabled for consistency
+    "MD001": true,  // Header levels should increment by one level at a time
+    "MD003": true,  // Header style consistency
+    "MD004": true,  // Unordered list style consistency
+    "MD005": true,  // Inconsistent indentation for list items
+    "MD007": true,  // Unordered list indentation
+    "MD009": true,  // Trailing spaces
+    "MD010": true,  // Hard tabs
+    "MD011": true,  // Reversed link syntax
+    "MD012": true,  // Multiple consecutive blank lines
+    "MD018": true,  // No space after hash on atx style header
+    "MD019": true,  // Multiple spaces after hash on atx style header
+    "MD020": true,  // No space inside hashes on closed atx style header
+    "MD021": true,  // Multiple spaces inside hashes on closed atx style header
+    "MD022": true,  // Headers should be surrounded by blank lines
+    "MD023": true,  // Headers must start at the beginning of the line
+    "MD024": true,  // Multiple headers with the same content
+    "MD025": true,  // Multiple top level headers in the same document
+    "MD027": true,  // Multiple spaces after blockquote symbol
+    "MD028": true,  // Blank line inside blockquote
+    "MD029": true,  // Ordered list item prefix
+    "MD030": true,  // Spaces after list markers
+    "MD031": true,  // Fenced code blocks should be surrounded by blank lines
+    "MD032": true,  // Lists should be surrounded by blank lines
+    "MD037": true,  // Spaces inside emphasis markers
+    "MD038": true,  // Spaces inside code span elements
+    "MD039": true,  // Spaces inside link text
+    "MD040": true,  // Fenced code blocks should have a language specified
+    "MD042": true,  // No empty links
+    "MD043": false, // Required header structure (too restrictive)
+    "MD044": true,  // Proper names should have the correct capitalisation
+    "MD045": true,  // Images should have alternate text (alt text)
+    "MD046": true,  // Code block style consistency
+    "MD047": true,  // Files should end with a single newline character
+    "MD048": true,  // Code fence style consistency
+    "MD049": true,  // Emphasis style consistency
+    "MD050": true,  // Strong style consistency
+    "MD051": true,  // Link fragments should be valid
+    "MD052": true,  // Reference links and images should use a label that is defined
+    "MD053": true   // Link and image reference definitions should be needed
+  },
+
+  // Ignore patterns
+  "ignores": [
+    "**/node_modules/**",
+    "**/site/**"
+  ]
+}
